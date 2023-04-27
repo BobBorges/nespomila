@@ -20,4 +20,9 @@ Unless otherwise noted, all files are released under CC BY License.
 
 ## What's here?
 
-*Nothing* just now, but stay tuned...
+This will eventually be a host repository for everything related to the NESPOMILA project. Currently I'm carefully looking through he data to ensure research participants' privacy is respected
+
+
+### Scripts
+
+There are various scripts, python, shell, R and who knows what else. As an archive repository, the file / directory structures may differ from our actual working environment, so check path info in relation to actual paths on your machine if you want to reuse anything you find here.
