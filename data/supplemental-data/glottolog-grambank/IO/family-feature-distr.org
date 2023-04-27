@@ -1,0 +1,5621 @@
+* Families:
+	Austronesian
+
+	Atlantic-Congo
+
+	Sino-Tibetan
+
+	Indo-European
+
+	Afro-Asiatic
+
+	Pama-Nyungan
+
+
+
+
+* GB070 Are there morphological cases for non-pronominal core arguments (i.e. S, A or P)?
+** Austronesian GB070
+0.0    556
+1.0     64
+Name: count, dtype: int64
+*** ----> Malayo-Polynesian GB070
+0.0    545
+1.0     58
+Name: count, dtype: int64
+**** --------> Bima-Lembata GB070
+0.0    16
+Name: count, dtype: int64
+**** --------> Central Luzon GB070
+0.0    3
+1.0    2
+Name: count, dtype: int64
+**** --------> Basap-Greater Barito GB070
+0.0    12
+1.0     2
+Name: count, dtype: int64
+**** --------> Eastern Malayo-Polynesian GB070
+0.0    311
+1.0     20
+Name: count, dtype: int64
+**** --------> Tanimbar-Bomberai GB070
+0.0    2
+Name: count, dtype: int64
+**** --------> North Borneo Malayo-Polynesian GB070
+0.0    22
+1.0     5
+Name: count, dtype: int64
+**** --------> Greater Central Philippine GB070
+0.0    32
+1.0    11
+Name: count, dtype: int64
+**** --------> Malayo-Sumbawan GB070
+0.0    39
+1.0     1
+Name: count, dtype: int64
+**** --------> Celebic GB070
+0.0    20
+1.0     1
+Name: count, dtype: int64
+**** --------> Northern Luzon GB070
+0.0    19
+1.0    10
+Name: count, dtype: int64
+**** --------> Greater Seram Laut GB070
+0.0    3
+Name: count, dtype: int64
+**** --------> Land Dayak GB070
+0.0    5
+Name: count, dtype: int64
+**** --------> Timor-Babar GB070
+0.0    16
+Name: count, dtype: int64
+**** --------> Batanic GB070
+1.0    2
+0.0    1
+Name: count, dtype: int64
+**** --------> Nunusaku GB070
+0.0    7
+Name: count, dtype: int64
+**** --------> Northwest Sumatra-Barrier Islands GB070
+0.0    6
+1.0    2
+Name: count, dtype: int64
+**** --------> South Sulawesi GB070
+0.0    6
+Name: count, dtype: int64
+**** --------> Javanesic GB070
+0.0    5
+Name: count, dtype: int64
+**** --------> Aru GB070
+0.0    2
+Name: count, dtype: int64
+**** --------> Minahasan GB070
+0.0    1
+Name: count, dtype: int64
+**** --------> Kalamian GB070
+0.0    1
+Name: count, dtype: int64
+**** --------> Central Timor GB070
+0.0    2
+Name: count, dtype: int64
+**** --------> Moken-Moklen GB070
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Tolitoli GB070
+0.0    1
+Name: count, dtype: int64
+**** --------> Bilic GB070
+0.0    2
+1.0    1
+Name: count, dtype: int64
+**** --------> Lampungic GB070
+0.0    1
+Name: count, dtype: int64
+**** --------> Sangiric GB070
+0.0    2
+1.0    1
+Name: count, dtype: int64
+**** --------> West Central Maluku GB070
+0.0    2
+Name: count, dtype: int64
+**** --------> North Mangyan GB070
+0.0    1
+Name: count, dtype: int64
+*** ----> East Formosan GB070
+0.0    3
+1.0    2
+Name: count, dtype: int64
+**** --------> Northern East Formosan GB070
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Central East Formosan GB070
+1.0    2
+Name: count, dtype: int64
+*** ----> nan Series([], Name: count, dtype: int64)
+*** ----> Northwest Formosan GB070
+0.0    1
+1.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Tsouic GB070
+0.0    2
+1.0    1
+Name: count, dtype: int64
+**** --------> Kanakanavu-Saaroa GB070
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Atayalic GB070
+0.0    1
+1.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Western Plains Austronesian GB070
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Atlantic-Congo GB070
+0.0    298
+1.0     10
+Name: count, dtype: int64
+*** ----> Volta-Congo GB070
+0.0    278
+1.0     10
+Name: count, dtype: int64
+**** --------> Benue-Congo GB070
+0.0    211
+1.0      5
+Name: count, dtype: int64
+**** --------> North Volta-Congo GB070
+0.0    48
+1.0     4
+Name: count, dtype: int64
+**** --------> Kwa Volta-Congo GB070
+0.0    16
+1.0     1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Unclassified Volta-Congo GB070
+0.0    2
+Name: count, dtype: int64
+*** ----> North-Central Atlantic GB070
+0.0    11
+Name: count, dtype: int64
+**** --------> Wolof-BKK GB070
+0.0    2
+Name: count, dtype: int64
+**** --------> Cangin GB070
+0.0    1
+Name: count, dtype: int64
+**** --------> Central Atlantic GB070
+0.0    3
+Name: count, dtype: int64
+**** --------> Fula-Sereer GB070
+0.0    4
+Name: count, dtype: int64
+**** --------> Jaad GB070
+0.0    1
+Name: count, dtype: int64
+*** ----> Mel GB070
+0.0    8
+Name: count, dtype: int64
+**** --------> Northern Mel GB070
+0.0    4
+Name: count, dtype: int64
+**** --------> Southern Mel GB070
+0.0    4
+Name: count, dtype: int64
+*** ----> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Sino-Tibetan GB070
+1.0    129
+0.0     79
+Name: count, dtype: int64
+*** ----> Burmo-Qiangic GB070
+0.0    40
+1.0    14
+Name: count, dtype: int64
+**** --------> Lolo-Burmese GB070
+0.0    30
+1.0     6
+Name: count, dtype: int64
+**** --------> Na-Qiangic GB070
+0.0    9
+1.0    8
+Name: count, dtype: int64
+**** --------> Tujia GB070
+0.0    1
+Name: count, dtype: int64
+*** ----> Bodic GB070
+1.0    26
+0.0     2
+Name: count, dtype: int64
+**** --------> Bodish GB070
+1.0    14
+0.0     1
+Name: count, dtype: int64
+**** --------> West Himalayish GB070
+1.0    5
+0.0    1
+Name: count, dtype: int64
+**** --------> Kaike-Ghale-Tamangic GB070
+1.0    6
+Name: count, dtype: int64
+**** --------> Tshanglic GB070
+1.0    1
+Name: count, dtype: int64
+*** ----> Sinitic GB070
+0.0    10
+1.0     2
+Name: count, dtype: int64
+**** --------> Classical-Middle-Modern Sinitic GB070
+0.0    7
+1.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Min GB070
+0.0    2
+Name: count, dtype: int64
+*** ----> Kuki-Chin-Naga GB070
+1.0    36
+0.0     5
+Name: count, dtype: int64
+**** --------> Kuki-Chin GB070
+1.0    22
+0.0     4
+Name: count, dtype: int64
+**** --------> Angami-Ao GB070
+1.0    7
+Name: count, dtype: int64
+**** --------> Zemeic GB070
+1.0    4
+Name: count, dtype: int64
+**** --------> Tangkhul-Maring GB070
+1.0    3
+Name: count, dtype: int64
+**** --------> Karbic GB070
+0.0    1
+Name: count, dtype: int64
+*** ----> Himalayish GB070
+1.0    27
+0.0     1
+Name: count, dtype: int64
+**** --------> Mahakiranti GB070
+1.0    27
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Macro-Bai GB070
+0.0    3
+Name: count, dtype: int64
+**** --------> Baic GB070
+0.0    3
+Name: count, dtype: int64
+*** ----> Dhimalish GB070
+0.0    1
+1.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Digarish GB070
+1.0    1
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Raji-Raute GB070
+1.0    2
+Name: count, dtype: int64
+**** --------> Raute-Rawat GB070
+1.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Brahmaputran GB070
+1.0    11
+0.0     3
+Name: count, dtype: int64
+**** --------> Konyak GB070
+0.0    2
+1.0    2
+Name: count, dtype: int64
+**** --------> Bodo-Garo GB070
+1.0    6
+Name: count, dtype: int64
+**** --------> Jingpho-Luish GB070
+1.0    3
+0.0    1
+Name: count, dtype: int64
+*** ----> Macro-Tani GB070
+1.0    6
+0.0    1
+Name: count, dtype: int64
+**** --------> Tani GB070
+1.0    5
+0.0    1
+Name: count, dtype: int64
+**** --------> Koro-Holon GB070
+1.0    1
+Name: count, dtype: int64
+*** ----> Miji GB070
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Kho-Bwa GB070
+1.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Western Kho-Bwa GB070
+1.0    1
+Name: count, dtype: int64
+**** --------> Puroikic GB070
+1.0    1
+Name: count, dtype: int64
+*** ----> Mruic GB070
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Karenic GB070
+0.0    7
+Name: count, dtype: int64
+**** --------> Central Karen GB070
+0.0    2
+Name: count, dtype: int64
+**** --------> Northern Karen GB070
+0.0    3
+Name: count, dtype: int64
+**** --------> Southern Karen GB070
+0.0    1
+Name: count, dtype: int64
+**** --------> Peripheral Karen GB070
+0.0    1
+Name: count, dtype: int64
+*** ----> Kman-Meyor GB070
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Nungish GB070
+1.0    1
+0.0    1
+Name: count, dtype: int64
+**** --------> Gunong GB070
+1.0    1
+0.0    1
+Name: count, dtype: int64
+
+
+==============================
+
+
+** Indo-European GB070
+1.0    113
+0.0     59
+Name: count, dtype: int64
+*** ----> Classical Indo-European GB070
+1.0    111
+0.0     59
+Name: count, dtype: int64
+**** --------> Indo-Iranian GB070
+1.0    72
+0.0     7
+Name: count, dtype: int64
+**** --------> Italic GB070
+0.0    21
+1.0     6
+Name: count, dtype: int64
+**** --------> Graeco-Phrygian GB070
+1.0    4
+Name: count, dtype: int64
+**** --------> Balto-Slavic GB070
+1.0    14
+Name: count, dtype: int64
+**** --------> Armenic GB070
+1.0    3
+Name: count, dtype: int64
+**** --------> Germanic GB070
+0.0    27
+1.0     7
+Name: count, dtype: int64
+**** --------> Tokharian GB070
+1.0    2
+Name: count, dtype: int64
+**** --------> Albanian GB070
+1.0    3
+Name: count, dtype: int64
+**** --------> Celtic GB070
+0.0    4
+Name: count, dtype: int64
+*** ----> Anatolian GB070
+1.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Luvo-Lydian GB070
+1.0    1
+Name: count, dtype: int64
+
+
+==============================
+
+
+** Afro-Asiatic GB070
+0.0    84
+1.0    36
+Name: count, dtype: int64
+*** ----> Chadic GB070
+0.0    48
+1.0     2
+Name: count, dtype: int64
+**** --------> Biu-Mandara GB070
+0.0    25
+Name: count, dtype: int64
+**** --------> West Chadic GB070
+0.0    18
+1.0     1
+Name: count, dtype: int64
+**** --------> Masa GB070
+0.0    2
+Name: count, dtype: int64
+**** --------> East Chadic GB070
+0.0    3
+1.0    1
+Name: count, dtype: int64
+*** ----> Cushitic GB070
+1.0    20
+0.0     6
+Name: count, dtype: int64
+**** --------> South Cushitic GB070
+0.0    3
+Name: count, dtype: int64
+**** --------> East Cushitic GB070
+1.0    16
+0.0     3
+Name: count, dtype: int64
+**** --------> Agaw GB070
+1.0    3
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Semitic GB070
+0.0    23
+1.0    11
+Name: count, dtype: int64
+**** --------> West Semitic GB070
+0.0    23
+1.0    10
+Name: count, dtype: int64
+**** --------> East Semitic GB070
+1.0    1
+Name: count, dtype: int64
+*** ----> Berber GB070
+0.0    6
+1.0    3
+Name: count, dtype: int64
+**** --------> Tuareg GB070
+1.0    3
+0.0    1
+Name: count, dtype: int64
+**** --------> Kabyle-Atlas Berber GB070
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Greater Zenatic GB070
+0.0    2
+Name: count, dtype: int64
+*** ----> Egyptian GB070
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Pama-Nyungan GB070
+1.0    77
+0.0     1
+Name: count, dtype: int64
+*** ----> Paman GB070
+1.0    5
+Name: count, dtype: int64
+**** --------> Alaya-Athima GB070
+1.0    2
+Name: count, dtype: int64
+**** --------> Compromise Middle Pama GB070
+1.0    1
+Name: count, dtype: int64
+**** --------> Northern Pama GB070
+1.0    1
+Name: count, dtype: int64
+**** --------> Southwest Pama Series([], Name: count, dtype: int64)
+**** --------> Mayabic GB070
+1.0    1
+Name: count, dtype: int64
+*** ----> South-West Pama-Nyungan GB070
+1.0    8
+Name: count, dtype: int64
+**** --------> Pilbara GB070
+1.0    6
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Kartu-Nhanda GB070
+1.0    1
+Name: count, dtype: int64
+*** ----> Desert Nyungic GB070
+1.0    14
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Wati GB070
+1.0    6
+Name: count, dtype: int64
+**** --------> Ngumpin-Yapa GB070
+1.0    7
+Name: count, dtype: int64
+**** --------> Marrngu GB070
+1.0    1
+Name: count, dtype: int64
+*** ----> Southeastern Pama-Nyungan GB070
+1.0    13
+0.0     1
+Name: count, dtype: int64
+**** --------> Victorian Pama-Nyungan GB070
+1.0    2
+0.0    1
+Name: count, dtype: int64
+**** --------> North Coast Pama-Nyungan GB070
+1.0    4
+Name: count, dtype: int64
+**** --------> New South Wales Pama-Nyungan GB070
+1.0    5
+Name: count, dtype: int64
+**** --------> Wiradhuric GB070
+1.0    2
+Name: count, dtype: int64
+*** ----> Greater Maric GB070
+1.0    6
+Name: count, dtype: int64
+**** --------> Guwa-Maric GB070
+1.0    6
+Name: count, dtype: int64
+*** ----> Karnic GB070
+1.0    4
+Name: count, dtype: int64
+**** --------> Badjiri-Eastern Karnic GB070
+1.0    1
+Name: count, dtype: int64
+**** --------> Central Karnic GB070
+1.0    1
+Name: count, dtype: int64
+**** --------> Palku GB070
+1.0    2
+Name: count, dtype: int64
+*** ----> Arandic-Thura-Yura GB070
+1.0    7
+Name: count, dtype: int64
+**** --------> Arandic GB070
+1.0    3
+Name: count, dtype: int64
+**** --------> Thura-Yura GB070
+1.0    4
+Name: count, dtype: int64
+*** ----> Ngarna GB070
+1.0    2
+Name: count, dtype: int64
+**** --------> Southern Ngarna GB070
+1.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Yuulngu GB070
+1.0    5
+Name: count, dtype: int64
+**** --------> Southern Yolngu GB070
+1.0    4
+Name: count, dtype: int64
+**** --------> Western-Inland Yolngu GB070
+1.0    1
+Name: count, dtype: int64
+*** ----> Yimidhirr-Yalanji-Yidinic GB070
+1.0    3
+Name: count, dtype: int64
+**** --------> Yidinic GB070
+1.0    1
+Name: count, dtype: int64
+**** --------> Yalandyic GB070
+1.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> nan Series([], Name: count, dtype: int64)
+*** ----> Macleay-New England GB070
+1.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Kalkatungic GB070
+1.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Yarli-Baagandji GB070
+1.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Nyawaygic GB070
+1.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Ganaic GB070
+1.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Rockhampton-Gladstone GB070
+1.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+
+
+
+* GB051 Is there a noun class/gender system where masculine and feminine categories are a factor in class assignment?
+** Austronesian GB051
+0.0    542
+1.0      4
+Name: count, dtype: int64
+*** ----> Malayo-Polynesian GB051
+0.0    528
+1.0      4
+Name: count, dtype: int64
+**** --------> Bima-Lembata GB051
+0.0    16
+Name: count, dtype: int64
+**** --------> Central Luzon GB051
+0.0    6
+Name: count, dtype: int64
+**** --------> Basap-Greater Barito GB051
+0.0    13
+Name: count, dtype: int64
+**** --------> Eastern Malayo-Polynesian GB051
+0.0    284
+1.0      2
+Name: count, dtype: int64
+**** --------> Tanimbar-Bomberai GB051
+0.0    2
+Name: count, dtype: int64
+**** --------> North Borneo Malayo-Polynesian GB051
+0.0    23
+Name: count, dtype: int64
+**** --------> Greater Central Philippine GB051
+0.0    36
+1.0     2
+Name: count, dtype: int64
+**** --------> Malayo-Sumbawan GB051
+0.0    38
+Name: count, dtype: int64
+**** --------> Celebic GB051
+0.0    16
+Name: count, dtype: int64
+**** --------> Northern Luzon GB051
+0.0    26
+Name: count, dtype: int64
+**** --------> Greater Seram Laut GB051
+0.0    2
+Name: count, dtype: int64
+**** --------> Land Dayak GB051
+0.0    4
+Name: count, dtype: int64
+**** --------> Timor-Babar GB051
+0.0    14
+Name: count, dtype: int64
+**** --------> Batanic GB051
+0.0    3
+Name: count, dtype: int64
+**** --------> Nunusaku GB051
+0.0    7
+Name: count, dtype: int64
+**** --------> Northwest Sumatra-Barrier Islands GB051
+0.0    7
+Name: count, dtype: int64
+**** --------> South Sulawesi GB051
+0.0    5
+Name: count, dtype: int64
+**** --------> Javanesic GB051
+0.0    3
+Name: count, dtype: int64
+**** --------> Aru GB051
+0.0    2
+Name: count, dtype: int64
+**** --------> Minahasan GB051
+0.0    2
+Name: count, dtype: int64
+**** --------> Kalamian GB051
+0.0    1
+Name: count, dtype: int64
+**** --------> Central Timor GB051
+0.0    2
+Name: count, dtype: int64
+**** --------> Moken-Moklen GB051
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Tolitoli GB051
+0.0    1
+Name: count, dtype: int64
+**** --------> Bilic GB051
+0.0    3
+Name: count, dtype: int64
+**** --------> Lampungic GB051
+0.0    1
+Name: count, dtype: int64
+**** --------> Sangiric GB051
+0.0    3
+Name: count, dtype: int64
+**** --------> West Central Maluku GB051
+0.0    2
+Name: count, dtype: int64
+**** --------> North Mangyan GB051
+0.0    1
+Name: count, dtype: int64
+*** ----> East Formosan GB051
+0.0    5
+Name: count, dtype: int64
+**** --------> Northern East Formosan GB051
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Central East Formosan GB051
+0.0    2
+Name: count, dtype: int64
+*** ----> nan Series([], Name: count, dtype: int64)
+*** ----> Northwest Formosan GB051
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Tsouic GB051
+0.0    3
+Name: count, dtype: int64
+**** --------> Kanakanavu-Saaroa GB051
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Atayalic GB051
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Western Plains Austronesian GB051
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Atlantic-Congo GB051
+0.0    302
+1.0      8
+Name: count, dtype: int64
+*** ----> Volta-Congo GB051
+0.0    285
+1.0      6
+Name: count, dtype: int64
+**** --------> Benue-Congo GB051
+0.0    213
+1.0      6
+Name: count, dtype: int64
+**** --------> North Volta-Congo GB051
+0.0    54
+Name: count, dtype: int64
+**** --------> Kwa Volta-Congo GB051
+0.0    16
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Unclassified Volta-Congo GB051
+0.0    2
+Name: count, dtype: int64
+*** ----> North-Central Atlantic GB051
+0.0    10
+1.0     1
+Name: count, dtype: int64
+**** --------> Wolof-BKK GB051
+0.0    2
+Name: count, dtype: int64
+**** --------> Cangin GB051
+1.0    1
+Name: count, dtype: int64
+**** --------> Central Atlantic GB051
+0.0    3
+Name: count, dtype: int64
+**** --------> Fula-Sereer GB051
+0.0    4
+Name: count, dtype: int64
+**** --------> Jaad GB051
+0.0    1
+Name: count, dtype: int64
+*** ----> Mel GB051
+0.0    6
+1.0    1
+Name: count, dtype: int64
+**** --------> Northern Mel GB051
+0.0    2
+1.0    1
+Name: count, dtype: int64
+**** --------> Southern Mel GB051
+0.0    4
+Name: count, dtype: int64
+*** ----> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Sino-Tibetan GB051
+0.0    202
+1.0     11
+Name: count, dtype: int64
+*** ----> Burmo-Qiangic GB051
+0.0    53
+1.0     1
+Name: count, dtype: int64
+**** --------> Lolo-Burmese GB051
+0.0    34
+1.0     1
+Name: count, dtype: int64
+**** --------> Na-Qiangic GB051
+0.0    18
+Name: count, dtype: int64
+**** --------> Tujia GB051
+0.0    1
+Name: count, dtype: int64
+*** ----> Bodic GB051
+0.0    27
+1.0     1
+Name: count, dtype: int64
+**** --------> Bodish GB051
+0.0    14
+1.0     1
+Name: count, dtype: int64
+**** --------> West Himalayish GB051
+0.0    6
+Name: count, dtype: int64
+**** --------> Kaike-Ghale-Tamangic GB051
+0.0    6
+Name: count, dtype: int64
+**** --------> Tshanglic GB051
+0.0    1
+Name: count, dtype: int64
+*** ----> Sinitic GB051
+0.0    13
+Name: count, dtype: int64
+**** --------> Classical-Middle-Modern Sinitic GB051
+0.0    10
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Min GB051
+0.0    2
+Name: count, dtype: int64
+*** ----> Kuki-Chin-Naga GB051
+0.0    38
+1.0     3
+Name: count, dtype: int64
+**** --------> Kuki-Chin GB051
+0.0    23
+1.0     2
+Name: count, dtype: int64
+**** --------> Angami-Ao GB051
+0.0    7
+Name: count, dtype: int64
+**** --------> Zemeic GB051
+0.0    4
+Name: count, dtype: int64
+**** --------> Tangkhul-Maring GB051
+0.0    3
+Name: count, dtype: int64
+**** --------> Karbic GB051
+0.0    1
+1.0    1
+Name: count, dtype: int64
+*** ----> Himalayish GB051
+0.0    25
+1.0     3
+Name: count, dtype: int64
+**** --------> Mahakiranti GB051
+0.0    24
+1.0     3
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Macro-Bai GB051
+0.0    3
+Name: count, dtype: int64
+**** --------> Baic GB051
+0.0    3
+Name: count, dtype: int64
+*** ----> Dhimalish GB051
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Digarish GB051
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Raji-Raute GB051
+0.0    2
+Name: count, dtype: int64
+**** --------> Raute-Rawat GB051
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Brahmaputran GB051
+0.0    13
+1.0     1
+Name: count, dtype: int64
+**** --------> Konyak GB051
+0.0    3
+1.0    1
+Name: count, dtype: int64
+**** --------> Bodo-Garo GB051
+0.0    6
+Name: count, dtype: int64
+**** --------> Jingpho-Luish GB051
+0.0    4
+Name: count, dtype: int64
+*** ----> Macro-Tani GB051
+0.0    7
+1.0    1
+Name: count, dtype: int64
+**** --------> Tani GB051
+0.0    6
+1.0    1
+Name: count, dtype: int64
+**** --------> Koro-Holon GB051
+0.0    1
+Name: count, dtype: int64
+*** ----> Miji GB051
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Kho-Bwa GB051
+0.0    3
+1.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Western Kho-Bwa GB051
+0.0    2
+Name: count, dtype: int64
+**** --------> Puroikic GB051
+0.0    1
+Name: count, dtype: int64
+*** ----> Mruic GB051
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Karenic GB051
+0.0    7
+Name: count, dtype: int64
+**** --------> Central Karen GB051
+0.0    2
+Name: count, dtype: int64
+**** --------> Northern Karen GB051
+0.0    3
+Name: count, dtype: int64
+**** --------> Southern Karen GB051
+0.0    1
+Name: count, dtype: int64
+**** --------> Peripheral Karen GB051
+0.0    1
+Name: count, dtype: int64
+*** ----> Kman-Meyor GB051
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Nungish GB051
+0.0    2
+Name: count, dtype: int64
+**** --------> Gunong GB051
+0.0    2
+Name: count, dtype: int64
+
+
+==============================
+
+
+** Indo-European GB051
+1.0    120
+0.0     55
+Name: count, dtype: int64
+*** ----> Classical Indo-European GB051
+1.0    120
+0.0     53
+Name: count, dtype: int64
+**** --------> Indo-Iranian GB051
+1.0    53
+0.0    28
+Name: count, dtype: int64
+**** --------> Italic GB051
+1.0    27
+0.0     1
+Name: count, dtype: int64
+**** --------> Graeco-Phrygian GB051
+1.0    4
+Name: count, dtype: int64
+**** --------> Balto-Slavic GB051
+1.0    14
+Name: count, dtype: int64
+**** --------> Armenic GB051
+0.0    3
+Name: count, dtype: int64
+**** --------> Germanic GB051
+0.0    20
+1.0    14
+Name: count, dtype: int64
+**** --------> Tokharian GB051
+1.0    1
+0.0    1
+Name: count, dtype: int64
+**** --------> Albanian GB051
+1.0    3
+Name: count, dtype: int64
+**** --------> Celtic GB051
+1.0    4
+Name: count, dtype: int64
+*** ----> Anatolian GB051
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Luvo-Lydian GB051
+0.0    1
+Name: count, dtype: int64
+
+
+==============================
+
+
+** Afro-Asiatic GB051
+1.0    83
+0.0    38
+Name: count, dtype: int64
+*** ----> Chadic GB051
+0.0    28
+1.0    21
+Name: count, dtype: int64
+**** --------> Biu-Mandara GB051
+0.0    17
+1.0     8
+Name: count, dtype: int64
+**** --------> West Chadic GB051
+1.0    10
+0.0     8
+Name: count, dtype: int64
+**** --------> Masa GB051
+0.0    2
+Name: count, dtype: int64
+**** --------> East Chadic GB051
+1.0    3
+0.0    1
+Name: count, dtype: int64
+*** ----> Cushitic GB051
+1.0    23
+0.0     4
+Name: count, dtype: int64
+**** --------> South Cushitic GB051
+0.0    2
+1.0    1
+Name: count, dtype: int64
+**** --------> East Cushitic GB051
+1.0    18
+0.0     2
+Name: count, dtype: int64
+**** --------> Agaw GB051
+1.0    3
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Semitic GB051
+1.0    29
+0.0     5
+Name: count, dtype: int64
+**** --------> West Semitic GB051
+1.0    28
+0.0     5
+Name: count, dtype: int64
+**** --------> East Semitic GB051
+1.0    1
+Name: count, dtype: int64
+*** ----> Berber GB051
+1.0    9
+0.0    1
+Name: count, dtype: int64
+**** --------> Tuareg GB051
+1.0    4
+Name: count, dtype: int64
+**** --------> Kabyle-Atlas Berber GB051
+1.0    1
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Greater Zenatic GB051
+1.0    2
+Name: count, dtype: int64
+*** ----> Egyptian GB051
+1.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Pama-Nyungan GB051
+0.0    70
+1.0     5
+Name: count, dtype: int64
+*** ----> Paman GB051
+0.0    4
+Name: count, dtype: int64
+**** --------> Alaya-Athima GB051
+0.0    2
+Name: count, dtype: int64
+**** --------> Compromise Middle Pama GB051
+0.0    1
+Name: count, dtype: int64
+**** --------> Northern Pama Series([], Name: count, dtype: int64)
+**** --------> Southwest Pama Series([], Name: count, dtype: int64)
+**** --------> Mayabic GB051
+0.0    1
+Name: count, dtype: int64
+*** ----> South-West Pama-Nyungan GB051
+0.0    8
+Name: count, dtype: int64
+**** --------> Pilbara GB051
+0.0    6
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Kartu-Nhanda GB051
+0.0    1
+Name: count, dtype: int64
+*** ----> Desert Nyungic GB051
+0.0    17
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Wati GB051
+0.0    6
+Name: count, dtype: int64
+**** --------> Ngumpin-Yapa GB051
+0.0    8
+Name: count, dtype: int64
+**** --------> Marrngu GB051
+0.0    1
+Name: count, dtype: int64
+*** ----> Southeastern Pama-Nyungan GB051
+0.0    12
+1.0     2
+Name: count, dtype: int64
+**** --------> Victorian Pama-Nyungan GB051
+0.0    3
+Name: count, dtype: int64
+**** --------> North Coast Pama-Nyungan GB051
+0.0    4
+Name: count, dtype: int64
+**** --------> New South Wales Pama-Nyungan GB051
+0.0    3
+1.0    2
+Name: count, dtype: int64
+**** --------> Wiradhuric GB051
+0.0    2
+Name: count, dtype: int64
+*** ----> Greater Maric GB051
+0.0    7
+Name: count, dtype: int64
+**** --------> Guwa-Maric GB051
+0.0    7
+Name: count, dtype: int64
+*** ----> Karnic GB051
+0.0    3
+1.0    1
+Name: count, dtype: int64
+**** --------> Badjiri-Eastern Karnic GB051
+0.0    1
+Name: count, dtype: int64
+**** --------> Central Karnic GB051
+1.0    1
+Name: count, dtype: int64
+**** --------> Palku GB051
+0.0    2
+Name: count, dtype: int64
+*** ----> Arandic-Thura-Yura GB051
+0.0    7
+Name: count, dtype: int64
+**** --------> Arandic GB051
+0.0    3
+Name: count, dtype: int64
+**** --------> Thura-Yura GB051
+0.0    4
+Name: count, dtype: int64
+*** ----> Ngarna GB051
+0.0    1
+Name: count, dtype: int64
+**** --------> Southern Ngarna GB051
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Yuulngu GB051
+0.0    2
+Name: count, dtype: int64
+**** --------> Southern Yolngu GB051
+0.0    1
+Name: count, dtype: int64
+**** --------> Western-Inland Yolngu GB051
+0.0    1
+Name: count, dtype: int64
+*** ----> Yimidhirr-Yalanji-Yidinic GB051
+0.0    3
+Name: count, dtype: int64
+**** --------> Yidinic GB051
+0.0    1
+Name: count, dtype: int64
+**** --------> Yalandyic GB051
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> nan Series([], Name: count, dtype: int64)
+*** ----> Macleay-New England GB051
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Kalkatungic GB051
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Yarli-Baagandji GB051
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Nyawaygic GB051
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Ganaic Series([], Name: count, dtype: int64)
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Rockhampton-Gladstone Series([], Name: count, dtype: int64)
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+
+
+
+* GB052 Is there a noun class/gender system where shape is a factor in class assignment?
+** Austronesian GB052
+0.0    537
+1.0      8
+Name: count, dtype: int64
+*** ----> Malayo-Polynesian GB052
+0.0    523
+1.0      8
+Name: count, dtype: int64
+**** --------> Bima-Lembata GB052
+0.0    16
+Name: count, dtype: int64
+**** --------> Central Luzon GB052
+0.0    5
+Name: count, dtype: int64
+**** --------> Basap-Greater Barito GB052
+0.0    13
+Name: count, dtype: int64
+**** --------> Eastern Malayo-Polynesian GB052
+0.0    278
+1.0      7
+Name: count, dtype: int64
+**** --------> Tanimbar-Bomberai GB052
+0.0    2
+Name: count, dtype: int64
+**** --------> North Borneo Malayo-Polynesian GB052
+0.0    23
+Name: count, dtype: int64
+**** --------> Greater Central Philippine GB052
+0.0    38
+Name: count, dtype: int64
+**** --------> Malayo-Sumbawan GB052
+0.0    37
+1.0     1
+Name: count, dtype: int64
+**** --------> Celebic GB052
+0.0    17
+Name: count, dtype: int64
+**** --------> Northern Luzon GB052
+0.0    26
+Name: count, dtype: int64
+**** --------> Greater Seram Laut GB052
+0.0    2
+Name: count, dtype: int64
+**** --------> Land Dayak GB052
+0.0    4
+Name: count, dtype: int64
+**** --------> Timor-Babar GB052
+0.0    14
+Name: count, dtype: int64
+**** --------> Batanic GB052
+0.0    3
+Name: count, dtype: int64
+**** --------> Nunusaku GB052
+0.0    7
+Name: count, dtype: int64
+**** --------> Northwest Sumatra-Barrier Islands GB052
+0.0    7
+Name: count, dtype: int64
+**** --------> South Sulawesi GB052
+0.0    5
+Name: count, dtype: int64
+**** --------> Javanesic GB052
+0.0    3
+Name: count, dtype: int64
+**** --------> Aru GB052
+0.0    2
+Name: count, dtype: int64
+**** --------> Minahasan GB052
+0.0    2
+Name: count, dtype: int64
+**** --------> Kalamian GB052
+0.0    1
+Name: count, dtype: int64
+**** --------> Central Timor GB052
+0.0    2
+Name: count, dtype: int64
+**** --------> Moken-Moklen GB052
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Tolitoli GB052
+0.0    1
+Name: count, dtype: int64
+**** --------> Bilic GB052
+0.0    3
+Name: count, dtype: int64
+**** --------> Lampungic GB052
+0.0    1
+Name: count, dtype: int64
+**** --------> Sangiric GB052
+0.0    3
+Name: count, dtype: int64
+**** --------> West Central Maluku GB052
+0.0    2
+Name: count, dtype: int64
+**** --------> North Mangyan GB052
+0.0    1
+Name: count, dtype: int64
+*** ----> East Formosan GB052
+0.0    5
+Name: count, dtype: int64
+**** --------> Northern East Formosan GB052
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Central East Formosan GB052
+0.0    2
+Name: count, dtype: int64
+*** ----> nan Series([], Name: count, dtype: int64)
+*** ----> Northwest Formosan GB052
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Tsouic GB052
+0.0    3
+Name: count, dtype: int64
+**** --------> Kanakanavu-Saaroa GB052
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Atayalic GB052
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Western Plains Austronesian GB052
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Atlantic-Congo GB052
+0.0    236
+1.0     60
+Name: count, dtype: int64
+*** ----> Volta-Congo GB052
+0.0    226
+1.0     51
+Name: count, dtype: int64
+**** --------> Benue-Congo GB052
+0.0    163
+1.0     41
+Name: count, dtype: int64
+**** --------> North Volta-Congo GB052
+0.0    49
+1.0     6
+Name: count, dtype: int64
+**** --------> Kwa Volta-Congo GB052
+0.0    12
+1.0     4
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Unclassified Volta-Congo GB052
+0.0    2
+Name: count, dtype: int64
+*** ----> North-Central Atlantic GB052
+1.0    9
+0.0    2
+Name: count, dtype: int64
+**** --------> Wolof-BKK GB052
+0.0    1
+1.0    1
+Name: count, dtype: int64
+**** --------> Cangin GB052
+1.0    1
+Name: count, dtype: int64
+**** --------> Central Atlantic GB052
+1.0    4
+Name: count, dtype: int64
+**** --------> Fula-Sereer GB052
+1.0    3
+Name: count, dtype: int64
+**** --------> Jaad GB052
+0.0    1
+Name: count, dtype: int64
+*** ----> Mel GB052
+0.0    7
+Name: count, dtype: int64
+**** --------> Northern Mel GB052
+0.0    3
+Name: count, dtype: int64
+**** --------> Southern Mel GB052
+0.0    4
+Name: count, dtype: int64
+*** ----> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Sino-Tibetan GB052
+0.0    208
+1.0      4
+Name: count, dtype: int64
+*** ----> Burmo-Qiangic GB052
+0.0    53
+1.0     1
+Name: count, dtype: int64
+**** --------> Lolo-Burmese GB052
+0.0    34
+1.0     1
+Name: count, dtype: int64
+**** --------> Na-Qiangic GB052
+0.0    18
+Name: count, dtype: int64
+**** --------> Tujia GB052
+0.0    1
+Name: count, dtype: int64
+*** ----> Bodic GB052
+0.0    28
+Name: count, dtype: int64
+**** --------> Bodish GB052
+0.0    15
+Name: count, dtype: int64
+**** --------> West Himalayish GB052
+0.0    6
+Name: count, dtype: int64
+**** --------> Kaike-Ghale-Tamangic GB052
+0.0    6
+Name: count, dtype: int64
+**** --------> Tshanglic GB052
+0.0    1
+Name: count, dtype: int64
+*** ----> Sinitic GB052
+0.0    10
+1.0     3
+Name: count, dtype: int64
+**** --------> Classical-Middle-Modern Sinitic GB052
+0.0    9
+1.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Min GB052
+1.0    2
+Name: count, dtype: int64
+*** ----> Kuki-Chin-Naga GB052
+0.0    40
+Name: count, dtype: int64
+**** --------> Kuki-Chin GB052
+0.0    24
+Name: count, dtype: int64
+**** --------> Angami-Ao GB052
+0.0    7
+Name: count, dtype: int64
+**** --------> Zemeic GB052
+0.0    4
+Name: count, dtype: int64
+**** --------> Tangkhul-Maring GB052
+0.0    3
+Name: count, dtype: int64
+**** --------> Karbic GB052
+0.0    2
+Name: count, dtype: int64
+*** ----> Himalayish GB052
+0.0    28
+Name: count, dtype: int64
+**** --------> Mahakiranti GB052
+0.0    27
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Macro-Bai GB052
+0.0    3
+Name: count, dtype: int64
+**** --------> Baic GB052
+0.0    3
+Name: count, dtype: int64
+*** ----> Dhimalish GB052
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Digarish GB052
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Raji-Raute GB052
+0.0    2
+Name: count, dtype: int64
+**** --------> Raute-Rawat GB052
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Brahmaputran GB052
+0.0    14
+Name: count, dtype: int64
+**** --------> Konyak GB052
+0.0    4
+Name: count, dtype: int64
+**** --------> Bodo-Garo GB052
+0.0    6
+Name: count, dtype: int64
+**** --------> Jingpho-Luish GB052
+0.0    4
+Name: count, dtype: int64
+*** ----> Macro-Tani GB052
+0.0    8
+Name: count, dtype: int64
+**** --------> Tani GB052
+0.0    7
+Name: count, dtype: int64
+**** --------> Koro-Holon GB052
+0.0    1
+Name: count, dtype: int64
+*** ----> Miji GB052
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Kho-Bwa GB052
+0.0    4
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Western Kho-Bwa GB052
+0.0    2
+Name: count, dtype: int64
+**** --------> Puroikic GB052
+0.0    1
+Name: count, dtype: int64
+*** ----> Mruic GB052
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Karenic GB052
+0.0    7
+Name: count, dtype: int64
+**** --------> Central Karen GB052
+0.0    2
+Name: count, dtype: int64
+**** --------> Northern Karen GB052
+0.0    3
+Name: count, dtype: int64
+**** --------> Southern Karen GB052
+0.0    1
+Name: count, dtype: int64
+**** --------> Peripheral Karen GB052
+0.0    1
+Name: count, dtype: int64
+*** ----> Kman-Meyor GB052
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Nungish GB052
+0.0    2
+Name: count, dtype: int64
+**** --------> Gunong GB052
+0.0    2
+Name: count, dtype: int64
+
+
+==============================
+
+
+** Indo-European GB052
+0.0    171
+1.0      2
+Name: count, dtype: int64
+*** ----> Classical Indo-European GB052
+0.0    169
+1.0      2
+Name: count, dtype: int64
+**** --------> Indo-Iranian GB052
+0.0    78
+1.0     1
+Name: count, dtype: int64
+**** --------> Italic GB052
+0.0    27
+1.0     1
+Name: count, dtype: int64
+**** --------> Graeco-Phrygian GB052
+0.0    4
+Name: count, dtype: int64
+**** --------> Balto-Slavic GB052
+0.0    14
+Name: count, dtype: int64
+**** --------> Armenic GB052
+0.0    3
+Name: count, dtype: int64
+**** --------> Germanic GB052
+0.0    34
+Name: count, dtype: int64
+**** --------> Tokharian GB052
+0.0    2
+Name: count, dtype: int64
+**** --------> Albanian GB052
+0.0    3
+Name: count, dtype: int64
+**** --------> Celtic GB052
+0.0    4
+Name: count, dtype: int64
+*** ----> Anatolian GB052
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Luvo-Lydian GB052
+0.0    1
+Name: count, dtype: int64
+
+
+==============================
+
+
+** Afro-Asiatic GB052
+0.0    115
+1.0      1
+Name: count, dtype: int64
+*** ----> Chadic GB052
+0.0    44
+Name: count, dtype: int64
+**** --------> Biu-Mandara GB052
+0.0    23
+Name: count, dtype: int64
+**** --------> West Chadic GB052
+0.0    15
+Name: count, dtype: int64
+**** --------> Masa GB052
+0.0    2
+Name: count, dtype: int64
+**** --------> East Chadic GB052
+0.0    4
+Name: count, dtype: int64
+*** ----> Cushitic GB052
+0.0    27
+Name: count, dtype: int64
+**** --------> South Cushitic GB052
+0.0    3
+Name: count, dtype: int64
+**** --------> East Cushitic GB052
+0.0    20
+Name: count, dtype: int64
+**** --------> Agaw GB052
+0.0    3
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Semitic GB052
+0.0    33
+1.0     1
+Name: count, dtype: int64
+**** --------> West Semitic GB052
+0.0    32
+1.0     1
+Name: count, dtype: int64
+**** --------> East Semitic GB052
+0.0    1
+Name: count, dtype: int64
+*** ----> Berber GB052
+0.0    10
+Name: count, dtype: int64
+**** --------> Tuareg GB052
+0.0    4
+Name: count, dtype: int64
+**** --------> Kabyle-Atlas Berber GB052
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Greater Zenatic GB052
+0.0    2
+Name: count, dtype: int64
+*** ----> Egyptian GB052
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Pama-Nyungan GB052
+0.0    91
+1.0     3
+Name: count, dtype: int64
+*** ----> Paman GB052
+0.0    6
+1.0    3
+Name: count, dtype: int64
+**** --------> Alaya-Athima GB052
+0.0    1
+1.0    1
+Name: count, dtype: int64
+**** --------> Compromise Middle Pama GB052
+0.0    3
+Name: count, dtype: int64
+**** --------> Northern Pama GB052
+0.0    1
+Name: count, dtype: int64
+**** --------> Southwest Pama GB052
+1.0    2
+Name: count, dtype: int64
+**** --------> Mayabic GB052
+0.0    1
+Name: count, dtype: int64
+*** ----> South-West Pama-Nyungan GB052
+0.0    9
+Name: count, dtype: int64
+**** --------> Pilbara GB052
+0.0    6
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Kartu-Nhanda GB052
+0.0    2
+Name: count, dtype: int64
+*** ----> Desert Nyungic GB052
+0.0    20
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Wati GB052
+0.0    6
+Name: count, dtype: int64
+**** --------> Ngumpin-Yapa GB052
+0.0    10
+Name: count, dtype: int64
+**** --------> Marrngu GB052
+0.0    2
+Name: count, dtype: int64
+*** ----> Southeastern Pama-Nyungan GB052
+0.0    16
+Name: count, dtype: int64
+**** --------> Victorian Pama-Nyungan GB052
+0.0    5
+Name: count, dtype: int64
+**** --------> North Coast Pama-Nyungan GB052
+0.0    4
+Name: count, dtype: int64
+**** --------> New South Wales Pama-Nyungan GB052
+0.0    5
+Name: count, dtype: int64
+**** --------> Wiradhuric GB052
+0.0    2
+Name: count, dtype: int64
+*** ----> Greater Maric GB052
+0.0    7
+Name: count, dtype: int64
+**** --------> Guwa-Maric GB052
+0.0    7
+Name: count, dtype: int64
+*** ----> Karnic GB052
+0.0    4
+Name: count, dtype: int64
+**** --------> Badjiri-Eastern Karnic GB052
+0.0    1
+Name: count, dtype: int64
+**** --------> Central Karnic GB052
+0.0    1
+Name: count, dtype: int64
+**** --------> Palku GB052
+0.0    2
+Name: count, dtype: int64
+*** ----> Arandic-Thura-Yura GB052
+0.0    7
+Name: count, dtype: int64
+**** --------> Arandic GB052
+0.0    3
+Name: count, dtype: int64
+**** --------> Thura-Yura GB052
+0.0    4
+Name: count, dtype: int64
+*** ----> Ngarna GB052
+0.0    7
+Name: count, dtype: int64
+**** --------> Southern Ngarna GB052
+0.0    5
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Yuulngu GB052
+0.0    2
+Name: count, dtype: int64
+**** --------> Southern Yolngu GB052
+0.0    1
+Name: count, dtype: int64
+**** --------> Western-Inland Yolngu GB052
+0.0    1
+Name: count, dtype: int64
+*** ----> Yimidhirr-Yalanji-Yidinic GB052
+0.0    5
+Name: count, dtype: int64
+**** --------> Yidinic GB052
+0.0    3
+Name: count, dtype: int64
+**** --------> Yalandyic GB052
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> nan Series([], Name: count, dtype: int64)
+*** ----> Macleay-New England GB052
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Kalkatungic GB052
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Yarli-Baagandji GB052
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Nyawaygic GB052
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Ganaic Series([], Name: count, dtype: int64)
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Rockhampton-Gladstone Series([], Name: count, dtype: int64)
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+
+
+
+* GB053 Is there a noun class/gender system where animacy is a factor in class assignment?
+** Austronesian GB053
+0.0    498
+1.0     39
+Name: count, dtype: int64
+*** ----> Malayo-Polynesian GB053
+0.0    485
+1.0     38
+Name: count, dtype: int64
+**** --------> Bima-Lembata GB053
+0.0    16
+Name: count, dtype: int64
+**** --------> Central Luzon GB053
+0.0    3
+1.0    2
+Name: count, dtype: int64
+**** --------> Basap-Greater Barito GB053
+0.0    13
+Name: count, dtype: int64
+**** --------> Eastern Malayo-Polynesian GB053
+0.0    254
+1.0     23
+Name: count, dtype: int64
+**** --------> Tanimbar-Bomberai GB053
+0.0    2
+Name: count, dtype: int64
+**** --------> North Borneo Malayo-Polynesian GB053
+0.0    22
+1.0     1
+Name: count, dtype: int64
+**** --------> Greater Central Philippine GB053
+0.0    38
+Name: count, dtype: int64
+**** --------> Malayo-Sumbawan GB053
+0.0    37
+1.0     1
+Name: count, dtype: int64
+**** --------> Celebic GB053
+0.0    16
+1.0     1
+Name: count, dtype: int64
+**** --------> Northern Luzon GB053
+0.0    25
+1.0     1
+Name: count, dtype: int64
+**** --------> Greater Seram Laut GB053
+0.0    2
+Name: count, dtype: int64
+**** --------> Land Dayak GB053
+0.0    4
+Name: count, dtype: int64
+**** --------> Timor-Babar GB053
+0.0    14
+Name: count, dtype: int64
+**** --------> Batanic GB053
+1.0    2
+0.0    1
+Name: count, dtype: int64
+**** --------> Nunusaku GB053
+0.0    4
+1.0    3
+Name: count, dtype: int64
+**** --------> Northwest Sumatra-Barrier Islands GB053
+0.0    7
+Name: count, dtype: int64
+**** --------> South Sulawesi GB053
+0.0    5
+Name: count, dtype: int64
+**** --------> Javanesic GB053
+0.0    3
+Name: count, dtype: int64
+**** --------> Aru GB053
+1.0    2
+Name: count, dtype: int64
+**** --------> Minahasan GB053
+1.0    2
+Name: count, dtype: int64
+**** --------> Kalamian GB053
+0.0    1
+Name: count, dtype: int64
+**** --------> Central Timor GB053
+0.0    2
+Name: count, dtype: int64
+**** --------> Moken-Moklen GB053
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Tolitoli GB053
+0.0    1
+Name: count, dtype: int64
+**** --------> Bilic GB053
+0.0    3
+Name: count, dtype: int64
+**** --------> Lampungic GB053
+0.0    1
+Name: count, dtype: int64
+**** --------> Sangiric GB053
+0.0    3
+Name: count, dtype: int64
+**** --------> West Central Maluku GB053
+0.0    2
+Name: count, dtype: int64
+**** --------> North Mangyan GB053
+0.0    1
+Name: count, dtype: int64
+*** ----> East Formosan GB053
+0.0    5
+Name: count, dtype: int64
+**** --------> Northern East Formosan GB053
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Central East Formosan GB053
+0.0    2
+Name: count, dtype: int64
+*** ----> nan Series([], Name: count, dtype: int64)
+*** ----> Northwest Formosan GB053
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Tsouic GB053
+0.0    3
+Name: count, dtype: int64
+**** --------> Kanakanavu-Saaroa GB053
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Atayalic GB053
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Western Plains Austronesian GB053
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Atlantic-Congo GB053
+1.0    220
+0.0    101
+Name: count, dtype: int64
+*** ----> Volta-Congo GB053
+1.0    202
+0.0     98
+Name: count, dtype: int64
+**** --------> Benue-Congo GB053
+1.0    177
+0.0     48
+Name: count, dtype: int64
+**** --------> North Volta-Congo GB053
+0.0    38
+1.0    18
+Name: count, dtype: int64
+**** --------> Kwa Volta-Congo GB053
+0.0    10
+1.0     7
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Unclassified Volta-Congo GB053
+0.0    2
+Name: count, dtype: int64
+*** ----> North-Central Atlantic GB053
+1.0    11
+0.0     1
+Name: count, dtype: int64
+**** --------> Wolof-BKK GB053
+1.0    2
+Name: count, dtype: int64
+**** --------> Cangin GB053
+1.0    1
+Name: count, dtype: int64
+**** --------> Central Atlantic GB053
+1.0    4
+Name: count, dtype: int64
+**** --------> Fula-Sereer GB053
+1.0    4
+Name: count, dtype: int64
+**** --------> Jaad GB053
+0.0    1
+Name: count, dtype: int64
+*** ----> Mel GB053
+1.0    6
+0.0    2
+Name: count, dtype: int64
+**** --------> Northern Mel GB053
+1.0    3
+0.0    1
+Name: count, dtype: int64
+**** --------> Southern Mel GB053
+1.0    3
+0.0    1
+Name: count, dtype: int64
+*** ----> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Sino-Tibetan GB053
+0.0    200
+1.0     13
+Name: count, dtype: int64
+*** ----> Burmo-Qiangic GB053
+0.0    49
+1.0     5
+Name: count, dtype: int64
+**** --------> Lolo-Burmese GB053
+0.0    32
+1.0     3
+Name: count, dtype: int64
+**** --------> Na-Qiangic GB053
+0.0    16
+1.0     2
+Name: count, dtype: int64
+**** --------> Tujia GB053
+0.0    1
+Name: count, dtype: int64
+*** ----> Bodic GB053
+0.0    28
+Name: count, dtype: int64
+**** --------> Bodish GB053
+0.0    15
+Name: count, dtype: int64
+**** --------> West Himalayish GB053
+0.0    6
+Name: count, dtype: int64
+**** --------> Kaike-Ghale-Tamangic GB053
+0.0    6
+Name: count, dtype: int64
+**** --------> Tshanglic GB053
+0.0    1
+Name: count, dtype: int64
+*** ----> Sinitic GB053
+0.0    11
+1.0     2
+Name: count, dtype: int64
+**** --------> Classical-Middle-Modern Sinitic GB053
+0.0    9
+1.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Min GB053
+0.0    1
+1.0    1
+Name: count, dtype: int64
+*** ----> Kuki-Chin-Naga GB053
+0.0    38
+1.0     3
+Name: count, dtype: int64
+**** --------> Kuki-Chin GB053
+0.0    22
+1.0     3
+Name: count, dtype: int64
+**** --------> Angami-Ao GB053
+0.0    7
+Name: count, dtype: int64
+**** --------> Zemeic GB053
+0.0    4
+Name: count, dtype: int64
+**** --------> Tangkhul-Maring GB053
+0.0    3
+Name: count, dtype: int64
+**** --------> Karbic GB053
+0.0    2
+Name: count, dtype: int64
+*** ----> Himalayish GB053
+0.0    27
+1.0     1
+Name: count, dtype: int64
+**** --------> Mahakiranti GB053
+0.0    26
+1.0     1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Macro-Bai GB053
+0.0    3
+Name: count, dtype: int64
+**** --------> Baic GB053
+0.0    3
+Name: count, dtype: int64
+*** ----> Dhimalish GB053
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Digarish GB053
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Raji-Raute GB053
+0.0    2
+Name: count, dtype: int64
+**** --------> Raute-Rawat GB053
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Brahmaputran GB053
+0.0    13
+1.0     1
+Name: count, dtype: int64
+**** --------> Konyak GB053
+0.0    3
+1.0    1
+Name: count, dtype: int64
+**** --------> Bodo-Garo GB053
+0.0    6
+Name: count, dtype: int64
+**** --------> Jingpho-Luish GB053
+0.0    4
+Name: count, dtype: int64
+*** ----> Macro-Tani GB053
+0.0    8
+Name: count, dtype: int64
+**** --------> Tani GB053
+0.0    7
+Name: count, dtype: int64
+**** --------> Koro-Holon GB053
+0.0    1
+Name: count, dtype: int64
+*** ----> Miji GB053
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Kho-Bwa GB053
+0.0    3
+1.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Western Kho-Bwa GB053
+0.0    1
+1.0    1
+Name: count, dtype: int64
+**** --------> Puroikic GB053
+0.0    1
+Name: count, dtype: int64
+*** ----> Mruic GB053
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Karenic GB053
+0.0    7
+Name: count, dtype: int64
+**** --------> Central Karen GB053
+0.0    2
+Name: count, dtype: int64
+**** --------> Northern Karen GB053
+0.0    3
+Name: count, dtype: int64
+**** --------> Southern Karen GB053
+0.0    1
+Name: count, dtype: int64
+**** --------> Peripheral Karen GB053
+0.0    1
+Name: count, dtype: int64
+*** ----> Kman-Meyor GB053
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Nungish GB053
+0.0    2
+Name: count, dtype: int64
+**** --------> Gunong GB053
+0.0    2
+Name: count, dtype: int64
+
+
+==============================
+
+
+** Indo-European GB053
+0.0    134
+1.0     37
+Name: count, dtype: int64
+*** ----> Classical Indo-European GB053
+0.0    134
+1.0     35
+Name: count, dtype: int64
+**** --------> Indo-Iranian GB053
+0.0    61
+1.0    17
+Name: count, dtype: int64
+**** --------> Italic GB053
+0.0    25
+1.0     2
+Name: count, dtype: int64
+**** --------> Graeco-Phrygian GB053
+0.0    2
+1.0    2
+Name: count, dtype: int64
+**** --------> Balto-Slavic GB053
+1.0    10
+0.0     4
+Name: count, dtype: int64
+**** --------> Armenic GB053
+0.0    2
+1.0    1
+Name: count, dtype: int64
+**** --------> Germanic GB053
+0.0    34
+Name: count, dtype: int64
+**** --------> Tokharian GB053
+0.0    2
+Name: count, dtype: int64
+**** --------> Albanian GB053
+0.0    2
+1.0    1
+Name: count, dtype: int64
+**** --------> Celtic GB053
+0.0    2
+1.0    2
+Name: count, dtype: int64
+*** ----> Anatolian GB053
+1.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Luvo-Lydian GB053
+1.0    1
+Name: count, dtype: int64
+
+
+==============================
+
+
+** Afro-Asiatic GB053
+0.0    110
+1.0      7
+Name: count, dtype: int64
+*** ----> Chadic GB053
+0.0    41
+1.0     4
+Name: count, dtype: int64
+**** --------> Biu-Mandara GB053
+0.0    23
+1.0     1
+Name: count, dtype: int64
+**** --------> West Chadic GB053
+0.0    13
+1.0     2
+Name: count, dtype: int64
+**** --------> Masa GB053
+0.0    2
+Name: count, dtype: int64
+**** --------> East Chadic GB053
+0.0    3
+1.0    1
+Name: count, dtype: int64
+*** ----> Cushitic GB053
+0.0    26
+1.0     1
+Name: count, dtype: int64
+**** --------> South Cushitic GB053
+0.0    3
+Name: count, dtype: int64
+**** --------> East Cushitic GB053
+0.0    19
+1.0     1
+Name: count, dtype: int64
+**** --------> Agaw GB053
+0.0    3
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Semitic GB053
+0.0    32
+1.0     2
+Name: count, dtype: int64
+**** --------> West Semitic GB053
+0.0    31
+1.0     2
+Name: count, dtype: int64
+**** --------> East Semitic GB053
+0.0    1
+Name: count, dtype: int64
+*** ----> Berber GB053
+0.0    10
+Name: count, dtype: int64
+**** --------> Tuareg GB053
+0.0    4
+Name: count, dtype: int64
+**** --------> Kabyle-Atlas Berber GB053
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Greater Zenatic GB053
+0.0    2
+Name: count, dtype: int64
+*** ----> Egyptian GB053
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Pama-Nyungan GB053
+0.0    59
+1.0     4
+Name: count, dtype: int64
+*** ----> Paman GB053
+0.0    3
+1.0    1
+Name: count, dtype: int64
+**** --------> Alaya-Athima GB053
+0.0    1
+1.0    1
+Name: count, dtype: int64
+**** --------> Compromise Middle Pama GB053
+0.0    1
+Name: count, dtype: int64
+**** --------> Northern Pama Series([], Name: count, dtype: int64)
+**** --------> Southwest Pama Series([], Name: count, dtype: int64)
+**** --------> Mayabic GB053
+0.0    1
+Name: count, dtype: int64
+*** ----> South-West Pama-Nyungan GB053
+0.0    6
+Name: count, dtype: int64
+**** --------> Pilbara GB053
+0.0    4
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Kartu-Nhanda GB053
+0.0    1
+Name: count, dtype: int64
+*** ----> Desert Nyungic GB053
+0.0    13
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Wati GB053
+0.0    3
+Name: count, dtype: int64
+**** --------> Ngumpin-Yapa GB053
+0.0    7
+Name: count, dtype: int64
+**** --------> Marrngu GB053
+0.0    1
+Name: count, dtype: int64
+*** ----> Southeastern Pama-Nyungan GB053
+0.0    12
+Name: count, dtype: int64
+**** --------> Victorian Pama-Nyungan GB053
+0.0    3
+Name: count, dtype: int64
+**** --------> North Coast Pama-Nyungan GB053
+0.0    3
+Name: count, dtype: int64
+**** --------> New South Wales Pama-Nyungan GB053
+0.0    5
+Name: count, dtype: int64
+**** --------> Wiradhuric GB053
+0.0    1
+Name: count, dtype: int64
+*** ----> Greater Maric GB053
+0.0    6
+Name: count, dtype: int64
+**** --------> Guwa-Maric GB053
+0.0    6
+Name: count, dtype: int64
+*** ----> Karnic GB053
+0.0    4
+Name: count, dtype: int64
+**** --------> Badjiri-Eastern Karnic GB053
+0.0    1
+Name: count, dtype: int64
+**** --------> Central Karnic GB053
+0.0    1
+Name: count, dtype: int64
+**** --------> Palku GB053
+0.0    2
+Name: count, dtype: int64
+*** ----> Arandic-Thura-Yura GB053
+0.0    4
+1.0    2
+Name: count, dtype: int64
+**** --------> Arandic GB053
+1.0    2
+0.0    1
+Name: count, dtype: int64
+**** --------> Thura-Yura GB053
+0.0    3
+Name: count, dtype: int64
+*** ----> Ngarna Series([], Name: count, dtype: int64)
+**** --------> Southern Ngarna Series([], Name: count, dtype: int64)
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Yuulngu GB053
+0.0    1
+Name: count, dtype: int64
+**** --------> Southern Yolngu Series([], Name: count, dtype: int64)
+**** --------> Western-Inland Yolngu GB053
+0.0    1
+Name: count, dtype: int64
+*** ----> Yimidhirr-Yalanji-Yidinic GB053
+0.0    3
+Name: count, dtype: int64
+**** --------> Yidinic GB053
+0.0    1
+Name: count, dtype: int64
+**** --------> Yalandyic GB053
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> nan Series([], Name: count, dtype: int64)
+*** ----> Macleay-New England GB053
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Kalkatungic GB053
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Yarli-Baagandji GB053
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Nyawaygic GB053
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Ganaic Series([], Name: count, dtype: int64)
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Rockhampton-Gladstone Series([], Name: count, dtype: int64)
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+
+
+
+* GB170 Can an adnominal property word agree with the noun in noun class/gender?
+** Austronesian GB170
+0.0    524
+1.0      8
+Name: count, dtype: int64
+*** ----> Malayo-Polynesian GB170
+0.0    513
+1.0      8
+Name: count, dtype: int64
+**** --------> Bima-Lembata GB170
+0.0    16
+Name: count, dtype: int64
+**** --------> Central Luzon GB170
+0.0    6
+Name: count, dtype: int64
+**** --------> Basap-Greater Barito GB170
+0.0    15
+Name: count, dtype: int64
+**** --------> Eastern Malayo-Polynesian GB170
+0.0    265
+1.0      6
+Name: count, dtype: int64
+**** --------> Tanimbar-Bomberai GB170
+0.0    2
+Name: count, dtype: int64
+**** --------> North Borneo Malayo-Polynesian GB170
+0.0    23
+Name: count, dtype: int64
+**** --------> Greater Central Philippine GB170
+0.0    37
+Name: count, dtype: int64
+**** --------> Malayo-Sumbawan GB170
+0.0    39
+Name: count, dtype: int64
+**** --------> Celebic GB170
+0.0    19
+Name: count, dtype: int64
+**** --------> Northern Luzon GB170
+0.0    24
+Name: count, dtype: int64
+**** --------> Greater Seram Laut GB170
+0.0    2
+Name: count, dtype: int64
+**** --------> Land Dayak GB170
+0.0    5
+Name: count, dtype: int64
+**** --------> Timor-Babar GB170
+0.0    16
+Name: count, dtype: int64
+**** --------> Batanic GB170
+0.0    3
+Name: count, dtype: int64
+**** --------> Nunusaku GB170
+0.0    7
+1.0    1
+Name: count, dtype: int64
+**** --------> Northwest Sumatra-Barrier Islands GB170
+0.0    5
+Name: count, dtype: int64
+**** --------> South Sulawesi GB170
+0.0    6
+Name: count, dtype: int64
+**** --------> Javanesic GB170
+0.0    3
+Name: count, dtype: int64
+**** --------> Aru GB170
+1.0    1
+0.0    1
+Name: count, dtype: int64
+**** --------> Minahasan GB170
+0.0    1
+Name: count, dtype: int64
+**** --------> Kalamian GB170
+0.0    1
+Name: count, dtype: int64
+**** --------> Central Timor GB170
+0.0    2
+Name: count, dtype: int64
+**** --------> Moken-Moklen GB170
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Tolitoli GB170
+0.0    1
+Name: count, dtype: int64
+**** --------> Bilic GB170
+0.0    3
+Name: count, dtype: int64
+**** --------> Lampungic GB170
+0.0    1
+Name: count, dtype: int64
+**** --------> Sangiric GB170
+0.0    3
+Name: count, dtype: int64
+**** --------> West Central Maluku GB170
+0.0    1
+Name: count, dtype: int64
+**** --------> North Mangyan GB170
+0.0    1
+Name: count, dtype: int64
+*** ----> East Formosan GB170
+0.0    5
+Name: count, dtype: int64
+**** --------> Northern East Formosan GB170
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Central East Formosan GB170
+0.0    2
+Name: count, dtype: int64
+*** ----> nan Series([], Name: count, dtype: int64)
+*** ----> Northwest Formosan GB170
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Tsouic GB170
+0.0    2
+Name: count, dtype: int64
+**** --------> Kanakanavu-Saaroa GB170
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Atayalic Series([], Name: count, dtype: int64)
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Western Plains Austronesian GB170
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Atlantic-Congo GB170
+1.0    213
+0.0    110
+Name: count, dtype: int64
+*** ----> Volta-Congo GB170
+1.0    195
+0.0    108
+Name: count, dtype: int64
+**** --------> Benue-Congo GB170
+1.0    182
+0.0     46
+Name: count, dtype: int64
+**** --------> North Volta-Congo GB170
+0.0    44
+1.0    11
+Name: count, dtype: int64
+**** --------> Kwa Volta-Congo GB170
+0.0    16
+1.0     1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Unclassified Volta-Congo GB170
+0.0    2
+Name: count, dtype: int64
+*** ----> North-Central Atlantic GB170
+1.0    10
+0.0     1
+Name: count, dtype: int64
+**** --------> Wolof-BKK GB170
+0.0    1
+1.0    1
+Name: count, dtype: int64
+**** --------> Cangin GB170
+1.0    1
+Name: count, dtype: int64
+**** --------> Central Atlantic GB170
+1.0    3
+Name: count, dtype: int64
+**** --------> Fula-Sereer GB170
+1.0    4
+Name: count, dtype: int64
+**** --------> Jaad GB170
+1.0    1
+Name: count, dtype: int64
+*** ----> Mel GB170
+1.0    8
+Name: count, dtype: int64
+**** --------> Northern Mel GB170
+1.0    4
+Name: count, dtype: int64
+**** --------> Southern Mel GB170
+1.0    4
+Name: count, dtype: int64
+*** ----> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Sino-Tibetan GB170
+0.0    204
+1.0      5
+Name: count, dtype: int64
+*** ----> Burmo-Qiangic GB170
+0.0    53
+Name: count, dtype: int64
+**** --------> Lolo-Burmese GB170
+0.0    34
+Name: count, dtype: int64
+**** --------> Na-Qiangic GB170
+0.0    18
+Name: count, dtype: int64
+**** --------> Tujia GB170
+0.0    1
+Name: count, dtype: int64
+*** ----> Bodic GB170
+0.0    27
+Name: count, dtype: int64
+**** --------> Bodish GB170
+0.0    14
+Name: count, dtype: int64
+**** --------> West Himalayish GB170
+0.0    6
+Name: count, dtype: int64
+**** --------> Kaike-Ghale-Tamangic GB170
+0.0    6
+Name: count, dtype: int64
+**** --------> Tshanglic GB170
+0.0    1
+Name: count, dtype: int64
+*** ----> Sinitic GB170
+0.0    13
+Name: count, dtype: int64
+**** --------> Classical-Middle-Modern Sinitic GB170
+0.0    10
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Min GB170
+0.0    2
+Name: count, dtype: int64
+*** ----> Kuki-Chin-Naga GB170
+0.0    40
+1.0     2
+Name: count, dtype: int64
+**** --------> Kuki-Chin GB170
+0.0    25
+1.0     1
+Name: count, dtype: int64
+**** --------> Angami-Ao GB170
+0.0    7
+Name: count, dtype: int64
+**** --------> Zemeic GB170
+0.0    4
+Name: count, dtype: int64
+**** --------> Tangkhul-Maring GB170
+0.0    3
+Name: count, dtype: int64
+**** --------> Karbic GB170
+0.0    1
+1.0    1
+Name: count, dtype: int64
+*** ----> Himalayish GB170
+0.0    23
+1.0     3
+Name: count, dtype: int64
+**** --------> Mahakiranti GB170
+0.0    22
+1.0     3
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Macro-Bai GB170
+0.0    3
+Name: count, dtype: int64
+**** --------> Baic GB170
+0.0    3
+Name: count, dtype: int64
+*** ----> Dhimalish GB170
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Digarish GB170
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Raji-Raute GB170
+0.0    1
+Name: count, dtype: int64
+**** --------> Raute-Rawat GB170
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Brahmaputran GB170
+0.0    14
+Name: count, dtype: int64
+**** --------> Konyak GB170
+0.0    4
+Name: count, dtype: int64
+**** --------> Bodo-Garo GB170
+0.0    6
+Name: count, dtype: int64
+**** --------> Jingpho-Luish GB170
+0.0    4
+Name: count, dtype: int64
+*** ----> Macro-Tani GB170
+0.0    8
+Name: count, dtype: int64
+**** --------> Tani GB170
+0.0    7
+Name: count, dtype: int64
+**** --------> Koro-Holon GB170
+0.0    1
+Name: count, dtype: int64
+*** ----> Miji GB170
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Kho-Bwa GB170
+0.0    4
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Western Kho-Bwa GB170
+0.0    2
+Name: count, dtype: int64
+**** --------> Puroikic GB170
+0.0    1
+Name: count, dtype: int64
+*** ----> Mruic GB170
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Karenic GB170
+0.0    7
+Name: count, dtype: int64
+**** --------> Central Karen GB170
+0.0    2
+Name: count, dtype: int64
+**** --------> Northern Karen GB170
+0.0    3
+Name: count, dtype: int64
+**** --------> Southern Karen GB170
+0.0    1
+Name: count, dtype: int64
+**** --------> Peripheral Karen GB170
+0.0    1
+Name: count, dtype: int64
+*** ----> Kman-Meyor GB170
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Nungish GB170
+0.0    2
+Name: count, dtype: int64
+**** --------> Gunong GB170
+0.0    2
+Name: count, dtype: int64
+
+
+==============================
+
+
+** Indo-European GB170
+1.0    119
+0.0     52
+Name: count, dtype: int64
+*** ----> Classical Indo-European GB170
+1.0    117
+0.0     52
+Name: count, dtype: int64
+**** --------> Indo-Iranian GB170
+1.0    50
+0.0    29
+Name: count, dtype: int64
+**** --------> Italic GB170
+1.0    26
+0.0     2
+Name: count, dtype: int64
+**** --------> Graeco-Phrygian GB170
+1.0    4
+Name: count, dtype: int64
+**** --------> Balto-Slavic GB170
+1.0    14
+Name: count, dtype: int64
+**** --------> Armenic GB170
+0.0    3
+Name: count, dtype: int64
+**** --------> Germanic GB170
+0.0    17
+1.0    15
+Name: count, dtype: int64
+**** --------> Tokharian GB170
+1.0    2
+Name: count, dtype: int64
+**** --------> Albanian GB170
+1.0    3
+Name: count, dtype: int64
+**** --------> Celtic GB170
+1.0    3
+0.0    1
+Name: count, dtype: int64
+*** ----> Anatolian GB170
+1.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Luvo-Lydian GB170
+1.0    1
+Name: count, dtype: int64
+
+
+==============================
+
+
+** Afro-Asiatic GB170
+1.0    70
+0.0    44
+Name: count, dtype: int64
+*** ----> Chadic GB170
+0.0    33
+1.0    11
+Name: count, dtype: int64
+**** --------> Biu-Mandara GB170
+0.0    19
+1.0     4
+Name: count, dtype: int64
+**** --------> West Chadic GB170
+0.0    11
+1.0     3
+Name: count, dtype: int64
+**** --------> Masa GB170
+0.0    2
+Name: count, dtype: int64
+**** --------> East Chadic GB170
+1.0    4
+0.0    1
+Name: count, dtype: int64
+*** ----> Cushitic GB170
+1.0    20
+0.0     6
+Name: count, dtype: int64
+**** --------> South Cushitic GB170
+1.0    2
+0.0    1
+Name: count, dtype: int64
+**** --------> East Cushitic GB170
+1.0    15
+0.0     4
+Name: count, dtype: int64
+**** --------> Agaw GB170
+1.0    2
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Semitic GB170
+1.0    31
+0.0     2
+Name: count, dtype: int64
+**** --------> West Semitic GB170
+1.0    30
+0.0     2
+Name: count, dtype: int64
+**** --------> East Semitic GB170
+1.0    1
+Name: count, dtype: int64
+*** ----> Berber GB170
+1.0    8
+0.0    2
+Name: count, dtype: int64
+**** --------> Tuareg GB170
+1.0    3
+0.0    1
+Name: count, dtype: int64
+**** --------> Kabyle-Atlas Berber GB170
+1.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Greater Zenatic GB170
+1.0    2
+Name: count, dtype: int64
+*** ----> Egyptian GB170
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Pama-Nyungan GB170
+0.0    83
+1.0     4
+Name: count, dtype: int64
+*** ----> Paman GB170
+0.0    9
+Name: count, dtype: int64
+**** --------> Alaya-Athima GB170
+0.0    2
+Name: count, dtype: int64
+**** --------> Compromise Middle Pama GB170
+0.0    3
+Name: count, dtype: int64
+**** --------> Northern Pama GB170
+0.0    1
+Name: count, dtype: int64
+**** --------> Southwest Pama GB170
+0.0    2
+Name: count, dtype: int64
+**** --------> Mayabic GB170
+0.0    1
+Name: count, dtype: int64
+*** ----> South-West Pama-Nyungan GB170
+0.0    9
+Name: count, dtype: int64
+**** --------> Pilbara GB170
+0.0    6
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Kartu-Nhanda GB170
+0.0    2
+Name: count, dtype: int64
+*** ----> Desert Nyungic GB170
+0.0    13
+1.0     4
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Wati GB170
+0.0    6
+Name: count, dtype: int64
+**** --------> Ngumpin-Yapa GB170
+0.0    5
+1.0    4
+Name: count, dtype: int64
+**** --------> Marrngu GB170
+0.0    2
+Name: count, dtype: int64
+*** ----> Southeastern Pama-Nyungan GB170
+0.0    15
+Name: count, dtype: int64
+**** --------> Victorian Pama-Nyungan GB170
+0.0    5
+Name: count, dtype: int64
+**** --------> North Coast Pama-Nyungan GB170
+0.0    4
+Name: count, dtype: int64
+**** --------> New South Wales Pama-Nyungan GB170
+0.0    3
+Name: count, dtype: int64
+**** --------> Wiradhuric GB170
+0.0    3
+Name: count, dtype: int64
+*** ----> Greater Maric GB170
+0.0    6
+Name: count, dtype: int64
+**** --------> Guwa-Maric GB170
+0.0    6
+Name: count, dtype: int64
+*** ----> Karnic GB170
+0.0    4
+Name: count, dtype: int64
+**** --------> Badjiri-Eastern Karnic Series([], Name: count, dtype: int64)
+**** --------> Central Karnic GB170
+0.0    2
+Name: count, dtype: int64
+**** --------> Palku GB170
+0.0    2
+Name: count, dtype: int64
+*** ----> Arandic-Thura-Yura GB170
+0.0    7
+Name: count, dtype: int64
+**** --------> Arandic GB170
+0.0    3
+Name: count, dtype: int64
+**** --------> Thura-Yura GB170
+0.0    4
+Name: count, dtype: int64
+*** ----> Ngarna GB170
+0.0    5
+Name: count, dtype: int64
+**** --------> Southern Ngarna GB170
+0.0    5
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Yuulngu GB170
+0.0    2
+Name: count, dtype: int64
+**** --------> Southern Yolngu GB170
+0.0    1
+Name: count, dtype: int64
+**** --------> Western-Inland Yolngu GB170
+0.0    1
+Name: count, dtype: int64
+*** ----> Yimidhirr-Yalanji-Yidinic GB170
+0.0    5
+Name: count, dtype: int64
+**** --------> Yidinic GB170
+0.0    3
+Name: count, dtype: int64
+**** --------> Yalandyic GB170
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> nan Series([], Name: count, dtype: int64)
+*** ----> Macleay-New England GB170
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Kalkatungic GB170
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Yarli-Baagandji GB170
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Nyawaygic GB170
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Ganaic Series([], Name: count, dtype: int64)
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Rockhampton-Gladstone GB170
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+
+
+
+* GB171 Can an adnominal demonstrative agree with the noun in noun class/gender?
+** Austronesian GB171
+0.0    526
+1.0     10
+Name: count, dtype: int64
+*** ----> Malayo-Polynesian GB171
+0.0    514
+1.0     10
+Name: count, dtype: int64
+**** --------> Bima-Lembata GB171
+0.0    16
+Name: count, dtype: int64
+**** --------> Central Luzon GB171
+0.0    7
+Name: count, dtype: int64
+**** --------> Basap-Greater Barito GB171
+0.0    15
+Name: count, dtype: int64
+**** --------> Eastern Malayo-Polynesian GB171
+0.0    265
+1.0      5
+Name: count, dtype: int64
+**** --------> Tanimbar-Bomberai GB171
+0.0    2
+Name: count, dtype: int64
+**** --------> North Borneo Malayo-Polynesian GB171
+0.0    23
+Name: count, dtype: int64
+**** --------> Greater Central Philippine GB171
+0.0    39
+Name: count, dtype: int64
+**** --------> Malayo-Sumbawan GB171
+0.0    39
+Name: count, dtype: int64
+**** --------> Celebic GB171
+0.0    19
+Name: count, dtype: int64
+**** --------> Northern Luzon GB171
+0.0    24
+Name: count, dtype: int64
+**** --------> Greater Seram Laut GB171
+0.0    2
+Name: count, dtype: int64
+**** --------> Land Dayak GB171
+0.0    5
+Name: count, dtype: int64
+**** --------> Timor-Babar GB171
+0.0    16
+Name: count, dtype: int64
+**** --------> Batanic GB171
+0.0    3
+Name: count, dtype: int64
+**** --------> Nunusaku GB171
+0.0    7
+1.0    2
+Name: count, dtype: int64
+**** --------> Northwest Sumatra-Barrier Islands GB171
+0.0    5
+Name: count, dtype: int64
+**** --------> South Sulawesi GB171
+0.0    6
+Name: count, dtype: int64
+**** --------> Javanesic GB171
+0.0    3
+Name: count, dtype: int64
+**** --------> Aru GB171
+1.0    2
+Name: count, dtype: int64
+**** --------> Minahasan GB171
+1.0    1
+Name: count, dtype: int64
+**** --------> Kalamian GB171
+0.0    1
+Name: count, dtype: int64
+**** --------> Central Timor GB171
+0.0    2
+Name: count, dtype: int64
+**** --------> Moken-Moklen GB171
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Tolitoli GB171
+0.0    1
+Name: count, dtype: int64
+**** --------> Bilic GB171
+0.0    3
+Name: count, dtype: int64
+**** --------> Lampungic GB171
+0.0    1
+Name: count, dtype: int64
+**** --------> Sangiric GB171
+0.0    3
+Name: count, dtype: int64
+**** --------> West Central Maluku GB171
+0.0    1
+Name: count, dtype: int64
+**** --------> North Mangyan GB171
+0.0    1
+Name: count, dtype: int64
+*** ----> East Formosan GB171
+0.0    5
+Name: count, dtype: int64
+**** --------> Northern East Formosan GB171
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Central East Formosan GB171
+0.0    2
+Name: count, dtype: int64
+*** ----> nan Series([], Name: count, dtype: int64)
+*** ----> Northwest Formosan GB171
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Tsouic GB171
+0.0    2
+Name: count, dtype: int64
+**** --------> Kanakanavu-Saaroa GB171
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Atayalic GB171
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Western Plains Austronesian GB171
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Atlantic-Congo GB171
+1.0    222
+0.0    107
+Name: count, dtype: int64
+*** ----> Volta-Congo GB171
+1.0    205
+0.0    105
+Name: count, dtype: int64
+**** --------> Benue-Congo GB171
+1.0    191
+0.0     39
+Name: count, dtype: int64
+**** --------> North Volta-Congo GB171
+0.0    51
+1.0     8
+Name: count, dtype: int64
+**** --------> Kwa Volta-Congo GB171
+0.0    12
+1.0     6
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Unclassified Volta-Congo GB171
+0.0    2
+Name: count, dtype: int64
+*** ----> North-Central Atlantic GB171
+1.0    11
+Name: count, dtype: int64
+**** --------> Wolof-BKK GB171
+1.0    2
+Name: count, dtype: int64
+**** --------> Cangin GB171
+1.0    1
+Name: count, dtype: int64
+**** --------> Central Atlantic GB171
+1.0    3
+Name: count, dtype: int64
+**** --------> Fula-Sereer GB171
+1.0    4
+Name: count, dtype: int64
+**** --------> Jaad GB171
+1.0    1
+Name: count, dtype: int64
+*** ----> Mel GB171
+1.0    5
+0.0    2
+Name: count, dtype: int64
+**** --------> Northern Mel GB171
+1.0    4
+Name: count, dtype: int64
+**** --------> Southern Mel GB171
+0.0    2
+1.0    1
+Name: count, dtype: int64
+*** ----> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Sino-Tibetan GB171
+0.0    210
+1.0      2
+Name: count, dtype: int64
+*** ----> Burmo-Qiangic GB171
+0.0    54
+Name: count, dtype: int64
+**** --------> Lolo-Burmese GB171
+0.0    35
+Name: count, dtype: int64
+**** --------> Na-Qiangic GB171
+0.0    18
+Name: count, dtype: int64
+**** --------> Tujia GB171
+0.0    1
+Name: count, dtype: int64
+*** ----> Bodic GB171
+0.0    27
+Name: count, dtype: int64
+**** --------> Bodish GB171
+0.0    14
+Name: count, dtype: int64
+**** --------> West Himalayish GB171
+0.0    6
+Name: count, dtype: int64
+**** --------> Kaike-Ghale-Tamangic GB171
+0.0    6
+Name: count, dtype: int64
+**** --------> Tshanglic GB171
+0.0    1
+Name: count, dtype: int64
+*** ----> Sinitic GB171
+0.0    13
+Name: count, dtype: int64
+**** --------> Classical-Middle-Modern Sinitic GB171
+0.0    10
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Min GB171
+0.0    2
+Name: count, dtype: int64
+*** ----> Kuki-Chin-Naga GB171
+0.0    40
+1.0     2
+Name: count, dtype: int64
+**** --------> Kuki-Chin GB171
+0.0    26
+Name: count, dtype: int64
+**** --------> Angami-Ao GB171
+0.0    6
+1.0    1
+Name: count, dtype: int64
+**** --------> Zemeic GB171
+0.0    4
+Name: count, dtype: int64
+**** --------> Tangkhul-Maring GB171
+0.0    3
+Name: count, dtype: int64
+**** --------> Karbic GB171
+1.0    1
+0.0    1
+Name: count, dtype: int64
+*** ----> Himalayish GB171
+0.0    28
+Name: count, dtype: int64
+**** --------> Mahakiranti GB171
+0.0    27
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Macro-Bai GB171
+0.0    3
+Name: count, dtype: int64
+**** --------> Baic GB171
+0.0    3
+Name: count, dtype: int64
+*** ----> Dhimalish GB171
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Digarish GB171
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Raji-Raute GB171
+0.0    1
+Name: count, dtype: int64
+**** --------> Raute-Rawat Series([], Name: count, dtype: int64)
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Brahmaputran GB171
+0.0    14
+Name: count, dtype: int64
+**** --------> Konyak GB171
+0.0    4
+Name: count, dtype: int64
+**** --------> Bodo-Garo GB171
+0.0    6
+Name: count, dtype: int64
+**** --------> Jingpho-Luish GB171
+0.0    4
+Name: count, dtype: int64
+*** ----> Macro-Tani GB171
+0.0    8
+Name: count, dtype: int64
+**** --------> Tani GB171
+0.0    7
+Name: count, dtype: int64
+**** --------> Koro-Holon GB171
+0.0    1
+Name: count, dtype: int64
+*** ----> Miji GB171
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Kho-Bwa GB171
+0.0    4
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Western Kho-Bwa GB171
+0.0    2
+Name: count, dtype: int64
+**** --------> Puroikic GB171
+0.0    1
+Name: count, dtype: int64
+*** ----> Mruic GB171
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Karenic GB171
+0.0    7
+Name: count, dtype: int64
+**** --------> Central Karen GB171
+0.0    2
+Name: count, dtype: int64
+**** --------> Northern Karen GB171
+0.0    3
+Name: count, dtype: int64
+**** --------> Southern Karen GB171
+0.0    1
+Name: count, dtype: int64
+**** --------> Peripheral Karen GB171
+0.0    1
+Name: count, dtype: int64
+*** ----> Kman-Meyor GB171
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Nungish GB171
+0.0    2
+Name: count, dtype: int64
+**** --------> Gunong GB171
+0.0    2
+Name: count, dtype: int64
+
+
+==============================
+
+
+** Indo-European GB171
+1.0    96
+0.0    73
+Name: count, dtype: int64
+*** ----> Classical Indo-European GB171
+1.0    95
+0.0    72
+Name: count, dtype: int64
+**** --------> Indo-Iranian GB171
+0.0    49
+1.0    32
+Name: count, dtype: int64
+**** --------> Italic GB171
+1.0    23
+0.0     2
+Name: count, dtype: int64
+**** --------> Graeco-Phrygian GB171
+1.0    4
+Name: count, dtype: int64
+**** --------> Balto-Slavic GB171
+1.0    14
+Name: count, dtype: int64
+**** --------> Armenic GB171
+0.0    3
+Name: count, dtype: int64
+**** --------> Germanic GB171
+0.0    17
+1.0    14
+Name: count, dtype: int64
+**** --------> Tokharian GB171
+1.0    2
+Name: count, dtype: int64
+**** --------> Albanian GB171
+1.0    3
+Name: count, dtype: int64
+**** --------> Celtic GB171
+1.0    3
+0.0    1
+Name: count, dtype: int64
+*** ----> Anatolian GB171
+1.0    1
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Luvo-Lydian GB171
+0.0    1
+Name: count, dtype: int64
+
+
+==============================
+
+
+** Afro-Asiatic GB171
+1.0    72
+0.0    42
+Name: count, dtype: int64
+*** ----> Chadic GB171
+0.0    28
+1.0    13
+Name: count, dtype: int64
+**** --------> Biu-Mandara GB171
+0.0    18
+1.0     3
+Name: count, dtype: int64
+**** --------> West Chadic GB171
+0.0    9
+1.0    6
+Name: count, dtype: int64
+**** --------> Masa GB171
+1.0    1
+0.0    1
+Name: count, dtype: int64
+**** --------> East Chadic GB171
+1.0    3
+Name: count, dtype: int64
+*** ----> Cushitic GB171
+1.0    24
+0.0     4
+Name: count, dtype: int64
+**** --------> South Cushitic GB171
+1.0    3
+Name: count, dtype: int64
+**** --------> East Cushitic GB171
+1.0    18
+0.0     3
+Name: count, dtype: int64
+**** --------> Agaw GB171
+1.0    2
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Semitic GB171
+1.0    27
+0.0     7
+Name: count, dtype: int64
+**** --------> West Semitic GB171
+1.0    26
+0.0     7
+Name: count, dtype: int64
+**** --------> East Semitic GB171
+1.0    1
+Name: count, dtype: int64
+*** ----> Berber GB171
+1.0    7
+0.0    3
+Name: count, dtype: int64
+**** --------> Tuareg GB171
+1.0    4
+Name: count, dtype: int64
+**** --------> Kabyle-Atlas Berber GB171
+0.0    1
+1.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Greater Zenatic GB171
+1.0    1
+0.0    1
+Name: count, dtype: int64
+*** ----> Egyptian GB171
+1.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Pama-Nyungan GB171
+0.0    73
+1.0     6
+Name: count, dtype: int64
+*** ----> Paman GB171
+0.0    9
+Name: count, dtype: int64
+**** --------> Alaya-Athima GB171
+0.0    2
+Name: count, dtype: int64
+**** --------> Compromise Middle Pama GB171
+0.0    3
+Name: count, dtype: int64
+**** --------> Northern Pama GB171
+0.0    1
+Name: count, dtype: int64
+**** --------> Southwest Pama GB171
+0.0    2
+Name: count, dtype: int64
+**** --------> Mayabic GB171
+0.0    1
+Name: count, dtype: int64
+*** ----> South-West Pama-Nyungan GB171
+0.0    8
+Name: count, dtype: int64
+**** --------> Pilbara GB171
+0.0    6
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Kartu-Nhanda GB171
+0.0    1
+Name: count, dtype: int64
+*** ----> Desert Nyungic GB171
+0.0    12
+1.0     4
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Wati GB171
+0.0    6
+Name: count, dtype: int64
+**** --------> Ngumpin-Yapa GB171
+0.0    4
+1.0    4
+Name: count, dtype: int64
+**** --------> Marrngu GB171
+0.0    2
+Name: count, dtype: int64
+*** ----> Southeastern Pama-Nyungan GB171
+0.0    14
+Name: count, dtype: int64
+**** --------> Victorian Pama-Nyungan GB171
+0.0    5
+Name: count, dtype: int64
+**** --------> North Coast Pama-Nyungan GB171
+0.0    4
+Name: count, dtype: int64
+**** --------> New South Wales Pama-Nyungan GB171
+0.0    3
+Name: count, dtype: int64
+**** --------> Wiradhuric GB171
+0.0    2
+Name: count, dtype: int64
+*** ----> Greater Maric GB171
+0.0    7
+Name: count, dtype: int64
+**** --------> Guwa-Maric GB171
+0.0    7
+Name: count, dtype: int64
+*** ----> Karnic GB171
+0.0    4
+Name: count, dtype: int64
+**** --------> Badjiri-Eastern Karnic GB171
+0.0    1
+Name: count, dtype: int64
+**** --------> Central Karnic GB171
+0.0    1
+Name: count, dtype: int64
+**** --------> Palku GB171
+0.0    2
+Name: count, dtype: int64
+*** ----> Arandic-Thura-Yura GB171
+0.0    6
+Name: count, dtype: int64
+**** --------> Arandic GB171
+0.0    3
+Name: count, dtype: int64
+**** --------> Thura-Yura GB171
+0.0    3
+Name: count, dtype: int64
+*** ----> Ngarna GB171
+0.0    2
+Name: count, dtype: int64
+**** --------> Southern Ngarna GB171
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Yuulngu GB171
+1.0    1
+0.0    1
+Name: count, dtype: int64
+**** --------> Southern Yolngu GB171
+1.0    1
+Name: count, dtype: int64
+**** --------> Western-Inland Yolngu GB171
+0.0    1
+Name: count, dtype: int64
+*** ----> Yimidhirr-Yalanji-Yidinic GB171
+0.0    3
+Name: count, dtype: int64
+**** --------> Yidinic GB171
+0.0    1
+Name: count, dtype: int64
+**** --------> Yalandyic GB171
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> nan Series([], Name: count, dtype: int64)
+*** ----> Macleay-New England GB171
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Kalkatungic GB171
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Yarli-Baagandji GB171
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Nyawaygic GB171
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Ganaic Series([], Name: count, dtype: int64)
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Rockhampton-Gladstone GB171
+1.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+
+
+
+* GB172 Can an article agree with the noun in noun class/gender?
+** Austronesian GB172
+0.0    518
+1.0     29
+Name: count, dtype: int64
+*** ----> Malayo-Polynesian GB172
+0.0    507
+1.0     29
+Name: count, dtype: int64
+**** --------> Bima-Lembata GB172
+0.0    16
+Name: count, dtype: int64
+**** --------> Central Luzon GB172
+0.0    6
+Name: count, dtype: int64
+**** --------> Basap-Greater Barito GB172
+0.0    15
+Name: count, dtype: int64
+**** --------> Eastern Malayo-Polynesian GB172
+0.0    265
+1.0     19
+Name: count, dtype: int64
+**** --------> Tanimbar-Bomberai GB172
+0.0    2
+Name: count, dtype: int64
+**** --------> North Borneo Malayo-Polynesian GB172
+0.0    25
+Name: count, dtype: int64
+**** --------> Greater Central Philippine GB172
+0.0    30
+1.0     7
+Name: count, dtype: int64
+**** --------> Malayo-Sumbawan GB172
+0.0    39
+Name: count, dtype: int64
+**** --------> Celebic GB172
+0.0    19
+Name: count, dtype: int64
+**** --------> Northern Luzon GB172
+0.0    23
+1.0     3
+Name: count, dtype: int64
+**** --------> Greater Seram Laut GB172
+0.0    2
+Name: count, dtype: int64
+**** --------> Land Dayak GB172
+0.0    5
+Name: count, dtype: int64
+**** --------> Timor-Babar GB172
+0.0    15
+Name: count, dtype: int64
+**** --------> Batanic GB172
+0.0    3
+Name: count, dtype: int64
+**** --------> Nunusaku GB172
+0.0    6
+Name: count, dtype: int64
+**** --------> Northwest Sumatra-Barrier Islands GB172
+0.0    5
+Name: count, dtype: int64
+**** --------> South Sulawesi GB172
+0.0    6
+Name: count, dtype: int64
+**** --------> Javanesic GB172
+0.0    3
+Name: count, dtype: int64
+**** --------> Aru GB172
+0.0    2
+Name: count, dtype: int64
+**** --------> Minahasan GB172
+0.0    2
+Name: count, dtype: int64
+**** --------> Kalamian GB172
+0.0    1
+Name: count, dtype: int64
+**** --------> Central Timor GB172
+0.0    2
+Name: count, dtype: int64
+**** --------> Moken-Moklen GB172
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Tolitoli GB172
+0.0    1
+Name: count, dtype: int64
+**** --------> Bilic GB172
+0.0    3
+Name: count, dtype: int64
+**** --------> Lampungic GB172
+0.0    1
+Name: count, dtype: int64
+**** --------> Sangiric GB172
+0.0    3
+Name: count, dtype: int64
+**** --------> West Central Maluku GB172
+0.0    1
+Name: count, dtype: int64
+**** --------> North Mangyan GB172
+0.0    1
+Name: count, dtype: int64
+*** ----> East Formosan GB172
+0.0    5
+Name: count, dtype: int64
+**** --------> Northern East Formosan GB172
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Central East Formosan GB172
+0.0    2
+Name: count, dtype: int64
+*** ----> nan Series([], Name: count, dtype: int64)
+*** ----> Northwest Formosan GB172
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Tsouic GB172
+0.0    2
+Name: count, dtype: int64
+**** --------> Kanakanavu-Saaroa GB172
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Atayalic Series([], Name: count, dtype: int64)
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Western Plains Austronesian GB172
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Atlantic-Congo GB172
+0.0    258
+1.0     55
+Name: count, dtype: int64
+*** ----> Volta-Congo GB172
+0.0    251
+1.0     44
+Name: count, dtype: int64
+**** --------> Benue-Congo GB172
+0.0    183
+1.0     32
+Name: count, dtype: int64
+**** --------> North Volta-Congo GB172
+0.0    52
+1.0     7
+Name: count, dtype: int64
+**** --------> Kwa Volta-Congo GB172
+0.0    13
+1.0     5
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Unclassified Volta-Congo GB172
+0.0    2
+Name: count, dtype: int64
+*** ----> North-Central Atlantic GB172
+1.0    7
+0.0    3
+Name: count, dtype: int64
+**** --------> Wolof-BKK GB172
+1.0    1
+0.0    1
+Name: count, dtype: int64
+**** --------> Cangin GB172
+1.0    1
+Name: count, dtype: int64
+**** --------> Central Atlantic GB172
+0.0    1
+1.0    1
+Name: count, dtype: int64
+**** --------> Fula-Sereer GB172
+1.0    4
+Name: count, dtype: int64
+**** --------> Jaad GB172
+0.0    1
+Name: count, dtype: int64
+*** ----> Mel GB172
+1.0    4
+0.0    3
+Name: count, dtype: int64
+**** --------> Northern Mel GB172
+1.0    3
+0.0    1
+Name: count, dtype: int64
+**** --------> Southern Mel GB172
+0.0    2
+1.0    1
+Name: count, dtype: int64
+*** ----> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Sino-Tibetan GB172
+0.0    208
+Name: count, dtype: int64
+*** ----> Burmo-Qiangic GB172
+0.0    54
+Name: count, dtype: int64
+**** --------> Lolo-Burmese GB172
+0.0    35
+Name: count, dtype: int64
+**** --------> Na-Qiangic GB172
+0.0    18
+Name: count, dtype: int64
+**** --------> Tujia GB172
+0.0    1
+Name: count, dtype: int64
+*** ----> Bodic GB172
+0.0    27
+Name: count, dtype: int64
+**** --------> Bodish GB172
+0.0    14
+Name: count, dtype: int64
+**** --------> West Himalayish GB172
+0.0    6
+Name: count, dtype: int64
+**** --------> Kaike-Ghale-Tamangic GB172
+0.0    6
+Name: count, dtype: int64
+**** --------> Tshanglic GB172
+0.0    1
+Name: count, dtype: int64
+*** ----> Sinitic GB172
+0.0    13
+Name: count, dtype: int64
+**** --------> Classical-Middle-Modern Sinitic GB172
+0.0    10
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Min GB172
+0.0    2
+Name: count, dtype: int64
+*** ----> Kuki-Chin-Naga GB172
+0.0    39
+Name: count, dtype: int64
+**** --------> Kuki-Chin GB172
+0.0    25
+Name: count, dtype: int64
+**** --------> Angami-Ao GB172
+0.0    7
+Name: count, dtype: int64
+**** --------> Zemeic GB172
+0.0    4
+Name: count, dtype: int64
+**** --------> Tangkhul-Maring GB172
+0.0    3
+Name: count, dtype: int64
+**** --------> Karbic Series([], Name: count, dtype: int64)
+*** ----> Himalayish GB172
+0.0    27
+Name: count, dtype: int64
+**** --------> Mahakiranti GB172
+0.0    26
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Macro-Bai GB172
+0.0    3
+Name: count, dtype: int64
+**** --------> Baic GB172
+0.0    3
+Name: count, dtype: int64
+*** ----> Dhimalish GB172
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Digarish GB172
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Raji-Raute GB172
+0.0    2
+Name: count, dtype: int64
+**** --------> Raute-Rawat GB172
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Brahmaputran GB172
+0.0    14
+Name: count, dtype: int64
+**** --------> Konyak GB172
+0.0    4
+Name: count, dtype: int64
+**** --------> Bodo-Garo GB172
+0.0    6
+Name: count, dtype: int64
+**** --------> Jingpho-Luish GB172
+0.0    4
+Name: count, dtype: int64
+*** ----> Macro-Tani GB172
+0.0    8
+Name: count, dtype: int64
+**** --------> Tani GB172
+0.0    7
+Name: count, dtype: int64
+**** --------> Koro-Holon GB172
+0.0    1
+Name: count, dtype: int64
+*** ----> Miji GB172
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Kho-Bwa GB172
+0.0    3
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Western Kho-Bwa GB172
+0.0    2
+Name: count, dtype: int64
+**** --------> Puroikic GB172
+0.0    1
+Name: count, dtype: int64
+*** ----> Mruic GB172
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Karenic GB172
+0.0    7
+Name: count, dtype: int64
+**** --------> Central Karen GB172
+0.0    2
+Name: count, dtype: int64
+**** --------> Northern Karen GB172
+0.0    3
+Name: count, dtype: int64
+**** --------> Southern Karen GB172
+0.0    1
+Name: count, dtype: int64
+**** --------> Peripheral Karen GB172
+0.0    1
+Name: count, dtype: int64
+*** ----> Kman-Meyor GB172
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Nungish GB172
+0.0    2
+Name: count, dtype: int64
+**** --------> Gunong GB172
+0.0    2
+Name: count, dtype: int64
+
+
+==============================
+
+
+** Indo-European GB172
+0.0    111
+1.0     58
+Name: count, dtype: int64
+*** ----> Classical Indo-European GB172
+0.0    109
+1.0     58
+Name: count, dtype: int64
+**** --------> Indo-Iranian GB172
+0.0    67
+1.0    12
+Name: count, dtype: int64
+**** --------> Italic GB172
+1.0    22
+0.0     5
+Name: count, dtype: int64
+**** --------> Graeco-Phrygian GB172
+1.0    3
+Name: count, dtype: int64
+**** --------> Balto-Slavic GB172
+0.0    12
+1.0     2
+Name: count, dtype: int64
+**** --------> Armenic GB172
+0.0    3
+Name: count, dtype: int64
+**** --------> Germanic GB172
+0.0    18
+1.0    14
+Name: count, dtype: int64
+**** --------> Tokharian GB172
+0.0    2
+Name: count, dtype: int64
+**** --------> Albanian GB172
+1.0    3
+Name: count, dtype: int64
+**** --------> Celtic GB172
+1.0    2
+0.0    2
+Name: count, dtype: int64
+*** ----> Anatolian GB172
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Luvo-Lydian GB172
+0.0    1
+Name: count, dtype: int64
+
+
+==============================
+
+
+** Afro-Asiatic GB172
+0.0    80
+1.0    33
+Name: count, dtype: int64
+*** ----> Chadic GB172
+0.0    35
+1.0    10
+Name: count, dtype: int64
+**** --------> Biu-Mandara GB172
+0.0    20
+1.0     4
+Name: count, dtype: int64
+**** --------> West Chadic GB172
+0.0    13
+1.0     4
+Name: count, dtype: int64
+**** --------> Masa GB172
+1.0    1
+0.0    1
+Name: count, dtype: int64
+**** --------> East Chadic GB172
+1.0    1
+0.0    1
+Name: count, dtype: int64
+*** ----> Cushitic GB172
+0.0    13
+1.0    11
+Name: count, dtype: int64
+**** --------> South Cushitic GB172
+0.0    2
+1.0    1
+Name: count, dtype: int64
+**** --------> East Cushitic GB172
+0.0    9
+1.0    8
+Name: count, dtype: int64
+**** --------> Agaw GB172
+0.0    2
+1.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Semitic GB172
+0.0    28
+1.0     6
+Name: count, dtype: int64
+**** --------> West Semitic GB172
+0.0    27
+1.0     6
+Name: count, dtype: int64
+**** --------> East Semitic GB172
+0.0    1
+Name: count, dtype: int64
+*** ----> Berber GB172
+1.0    5
+0.0    4
+Name: count, dtype: int64
+**** --------> Tuareg GB172
+1.0    4
+Name: count, dtype: int64
+**** --------> Kabyle-Atlas Berber GB172
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Greater Zenatic GB172
+0.0    1
+1.0    1
+Name: count, dtype: int64
+*** ----> Egyptian GB172
+1.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Pama-Nyungan GB172
+0.0    81
+Name: count, dtype: int64
+*** ----> Paman GB172
+0.0    9
+Name: count, dtype: int64
+**** --------> Alaya-Athima GB172
+0.0    2
+Name: count, dtype: int64
+**** --------> Compromise Middle Pama GB172
+0.0    3
+Name: count, dtype: int64
+**** --------> Northern Pama GB172
+0.0    1
+Name: count, dtype: int64
+**** --------> Southwest Pama GB172
+0.0    2
+Name: count, dtype: int64
+**** --------> Mayabic GB172
+0.0    1
+Name: count, dtype: int64
+*** ----> South-West Pama-Nyungan GB172
+0.0    8
+Name: count, dtype: int64
+**** --------> Pilbara GB172
+0.0    6
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Kartu-Nhanda GB172
+0.0    1
+Name: count, dtype: int64
+*** ----> Desert Nyungic GB172
+0.0    17
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Wati GB172
+0.0    6
+Name: count, dtype: int64
+**** --------> Ngumpin-Yapa GB172
+0.0    9
+Name: count, dtype: int64
+**** --------> Marrngu GB172
+0.0    2
+Name: count, dtype: int64
+*** ----> Southeastern Pama-Nyungan GB172
+0.0    14
+Name: count, dtype: int64
+**** --------> Victorian Pama-Nyungan GB172
+0.0    5
+Name: count, dtype: int64
+**** --------> North Coast Pama-Nyungan GB172
+0.0    4
+Name: count, dtype: int64
+**** --------> New South Wales Pama-Nyungan GB172
+0.0    3
+Name: count, dtype: int64
+**** --------> Wiradhuric GB172
+0.0    2
+Name: count, dtype: int64
+*** ----> Greater Maric GB172
+0.0    7
+Name: count, dtype: int64
+**** --------> Guwa-Maric GB172
+0.0    7
+Name: count, dtype: int64
+*** ----> Karnic GB172
+0.0    4
+Name: count, dtype: int64
+**** --------> Badjiri-Eastern Karnic GB172
+0.0    1
+Name: count, dtype: int64
+**** --------> Central Karnic GB172
+0.0    1
+Name: count, dtype: int64
+**** --------> Palku GB172
+0.0    2
+Name: count, dtype: int64
+*** ----> Arandic-Thura-Yura GB172
+0.0    7
+Name: count, dtype: int64
+**** --------> Arandic GB172
+0.0    3
+Name: count, dtype: int64
+**** --------> Thura-Yura GB172
+0.0    4
+Name: count, dtype: int64
+*** ----> Ngarna GB172
+0.0    3
+Name: count, dtype: int64
+**** --------> Southern Ngarna GB172
+0.0    3
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Yuulngu GB172
+0.0    2
+Name: count, dtype: int64
+**** --------> Southern Yolngu GB172
+0.0    1
+Name: count, dtype: int64
+**** --------> Western-Inland Yolngu GB172
+0.0    1
+Name: count, dtype: int64
+*** ----> Yimidhirr-Yalanji-Yidinic GB172
+0.0    3
+Name: count, dtype: int64
+**** --------> Yidinic GB172
+0.0    1
+Name: count, dtype: int64
+**** --------> Yalandyic GB172
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> nan Series([], Name: count, dtype: int64)
+*** ----> Macleay-New England GB172
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Kalkatungic GB172
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Yarli-Baagandji GB172
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Nyawaygic GB172
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Ganaic Series([], Name: count, dtype: int64)
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Rockhampton-Gladstone Series([], Name: count, dtype: int64)
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+
+
+
+* GB192 Is there a gender system where a noun's phonological properties are a factor in class assignment?
+** Austronesian GB192
+0.0    531
+1.0      2
+Name: count, dtype: int64
+*** ----> Malayo-Polynesian GB192
+0.0    520
+1.0      2
+Name: count, dtype: int64
+**** --------> Bima-Lembata GB192
+0.0    16
+Name: count, dtype: int64
+**** --------> Central Luzon GB192
+0.0    7
+Name: count, dtype: int64
+**** --------> Basap-Greater Barito GB192
+0.0    13
+Name: count, dtype: int64
+**** --------> Eastern Malayo-Polynesian GB192
+0.0    274
+1.0      1
+Name: count, dtype: int64
+**** --------> Tanimbar-Bomberai GB192
+0.0    2
+Name: count, dtype: int64
+**** --------> North Borneo Malayo-Polynesian GB192
+0.0    22
+Name: count, dtype: int64
+**** --------> Greater Central Philippine GB192
+0.0    37
+Name: count, dtype: int64
+**** --------> Malayo-Sumbawan GB192
+0.0    38
+Name: count, dtype: int64
+**** --------> Celebic GB192
+0.0    18
+Name: count, dtype: int64
+**** --------> Northern Luzon GB192
+0.0    26
+Name: count, dtype: int64
+**** --------> Greater Seram Laut GB192
+0.0    2
+Name: count, dtype: int64
+**** --------> Land Dayak GB192
+0.0    5
+Name: count, dtype: int64
+**** --------> Timor-Babar GB192
+0.0    14
+Name: count, dtype: int64
+**** --------> Batanic GB192
+0.0    3
+Name: count, dtype: int64
+**** --------> Nunusaku GB192
+0.0    7
+1.0    1
+Name: count, dtype: int64
+**** --------> Northwest Sumatra-Barrier Islands GB192
+0.0    5
+Name: count, dtype: int64
+**** --------> South Sulawesi GB192
+0.0    6
+Name: count, dtype: int64
+**** --------> Javanesic GB192
+0.0    3
+Name: count, dtype: int64
+**** --------> Aru GB192
+0.0    2
+Name: count, dtype: int64
+**** --------> Minahasan GB192
+0.0    2
+Name: count, dtype: int64
+**** --------> Kalamian GB192
+0.0    1
+Name: count, dtype: int64
+**** --------> Central Timor GB192
+0.0    2
+Name: count, dtype: int64
+**** --------> Moken-Moklen GB192
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Tolitoli GB192
+0.0    1
+Name: count, dtype: int64
+**** --------> Bilic GB192
+0.0    3
+Name: count, dtype: int64
+**** --------> Lampungic GB192
+0.0    1
+Name: count, dtype: int64
+**** --------> Sangiric GB192
+0.0    3
+Name: count, dtype: int64
+**** --------> West Central Maluku GB192
+0.0    1
+Name: count, dtype: int64
+**** --------> North Mangyan GB192
+0.0    1
+Name: count, dtype: int64
+*** ----> East Formosan GB192
+0.0    5
+Name: count, dtype: int64
+**** --------> Northern East Formosan GB192
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Central East Formosan GB192
+0.0    2
+Name: count, dtype: int64
+*** ----> nan Series([], Name: count, dtype: int64)
+*** ----> Northwest Formosan GB192
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Tsouic GB192
+0.0    2
+Name: count, dtype: int64
+**** --------> Kanakanavu-Saaroa GB192
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Atayalic Series([], Name: count, dtype: int64)
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Western Plains Austronesian GB192
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Atlantic-Congo GB192
+0.0    241
+1.0     46
+Name: count, dtype: int64
+*** ----> Volta-Congo GB192
+0.0    229
+1.0     41
+Name: count, dtype: int64
+**** --------> Benue-Congo GB192
+0.0    164
+1.0     35
+Name: count, dtype: int64
+**** --------> North Volta-Congo GB192
+0.0    51
+1.0     4
+Name: count, dtype: int64
+**** --------> Kwa Volta-Congo GB192
+0.0    11
+1.0     2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Unclassified Volta-Congo GB192
+0.0    2
+Name: count, dtype: int64
+*** ----> North-Central Atlantic GB192
+1.0    5
+0.0    4
+Name: count, dtype: int64
+**** --------> Wolof-BKK GB192
+0.0    1
+1.0    1
+Name: count, dtype: int64
+**** --------> Cangin GB192
+0.0    1
+Name: count, dtype: int64
+**** --------> Central Atlantic GB192
+0.0    2
+Name: count, dtype: int64
+**** --------> Fula-Sereer GB192
+1.0    4
+Name: count, dtype: int64
+**** --------> Jaad Series([], Name: count, dtype: int64)
+*** ----> Mel GB192
+0.0    7
+Name: count, dtype: int64
+**** --------> Northern Mel GB192
+0.0    3
+Name: count, dtype: int64
+**** --------> Southern Mel GB192
+0.0    4
+Name: count, dtype: int64
+*** ----> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Sino-Tibetan GB192
+0.0    210
+Name: count, dtype: int64
+*** ----> Burmo-Qiangic GB192
+0.0    53
+Name: count, dtype: int64
+**** --------> Lolo-Burmese GB192
+0.0    34
+Name: count, dtype: int64
+**** --------> Na-Qiangic GB192
+0.0    18
+Name: count, dtype: int64
+**** --------> Tujia GB192
+0.0    1
+Name: count, dtype: int64
+*** ----> Bodic GB192
+0.0    27
+Name: count, dtype: int64
+**** --------> Bodish GB192
+0.0    14
+Name: count, dtype: int64
+**** --------> West Himalayish GB192
+0.0    6
+Name: count, dtype: int64
+**** --------> Kaike-Ghale-Tamangic GB192
+0.0    6
+Name: count, dtype: int64
+**** --------> Tshanglic GB192
+0.0    1
+Name: count, dtype: int64
+*** ----> Sinitic GB192
+0.0    13
+Name: count, dtype: int64
+**** --------> Classical-Middle-Modern Sinitic GB192
+0.0    10
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Min GB192
+0.0    2
+Name: count, dtype: int64
+*** ----> Kuki-Chin-Naga GB192
+0.0    40
+Name: count, dtype: int64
+**** --------> Kuki-Chin GB192
+0.0    24
+Name: count, dtype: int64
+**** --------> Angami-Ao GB192
+0.0    7
+Name: count, dtype: int64
+**** --------> Zemeic GB192
+0.0    4
+Name: count, dtype: int64
+**** --------> Tangkhul-Maring GB192
+0.0    3
+Name: count, dtype: int64
+**** --------> Karbic GB192
+0.0    2
+Name: count, dtype: int64
+*** ----> Himalayish GB192
+0.0    28
+Name: count, dtype: int64
+**** --------> Mahakiranti GB192
+0.0    27
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Macro-Bai GB192
+0.0    3
+Name: count, dtype: int64
+**** --------> Baic GB192
+0.0    3
+Name: count, dtype: int64
+*** ----> Dhimalish GB192
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Digarish GB192
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Raji-Raute GB192
+0.0    2
+Name: count, dtype: int64
+**** --------> Raute-Rawat GB192
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Brahmaputran GB192
+0.0    14
+Name: count, dtype: int64
+**** --------> Konyak GB192
+0.0    4
+Name: count, dtype: int64
+**** --------> Bodo-Garo GB192
+0.0    6
+Name: count, dtype: int64
+**** --------> Jingpho-Luish GB192
+0.0    4
+Name: count, dtype: int64
+*** ----> Macro-Tani GB192
+0.0    8
+Name: count, dtype: int64
+**** --------> Tani GB192
+0.0    7
+Name: count, dtype: int64
+**** --------> Koro-Holon GB192
+0.0    1
+Name: count, dtype: int64
+*** ----> Miji GB192
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Kho-Bwa GB192
+0.0    4
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Western Kho-Bwa GB192
+0.0    2
+Name: count, dtype: int64
+**** --------> Puroikic GB192
+0.0    1
+Name: count, dtype: int64
+*** ----> Mruic GB192
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Karenic GB192
+0.0    7
+Name: count, dtype: int64
+**** --------> Central Karen GB192
+0.0    2
+Name: count, dtype: int64
+**** --------> Northern Karen GB192
+0.0    3
+Name: count, dtype: int64
+**** --------> Southern Karen GB192
+0.0    1
+Name: count, dtype: int64
+**** --------> Peripheral Karen GB192
+0.0    1
+Name: count, dtype: int64
+*** ----> Kman-Meyor GB192
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Nungish GB192
+0.0    2
+Name: count, dtype: int64
+**** --------> Gunong GB192
+0.0    2
+Name: count, dtype: int64
+
+
+==============================
+
+
+** Indo-European GB192
+0.0    104
+1.0     66
+Name: count, dtype: int64
+*** ----> Classical Indo-European GB192
+0.0    102
+1.0     66
+Name: count, dtype: int64
+**** --------> Indo-Iranian GB192
+0.0    57
+1.0    23
+Name: count, dtype: int64
+**** --------> Italic GB192
+1.0    20
+0.0     7
+Name: count, dtype: int64
+**** --------> Graeco-Phrygian GB192
+0.0    3
+1.0    1
+Name: count, dtype: int64
+**** --------> Balto-Slavic GB192
+1.0    12
+0.0     2
+Name: count, dtype: int64
+**** --------> Armenic GB192
+0.0    3
+Name: count, dtype: int64
+**** --------> Germanic GB192
+0.0    26
+1.0     5
+Name: count, dtype: int64
+**** --------> Tokharian GB192
+0.0    2
+Name: count, dtype: int64
+**** --------> Albanian GB192
+1.0    2
+0.0    1
+Name: count, dtype: int64
+**** --------> Celtic GB192
+1.0    3
+0.0    1
+Name: count, dtype: int64
+*** ----> Anatolian GB192
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Luvo-Lydian GB192
+0.0    1
+Name: count, dtype: int64
+
+
+==============================
+
+
+** Afro-Asiatic GB192
+0.0    82
+1.0    32
+Name: count, dtype: int64
+*** ----> Chadic GB192
+0.0    39
+1.0     4
+Name: count, dtype: int64
+**** --------> Biu-Mandara GB192
+0.0    19
+1.0     2
+Name: count, dtype: int64
+**** --------> West Chadic GB192
+0.0    14
+1.0     2
+Name: count, dtype: int64
+**** --------> Masa GB192
+0.0    2
+Name: count, dtype: int64
+**** --------> East Chadic GB192
+0.0    4
+Name: count, dtype: int64
+*** ----> Cushitic GB192
+0.0    19
+1.0     7
+Name: count, dtype: int64
+**** --------> South Cushitic GB192
+0.0    2
+1.0    1
+Name: count, dtype: int64
+**** --------> East Cushitic GB192
+0.0    13
+1.0     6
+Name: count, dtype: int64
+**** --------> Agaw GB192
+0.0    3
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Semitic GB192
+0.0    18
+1.0    16
+Name: count, dtype: int64
+**** --------> West Semitic GB192
+0.0    18
+1.0    15
+Name: count, dtype: int64
+**** --------> East Semitic GB192
+1.0    1
+Name: count, dtype: int64
+*** ----> Berber GB192
+1.0    5
+0.0    5
+Name: count, dtype: int64
+**** --------> Tuareg GB192
+1.0    2
+0.0    2
+Name: count, dtype: int64
+**** --------> Kabyle-Atlas Berber GB192
+0.0    1
+1.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Greater Zenatic GB192
+1.0    1
+0.0    1
+Name: count, dtype: int64
+*** ----> Egyptian GB192
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Pama-Nyungan GB192
+0.0    79
+Name: count, dtype: int64
+*** ----> Paman GB192
+0.0    9
+Name: count, dtype: int64
+**** --------> Alaya-Athima GB192
+0.0    2
+Name: count, dtype: int64
+**** --------> Compromise Middle Pama GB192
+0.0    3
+Name: count, dtype: int64
+**** --------> Northern Pama GB192
+0.0    1
+Name: count, dtype: int64
+**** --------> Southwest Pama GB192
+0.0    2
+Name: count, dtype: int64
+**** --------> Mayabic GB192
+0.0    1
+Name: count, dtype: int64
+*** ----> South-West Pama-Nyungan GB192
+0.0    8
+Name: count, dtype: int64
+**** --------> Pilbara GB192
+0.0    6
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Kartu-Nhanda GB192
+0.0    1
+Name: count, dtype: int64
+*** ----> Desert Nyungic GB192
+0.0    16
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Wati GB192
+0.0    6
+Name: count, dtype: int64
+**** --------> Ngumpin-Yapa GB192
+0.0    8
+Name: count, dtype: int64
+**** --------> Marrngu GB192
+0.0    2
+Name: count, dtype: int64
+*** ----> Southeastern Pama-Nyungan GB192
+0.0    14
+Name: count, dtype: int64
+**** --------> Victorian Pama-Nyungan GB192
+0.0    5
+Name: count, dtype: int64
+**** --------> North Coast Pama-Nyungan GB192
+0.0    4
+Name: count, dtype: int64
+**** --------> New South Wales Pama-Nyungan GB192
+0.0    3
+Name: count, dtype: int64
+**** --------> Wiradhuric GB192
+0.0    2
+Name: count, dtype: int64
+*** ----> Greater Maric GB192
+0.0    7
+Name: count, dtype: int64
+**** --------> Guwa-Maric GB192
+0.0    7
+Name: count, dtype: int64
+*** ----> Karnic GB192
+0.0    4
+Name: count, dtype: int64
+**** --------> Badjiri-Eastern Karnic GB192
+0.0    1
+Name: count, dtype: int64
+**** --------> Central Karnic GB192
+0.0    1
+Name: count, dtype: int64
+**** --------> Palku GB192
+0.0    2
+Name: count, dtype: int64
+*** ----> Arandic-Thura-Yura GB192
+0.0    7
+Name: count, dtype: int64
+**** --------> Arandic GB192
+0.0    3
+Name: count, dtype: int64
+**** --------> Thura-Yura GB192
+0.0    4
+Name: count, dtype: int64
+*** ----> Ngarna GB192
+0.0    3
+Name: count, dtype: int64
+**** --------> Southern Ngarna GB192
+0.0    3
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Yuulngu GB192
+0.0    1
+Name: count, dtype: int64
+**** --------> Southern Yolngu Series([], Name: count, dtype: int64)
+**** --------> Western-Inland Yolngu GB192
+0.0    1
+Name: count, dtype: int64
+*** ----> Yimidhirr-Yalanji-Yidinic GB192
+0.0    3
+Name: count, dtype: int64
+**** --------> Yidinic GB192
+0.0    1
+Name: count, dtype: int64
+**** --------> Yalandyic GB192
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> nan Series([], Name: count, dtype: int64)
+*** ----> Macleay-New England GB192
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Kalkatungic GB192
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Yarli-Baagandji GB192
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Nyawaygic GB192
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Ganaic Series([], Name: count, dtype: int64)
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Rockhampton-Gladstone Series([], Name: count, dtype: int64)
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+
+
+
+* GB321 Is there a large class of nouns whose noun class/gender is not phonologically or semantically predictable?
+** Austronesian GB321
+0.0    508
+1.0      7
+Name: count, dtype: int64
+*** ----> Malayo-Polynesian GB321
+0.0    497
+1.0      7
+Name: count, dtype: int64
+**** --------> Bima-Lembata GB321
+0.0    16
+Name: count, dtype: int64
+**** --------> Central Luzon GB321
+0.0    6
+Name: count, dtype: int64
+**** --------> Basap-Greater Barito GB321
+0.0    12
+Name: count, dtype: int64
+**** --------> Eastern Malayo-Polynesian GB321
+0.0    256
+1.0      6
+Name: count, dtype: int64
+**** --------> Tanimbar-Bomberai GB321
+0.0    2
+Name: count, dtype: int64
+**** --------> North Borneo Malayo-Polynesian GB321
+0.0    23
+Name: count, dtype: int64
+**** --------> Greater Central Philippine GB321
+0.0    37
+Name: count, dtype: int64
+**** --------> Malayo-Sumbawan GB321
+0.0    37
+Name: count, dtype: int64
+**** --------> Celebic GB321
+0.0    16
+Name: count, dtype: int64
+**** --------> Northern Luzon GB321
+0.0    25
+Name: count, dtype: int64
+**** --------> Greater Seram Laut GB321
+0.0    3
+Name: count, dtype: int64
+**** --------> Land Dayak GB321
+0.0    4
+Name: count, dtype: int64
+**** --------> Timor-Babar GB321
+0.0    15
+Name: count, dtype: int64
+**** --------> Batanic GB321
+0.0    3
+Name: count, dtype: int64
+**** --------> Nunusaku GB321
+0.0    7
+Name: count, dtype: int64
+**** --------> Northwest Sumatra-Barrier Islands GB321
+0.0    5
+Name: count, dtype: int64
+**** --------> South Sulawesi GB321
+0.0    6
+Name: count, dtype: int64
+**** --------> Javanesic GB321
+0.0    3
+Name: count, dtype: int64
+**** --------> Aru GB321
+1.0    1
+0.0    1
+Name: count, dtype: int64
+**** --------> Minahasan GB321
+0.0    2
+Name: count, dtype: int64
+**** --------> Kalamian GB321
+0.0    1
+Name: count, dtype: int64
+**** --------> Central Timor GB321
+0.0    2
+Name: count, dtype: int64
+**** --------> Moken-Moklen GB321
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Tolitoli GB321
+0.0    1
+Name: count, dtype: int64
+**** --------> Bilic GB321
+0.0    3
+Name: count, dtype: int64
+**** --------> Lampungic GB321
+0.0    1
+Name: count, dtype: int64
+**** --------> Sangiric GB321
+0.0    3
+Name: count, dtype: int64
+**** --------> West Central Maluku GB321
+0.0    1
+Name: count, dtype: int64
+**** --------> North Mangyan GB321
+0.0    1
+Name: count, dtype: int64
+*** ----> East Formosan GB321
+0.0    5
+Name: count, dtype: int64
+**** --------> Northern East Formosan GB321
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Central East Formosan GB321
+0.0    2
+Name: count, dtype: int64
+*** ----> nan Series([], Name: count, dtype: int64)
+*** ----> Northwest Formosan GB321
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Tsouic GB321
+0.0    2
+Name: count, dtype: int64
+**** --------> Kanakanavu-Saaroa GB321
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Atayalic Series([], Name: count, dtype: int64)
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Western Plains Austronesian GB321
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Atlantic-Congo GB321
+0.0    136
+1.0    132
+Name: count, dtype: int64
+*** ----> Volta-Congo GB321
+0.0    133
+1.0    124
+Name: count, dtype: int64
+**** --------> Benue-Congo GB321
+1.0    113
+0.0     80
+Name: count, dtype: int64
+**** --------> North Volta-Congo GB321
+0.0    39
+1.0    10
+Name: count, dtype: int64
+**** --------> Kwa Volta-Congo GB321
+0.0    11
+1.0     1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Unclassified Volta-Congo GB321
+0.0    2
+Name: count, dtype: int64
+*** ----> North-Central Atlantic GB321
+1.0    2
+0.0    1
+Name: count, dtype: int64
+**** --------> Wolof-BKK GB321
+0.0    1
+Name: count, dtype: int64
+**** --------> Cangin GB321
+1.0    1
+Name: count, dtype: int64
+**** --------> Central Atlantic Series([], Name: count, dtype: int64)
+**** --------> Fula-Sereer Series([], Name: count, dtype: int64)
+**** --------> Jaad GB321
+1.0    1
+Name: count, dtype: int64
+*** ----> Mel GB321
+1.0    6
+0.0    1
+Name: count, dtype: int64
+**** --------> Northern Mel GB321
+1.0    2
+0.0    1
+Name: count, dtype: int64
+**** --------> Southern Mel GB321
+1.0    4
+Name: count, dtype: int64
+*** ----> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Sino-Tibetan GB321
+0.0    208
+1.0      1
+Name: count, dtype: int64
+*** ----> Burmo-Qiangic GB321
+0.0    51
+Name: count, dtype: int64
+**** --------> Lolo-Burmese GB321
+0.0    32
+Name: count, dtype: int64
+**** --------> Na-Qiangic GB321
+0.0    18
+Name: count, dtype: int64
+**** --------> Tujia GB321
+0.0    1
+Name: count, dtype: int64
+*** ----> Bodic GB321
+0.0    26
+1.0     1
+Name: count, dtype: int64
+**** --------> Bodish GB321
+0.0    14
+Name: count, dtype: int64
+**** --------> West Himalayish GB321
+0.0    6
+Name: count, dtype: int64
+**** --------> Kaike-Ghale-Tamangic GB321
+0.0    5
+1.0    1
+Name: count, dtype: int64
+**** --------> Tshanglic GB321
+0.0    1
+Name: count, dtype: int64
+*** ----> Sinitic GB321
+0.0    13
+Name: count, dtype: int64
+**** --------> Classical-Middle-Modern Sinitic GB321
+0.0    10
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Min GB321
+0.0    2
+Name: count, dtype: int64
+*** ----> Kuki-Chin-Naga GB321
+0.0    41
+Name: count, dtype: int64
+**** --------> Kuki-Chin GB321
+0.0    25
+Name: count, dtype: int64
+**** --------> Angami-Ao GB321
+0.0    7
+Name: count, dtype: int64
+**** --------> Zemeic GB321
+0.0    4
+Name: count, dtype: int64
+**** --------> Tangkhul-Maring GB321
+0.0    3
+Name: count, dtype: int64
+**** --------> Karbic GB321
+0.0    2
+Name: count, dtype: int64
+*** ----> Himalayish GB321
+0.0    28
+Name: count, dtype: int64
+**** --------> Mahakiranti GB321
+0.0    27
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Macro-Bai GB321
+0.0    3
+Name: count, dtype: int64
+**** --------> Baic GB321
+0.0    3
+Name: count, dtype: int64
+*** ----> Dhimalish GB321
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Digarish GB321
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Raji-Raute GB321
+0.0    2
+Name: count, dtype: int64
+**** --------> Raute-Rawat GB321
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Brahmaputran GB321
+0.0    14
+Name: count, dtype: int64
+**** --------> Konyak GB321
+0.0    4
+Name: count, dtype: int64
+**** --------> Bodo-Garo GB321
+0.0    6
+Name: count, dtype: int64
+**** --------> Jingpho-Luish GB321
+0.0    4
+Name: count, dtype: int64
+*** ----> Macro-Tani GB321
+0.0    8
+Name: count, dtype: int64
+**** --------> Tani GB321
+0.0    7
+Name: count, dtype: int64
+**** --------> Koro-Holon GB321
+0.0    1
+Name: count, dtype: int64
+*** ----> Miji GB321
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Kho-Bwa GB321
+0.0    4
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Western Kho-Bwa GB321
+0.0    2
+Name: count, dtype: int64
+**** --------> Puroikic GB321
+0.0    1
+Name: count, dtype: int64
+*** ----> Mruic GB321
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Karenic GB321
+0.0    7
+Name: count, dtype: int64
+**** --------> Central Karen GB321
+0.0    2
+Name: count, dtype: int64
+**** --------> Northern Karen GB321
+0.0    3
+Name: count, dtype: int64
+**** --------> Southern Karen GB321
+0.0    1
+Name: count, dtype: int64
+**** --------> Peripheral Karen GB321
+0.0    1
+Name: count, dtype: int64
+*** ----> Kman-Meyor GB321
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Nungish GB321
+0.0    2
+Name: count, dtype: int64
+**** --------> Gunong GB321
+0.0    2
+Name: count, dtype: int64
+
+
+==============================
+
+
+** Indo-European GB321
+0.0    134
+1.0     32
+Name: count, dtype: int64
+*** ----> Classical Indo-European GB321
+0.0    132
+1.0     32
+Name: count, dtype: int64
+**** --------> Indo-Iranian GB321
+0.0    63
+1.0    15
+Name: count, dtype: int64
+**** --------> Italic GB321
+0.0    28
+Name: count, dtype: int64
+**** --------> Graeco-Phrygian GB321
+1.0    3
+Name: count, dtype: int64
+**** --------> Balto-Slavic GB321
+0.0    11
+1.0     3
+Name: count, dtype: int64
+**** --------> Armenic GB321
+0.0    3
+Name: count, dtype: int64
+**** --------> Germanic GB321
+0.0    21
+1.0     8
+Name: count, dtype: int64
+**** --------> Tokharian GB321
+1.0    1
+0.0    1
+Name: count, dtype: int64
+**** --------> Albanian GB321
+0.0    2
+1.0    1
+Name: count, dtype: int64
+**** --------> Celtic GB321
+0.0    3
+1.0    1
+Name: count, dtype: int64
+*** ----> Anatolian GB321
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Luvo-Lydian GB321
+0.0    1
+Name: count, dtype: int64
+
+
+==============================
+
+
+** Afro-Asiatic GB321
+0.0    70
+1.0    23
+Name: count, dtype: int64
+*** ----> Chadic GB321
+0.0    25
+1.0    11
+Name: count, dtype: int64
+**** --------> Biu-Mandara GB321
+0.0    12
+1.0     6
+Name: count, dtype: int64
+**** --------> West Chadic GB321
+0.0    10
+1.0     3
+Name: count, dtype: int64
+**** --------> Masa GB321
+1.0    1
+0.0    1
+Name: count, dtype: int64
+**** --------> East Chadic GB321
+0.0    2
+1.0    1
+Name: count, dtype: int64
+*** ----> Cushitic GB321
+0.0    11
+1.0     5
+Name: count, dtype: int64
+**** --------> South Cushitic GB321
+1.0    1
+Name: count, dtype: int64
+**** --------> East Cushitic GB321
+0.0    8
+1.0    4
+Name: count, dtype: int64
+**** --------> Agaw GB321
+0.0    3
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Semitic GB321
+0.0    27
+1.0     5
+Name: count, dtype: int64
+**** --------> West Semitic GB321
+0.0    27
+1.0     4
+Name: count, dtype: int64
+**** --------> East Semitic GB321
+1.0    1
+Name: count, dtype: int64
+*** ----> Berber GB321
+0.0    6
+1.0    2
+Name: count, dtype: int64
+**** --------> Tuareg GB321
+0.0    3
+1.0    1
+Name: count, dtype: int64
+**** --------> Kabyle-Atlas Berber GB321
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Greater Zenatic GB321
+0.0    1
+1.0    1
+Name: count, dtype: int64
+*** ----> Egyptian GB321
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
+** Pama-Nyungan GB321
+0.0    71
+Name: count, dtype: int64
+*** ----> Paman GB321
+0.0    4
+Name: count, dtype: int64
+**** --------> Alaya-Athima GB321
+0.0    2
+Name: count, dtype: int64
+**** --------> Compromise Middle Pama GB321
+0.0    1
+Name: count, dtype: int64
+**** --------> Northern Pama Series([], Name: count, dtype: int64)
+**** --------> Southwest Pama Series([], Name: count, dtype: int64)
+**** --------> Mayabic GB321
+0.0    1
+Name: count, dtype: int64
+*** ----> South-West Pama-Nyungan GB321
+0.0    8
+Name: count, dtype: int64
+**** --------> Pilbara GB321
+0.0    6
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Kartu-Nhanda GB321
+0.0    1
+Name: count, dtype: int64
+*** ----> Desert Nyungic GB321
+0.0    16
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+**** --------> Wati GB321
+0.0    6
+Name: count, dtype: int64
+**** --------> Ngumpin-Yapa GB321
+0.0    7
+Name: count, dtype: int64
+**** --------> Marrngu GB321
+0.0    1
+Name: count, dtype: int64
+*** ----> Southeastern Pama-Nyungan GB321
+0.0    12
+Name: count, dtype: int64
+**** --------> Victorian Pama-Nyungan GB321
+0.0    3
+Name: count, dtype: int64
+**** --------> North Coast Pama-Nyungan GB321
+0.0    4
+Name: count, dtype: int64
+**** --------> New South Wales Pama-Nyungan GB321
+0.0    3
+Name: count, dtype: int64
+**** --------> Wiradhuric GB321
+0.0    2
+Name: count, dtype: int64
+*** ----> Greater Maric GB321
+0.0    7
+Name: count, dtype: int64
+**** --------> Guwa-Maric GB321
+0.0    7
+Name: count, dtype: int64
+*** ----> Karnic GB321
+0.0    4
+Name: count, dtype: int64
+**** --------> Badjiri-Eastern Karnic GB321
+0.0    1
+Name: count, dtype: int64
+**** --------> Central Karnic GB321
+0.0    1
+Name: count, dtype: int64
+**** --------> Palku GB321
+0.0    2
+Name: count, dtype: int64
+*** ----> Arandic-Thura-Yura GB321
+0.0    5
+Name: count, dtype: int64
+**** --------> Arandic GB321
+0.0    2
+Name: count, dtype: int64
+**** --------> Thura-Yura GB321
+0.0    3
+Name: count, dtype: int64
+*** ----> Ngarna GB321
+0.0    3
+Name: count, dtype: int64
+**** --------> Southern Ngarna GB321
+0.0    3
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Yuulngu GB321
+0.0    2
+Name: count, dtype: int64
+**** --------> Southern Yolngu GB321
+0.0    1
+Name: count, dtype: int64
+**** --------> Western-Inland Yolngu GB321
+0.0    1
+Name: count, dtype: int64
+*** ----> Yimidhirr-Yalanji-Yidinic GB321
+0.0    3
+Name: count, dtype: int64
+**** --------> Yidinic GB321
+0.0    1
+Name: count, dtype: int64
+**** --------> Yalandyic GB321
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> nan Series([], Name: count, dtype: int64)
+*** ----> Macleay-New England GB321
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Kalkatungic GB321
+0.0    2
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Yarli-Baagandji GB321
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Nyawaygic GB321
+0.0    1
+Name: count, dtype: int64
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Ganaic Series([], Name: count, dtype: int64)
+**** --------> nan Series([], Name: count, dtype: int64)
+*** ----> Rockhampton-Gladstone Series([], Name: count, dtype: int64)
+**** --------> nan Series([], Name: count, dtype: int64)
+
+
+==============================
+
+
