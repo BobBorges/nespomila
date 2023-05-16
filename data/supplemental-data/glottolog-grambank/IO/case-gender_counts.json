@@ -3867,7 +3867,7 @@
         }
     },
     "GB192": {
-        "description": "Can an article agree with the noun in noun class/gender?",
+        "description": "Is there a gender system where a noun's phonological properties are a factor in class assignment?",
         "values": {
             "0": 2364,
             "1": 174,

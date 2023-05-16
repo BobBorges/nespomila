@@ -139,7 +139,7 @@ def main():
 			}
 		}, 
 		"GB192": {
-			"description": "Can an article agree with the noun in noun class/gender?",
+			"description": "Is there a gender system where a noun's phonological properties are a factor in class assignment?",
 			"values": {
 				0:0,
 				1:0,
@@ -168,6 +168,9 @@ def main():
 		}
 	}
 
+	"""
+	## Github version
+
 	tsvdir = "original_sheets"
 	tsvs = os.listdir(tsvdir)
 	tsvs = [t for t in tsvs if t != '.gitattributes']
@@ -185,14 +188,42 @@ def main():
 					gbinfo['values']['other'] +=1
 			else:
 				gbinfo['values']['other'] +=1
+	"""
+
+	# v1.0.3
+	df = pd.read_csv("../grambank-v1.0.3/grambank-grambank-7ae000c/cldf/values.csv")
+	langs = df["Language_ID"].unique()
+	params = df["Parameter_ID"].unique()
+	print(len(params))
+	print(langs)
+	print(type(langs))
+	print(len(langs))
+	for feature, f_info in GBs.items():
+		sub_df = df[df["Parameter_ID"] == feature]
+		print(f"    ---|  {feature}  |---")
+		VC = sub_df['Value'].value_counts()
+		print(VC)
+		for i, v in VC.items():
+			idx = None
+			if i == "?":
+				idx = "other"
+			else:
+				idx = int(i)
+			f_info["values"][idx] = v
+			if idx == 1:
+				[f_info["present"].append(_) for _ in list(sub_df.loc[sub_df["Value"] == str(idx), "Language_ID"].unique())]
+
 
 	gender_agreement = calculate_gender_agreement(GBs)
-	print(f"There are {gender_agreement} languages that employ some gender agreement across the NP -- {(gender_agreement/len(tsvs))*100}%")
-	# There are 770 languages that employ some gender agreement across the NP -- 25.62396006655574%
+	#print(f"There are {gender_agreement} languages that employ some gender agreement across the NP -- {(gender_agreement/len(tsvs))*100}%") # github
+	print(f"There are {gender_agreement} languages that employ some gender agreement across the NP -- {(gender_agreement/len(langs))*100}%") # v1.0.3
+	# Github: There are 770 languages that employ some gender agreement across the NP -- 25.62396006655574%
+	# v1.0.3: There are 643 languages that employ some gender agreement across the NP -- 26.06404539927037%
 	print("More details in `IO/case-gender_counts.json`.")
 
 	GBs = calculate_percent(GBs)
-	with open("IO/case-gender_counts.json", "w+") as outf:
+	with open("IO/case-gender_counts_v-github", "w+") as outf:
+	#with open("IO/case-gender_counts_v1.0.3.json", "w+") as outf:
 		json.dump(GBs, outf, indent=4)
 
 
