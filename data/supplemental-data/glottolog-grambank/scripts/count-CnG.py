@@ -222,8 +222,8 @@ def main():
 	print("More details in `IO/case-gender_counts.json`.")
 
 	GBs = calculate_percent(GBs)
-	with open("IO/case-gender_counts_v-github", "w+") as outf:
-	#with open("IO/case-gender_counts_v1.0.3.json", "w+") as outf:
+	#with open("IO/case-gender_counts_v-github.json", "w+") as outf:
+	with open("IO/case-gender_counts_v1.0.3.json", "w+") as outf:
 		json.dump(GBs, outf, indent=4)
 
 
