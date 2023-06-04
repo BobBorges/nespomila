@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="NESPOMILA - Robert Borges" DATE="2023-03-14T12:15:26+01:00" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file://wsl$/Ubuntu/home/gfifienjd/HVC-post-analyses/HVC-transcriptions/VidNar_201711281700_JMS_T1_IND_rec-birds1/L-VidNar_201711281700_JMS_T1_IND_rec-birds1.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./L-VidNar_201711281700_JMS_T1_IND_rec-birds1.wav" />
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:11e657ed-ac08-4fe6-8568-fc4a31deffec</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">28</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1420" />
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="8300" />
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="8300" />
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="10920" />
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="10920" />
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="16050" />
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="16050" />
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="19200" />
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="19200" />
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="23570" />
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="23590" />
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="25270" />
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="25680" />
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="27310" />
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="28620" />
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="35140" />
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="35860" />
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="37120" />
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="37240" />
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="40000" />
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="40000" />
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="42190" />
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="42190" />
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="44160" />
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="44160" />
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="47030" />
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="51860" />
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="53280" />
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="53280" />
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="54420" />
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="54420" />
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="59610" />
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="orthographic_transcription">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>yta dy hün myta kłyk... kłuks myta kłük... myta yyy hinła gejt</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>diöh dy coün</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>zej zit uf dy... dy łecta, zej frasa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>ȧbysła, zej ging wȧg uf dy coün</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>zej zan: ȧs, cwe, drȧj, fjyr - ȧn s'ej kȧ fjydys ny</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>s'ej wȧg uf dy s...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>ȧna s'ej kȧ nist ny</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>ȧna dy klinys fret cyr hyłf, cyr hyłf cym mama-kukła, zej hisa zy cym...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>gejt diöt</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>zej wułda ny, bo zej zih fjet ȧbysła</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>zej fłigja rym</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>ȧna zej ging... s'jyśty</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>wen zej müter s'ej zjyr bejz uf dejh </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbass" PARENT_REF="orthographic_transcription" TIER_ID="rough_translation_ENG">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a17" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE />
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE />
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbass" PARENT_REF="orthographic_transcription" TIER_ID="analytical_observations">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a19" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>kłuks - kwoka</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>diöhȧ coün*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a21" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE />
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>wȧg fum coün*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>zej zit* kȧ fjydy* (chyba)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE />
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>ȧna dos kliny fret yr kłuka-mama yr hyłf (?), zej hȧst zy...*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>...diöt cy gejn*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>bo zej fjeta zih ȧbysła*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>u tej informatorki nie zaznaczam wszystkich błędów - proszę o kontakt, gdyby potrzebne było wskazanie większej ich liczby - znamienne jest to, że mimo bogatego zasobu słownikowego, informatorka często myli formy gramatyczne używanych przez nią wyrazów, ostatnie zdanie dobrze to ilustruje: zej fłigja rym ȧna zej ging... s'jyśty, wen zej müter s'ej zjyr bejz uf dejh - dosłownie oznaczałoby to coś w stylu: 'one latają wkoło i one szły(ona szła?)... pierwsze, kiedy one matka to jest bardzo złe na ciebie' - informatorce zapewne chodziło o zdanie w rodzaju: s'fłoügt runder, ȧn s'gejt, s'jyśty, bo dy müter ej zjyr bejz ufys"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true" />
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="symbass" TIME_ALIGNABLE="false" />
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision" />
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision" />
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association" />
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In" />
+</ANNOTATION_DOCUMENT>

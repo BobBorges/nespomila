@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="NESPOMILA - Robert Borges"
+    DATE="2023-01-16T14:26:14+01:00" FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///home/bob/NESPOMILA/project-data/transcriptions/RAN-b3-002_wym_103_2022-07-08-20-52-32/L-RAN-b3-002_wym_103_2022-07-08-20-52-32.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./L-RAN-b3-002_wym_103_2022-07-08-20-52-32.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:01cce222-6e05-423e-b924-f88d6c854d20</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">3</PROPERTY>
+    </HEADER>
+    <TIME_ORDER/>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="orthographic_transcription"/>
+    <TIER LINGUISTIC_TYPE_REF="symbass"
+        PARENT_REF="orthographic_transcription" TIER_ID="rough_translation_ENG"/>
+    <TIER LINGUISTIC_TYPE_REF="symbass"
+        PARENT_REF="orthographic_transcription" TIER_ID="analytical_observations"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="symbass" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

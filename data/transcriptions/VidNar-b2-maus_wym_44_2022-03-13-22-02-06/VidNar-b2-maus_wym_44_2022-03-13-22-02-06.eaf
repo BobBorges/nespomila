@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="NESPOMILA - Robert Borges" DATE="2022-12-26T21:25:06+01:00" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file://wsl$/Ubuntu/home/gfifienjd/NESPOMILA/project-data/transcriptions/VidNar-b2-maus_wym_44_2022-03-13-22-02-06/L-VidNar-b2-maus_wym_44_2022-03-13-22-02-06.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./L-VidNar-b2-maus_wym_44_2022-03-13-22-02-06.wav" />
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:a99c593c-b0ae-4869-a8aa-39691ce1ac8f</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">50</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="110" />
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="110" />
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="110" />
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="110" />
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="3010" />
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="3010" />
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="3010" />
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="3010" />
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="5180" />
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="5180" />
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="6430" />
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="7310" />
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="9130" />
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="9470" />
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="10670" />
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="11080" />
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="12520" />
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="15340" />
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="16290" />
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="16290" />
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="17500" />
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="17500" />
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="18650" />
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="18880" />
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="20190" />
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="21750" />
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="23710" />
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="25730" />
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="28410" />
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="28800" />
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="32430" />
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="32430" />
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="34970" />
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="34970" />
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="34970" />
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="34970" />
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="35480" />
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="35480" />
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="35480" />
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="36420" />
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="39730" />
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="40100" />
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="41190" />
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="41190" />
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="42340" />
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="42340" />
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="44190" />
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="44930" />
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="48860" />
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="49250" />
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="50390" />
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="50730" />
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="51640" />
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="51640" />
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="51640" />
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="51640" />
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="53830" />
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="53830" />
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="53830" />
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="53830" />
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="55180" />
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="55780" />
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="57730" />
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="57730" />
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="58940" />
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="58940" />
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="58940" />
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="58940" />
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="59610" />
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="59610" />
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="59610" />
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="59610" />
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="60580" />
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="60580" />
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="61950" />
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="orthographic_transcription">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>h'za nok "M5", o, s'ej</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>o, ȧ kresküwka</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>ȧ moüz kymt</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>s'nymt</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>ȧn banan</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>dy moüz</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>wyt'ȧ asa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>eee, s'höt</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>dos, wi mȧ dos ziöet, ys's...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>h'kon ny byśrȧjwa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>bo'h wȧ ny, wi mȧ dos ziöet wymysiöeryś, dos, dos...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>y wam der banan ej</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>dy moüz priöebjyt dos y ȧm kiöeb</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>eee</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>cy, cy, cy łön</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>oder diöt ej fylȧjht ȧ źuw oba wos ȧna</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>eee</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>eee</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>har inda</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>wüf dos cyryk</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>uf dy moüz</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>dos</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>h'wȧ ny, no skürk</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbass" PARENT_REF="orthographic_transcription" TIER_ID="rough_translation_ENG">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE />
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE />
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE />
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbass" PARENT_REF="orthographic_transcription" TIER_ID="analytical_observations">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>maybe "M5" is something else - hard to tell, I already forgot what was on the screen</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>should've been "zy nymt" since "moüz" is feminine (maybe English influence agaian?~it takes~)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE />
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>again ~it has~ (s'höt) instead of "zy höt" (maybe it was "z'höt" - such forms are possible tho rather archaic) - chyba że "s'höt" nie miało się odnosić do myszy, ale do czegoś innego</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>the last part might've been reduced "dos" and not "ys's" - hard to tell since it's, well, reduced xd</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>I defenitely do abuse the reduced form of the 1 person singular personal pronoun "yhy" - I'm not saying such forms aren't possible, I'm just saying they're usually not used as frequently as I use them xd</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>"priöebjyt dos" should've been pronounced as [priöebjy_dos] instead of [priöebjy_d:os] as I did</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>(pronounced almost like źułw) - more correct form is probably "żuw" - it seems to me I tried to make it sound more Wymysorys thus the umlaut and change of ż into ź</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>zwilamowszczenie polskiego "skórka"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true" />
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="symbass" TIME_ALIGNABLE="false" />
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision" />
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision" />
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association" />
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In" />
+</ANNOTATION_DOCUMENT>

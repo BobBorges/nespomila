@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="NESPOMILA - Robert Borges" DATE="2023-03-12T12:43:11+01:00" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file://wsl$/Ubuntu/home/gfifienjd/HVC-post-analyses/HVC-transcriptions/VidNar_201712021430_SP_T1_IND_rec-birds1/L-VidNar_201712021430_SP_T1_IND_rec-birds1.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./L-VidNar_201712021430_SP_T1_IND_rec-birds1.wav" />
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:f6241fad-0211-4753-8446-1ed823de66cc</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">31</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="3760" />
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="3760" />
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="15400" />
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="15400" />
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="19440" />
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="19440" />
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="28170" />
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="28170" />
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="33150" />
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="33150" />
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="36990" />
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="36990" />
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="45950" />
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="45950" />
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="57730" />
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="57730" />
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="61620" />
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="61620" />
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="64370" />
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="64370" />
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="66850" />
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="66850" />
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="70120" />
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="70120" />
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="73090" />
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="73090" />
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="74780" />
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="74780" />
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="76170" />
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="76170" />
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="77710" />
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="77710" />
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="78780" />
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="78780" />
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="80140" />
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="80140" />
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="81270" />
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="81270" />
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="84070" />
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="84070" />
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="97580" />
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="97580" />
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="102560" />
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="102560" />
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="104440" />
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="104440" />
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="108040" />
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="108040" />
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="108040" />
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="108040" />
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="108650" />
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="108650" />
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="108650" />
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="108650" />
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="110750" />
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="110750" />
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="116600" />
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="116600" />
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="127880" />
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="127880" />
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="136360" />
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="orthographic_transcription">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>to dobra, gramy dalej, tylko po polsku, okej?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>to było jak kura szła z kurczakami zjeść ziarna i, wracając jedna kura... jedna kurka się zgubiła</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>i znalazły się i, no, duża kura poszła szukać jej i znalazła - super</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbass" PARENT_REF="orthographic_transcription" TIER_ID="rough_translation_ENG" />
+    <TIER LINGUISTIC_TYPE_REF="symbass" PARENT_REF="orthographic_transcription" TIER_ID="analytical_observations" />
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true" />
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="symbass" TIME_ALIGNABLE="false" />
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision" />
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision" />
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association" />
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In" />
+</ANNOTATION_DOCUMENT>

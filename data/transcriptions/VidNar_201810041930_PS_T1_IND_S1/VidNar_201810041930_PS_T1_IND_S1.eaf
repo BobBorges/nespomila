@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="NESPOMILA - Robert Borges" DATE="2023-02-11T18:55:30+01:00" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file://wsl$/Ubuntu/home/gfifienjd/HVC-post-analyses/HVC-transcriptions/VidNar_201810041930_PS_T1_IND_S1/L-VidNar_201810041930_PS_T1_IND_S1.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./L-VidNar_201810041930_PS_T1_IND_S1.wav" />
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:34f9a338-5179-4aee-a0b7-9d4dce6d84d9</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">16</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="670" />
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="670" />
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="2200" />
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="2200" />
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="5320" />
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="5320" />
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="5320" />
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="5320" />
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="5990" />
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="5990" />
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="5990" />
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="5990" />
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="8810" />
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="8810" />
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="11370" />
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="11370" />
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="13860" />
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="13860" />
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="15720" />
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="15720" />
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="16280" />
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="16280" />
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="16280" />
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="16280" />
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="18680" />
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="orthographic_transcription">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>(angielski): so</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>diöt zȧ... diöt ej ȧ menć mytum</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>eh, ȧ wos ej dos? yhy wȧ ny, wo...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>je dos y wymysiöeryś ȧna dos ej</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>ȧ fojer, dos wiöe ȧ fojer, haha</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>ȧna dos ej, dos ej</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>oły, yhy, yhy k... kon ziöen fu [dam]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbass" PARENT_REF="orthographic_transcription" TIER_ID="rough_translation_ENG" />
+    <TIER LINGUISTIC_TYPE_REF="symbass" PARENT_REF="orthographic_transcription" TIER_ID="analytical_observations">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>ej dos*, a nie "je dos"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>powinno być ołys*, nie "oły"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true" />
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="symbass" TIME_ALIGNABLE="false" />
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision" />
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision" />
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association" />
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In" />
+</ANNOTATION_DOCUMENT>

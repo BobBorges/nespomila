@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="NESPOMILA - Robert Borges"
+    DATE="2021-10-14T13:02:47+01:00" FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///home/maciej/NESPOMILA/csb-pilot/csb-pilot-data/transcriptions/VID-190814_1200-maus/L-VID-190814_1200-maus.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./L-VID-190814_1200-maus.wav"/>
+        <PROPERTY NAME="URN">
+    urn:nl-mpi-tools-elan-eaf:2bb01589-bf3d-4141-871d-8f31be10fd9b</PROPERTY>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:b45b2f0b-f466-4850-95be-3ca6084db560</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">20</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="6020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="6040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="14510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="14550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="21000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="21020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="33010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="33020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="36430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="36460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="44250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="44260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="51680"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="orthographic_transcription">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>nastãpni film, zaczinô sa wod jakjisz czôrnich</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>je to téż anjimòvóné, jidze na njim jakôs farvnô mesz, apfelzinovô mje so zdôvô, jakô v rãku trzima banana, wodmikô go</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>i vecigna z tego żôłtégo wobleczenjego</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>terô zastanavja sa, co z tõ skórõ zrobjic, vrzuca do kòsza, a kòsz nazad ta skóra woddôł, won, ta mesz nazad to vrzuci, a ten kòsz nazôd téż ta skóra woddôł</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>mesz jidze, zdrzi, co tam v tim kòszu je</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>je baro zdzevòvónô, vrzucô jesz rôz, wobrôcô... wobracivô na dregô strona ten kòsz, a ten kòsz jidze z tełu za tõ meszõ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>pòd spódka beł zdôvô mje so, że jakjisz żłóv, ale nje jem gvesnô</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbass"
+        PARENT_REF="orthographic_transcription" TIER_ID="rough_translation_ENG">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>next video, it starts from some black ones (?!)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>it's animated too, some colourful mouse is walking in it, it's orange, I think, and she's holding a banana in her hand, she's opening it</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a11" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>and she pulled it out from the yellow garment</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a12" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>now she's thinking what to do with the peel, throws it into the bin and the bin gave the peel back, he, the mouse, throws it back again and the bin gave the peel back, too</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>the mouse goes, looks inside the bin</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>she's very surprised, throws it in again, turns the bin on the other side, and the bin walks behind after the mouse</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>underneath there was some turtle, I think, but I'm not sure</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbass"
+        PARENT_REF="orthographic_transcription" TIER_ID="analytical_observations">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>farvnô (neolog.), trzima~trzimô</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a17" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>-ò, -ù &gt; -o, -u; -'ego (!)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>zastanavja, sa, nazad~nazôd</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a19" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>wobracivô, N=A dregô strona</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="symbass" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

@@ -1,0 +1,1056 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="NESPOMILA - Robert Borges" DATE="2022-06-21T17:58:05" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/bob/NESPOMILA/project-data/transcriptions/VidNar-b4-masha_csb_66_2022-06-01-13-30-24/L-VidNar-b4-masha_csb_66_2022-06-01-13-30-24.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./L-VidNar-b4-masha_csb_66_2022-06-01-13-30-24.wav" />
+        <PROPERTY NAME="lastUsedAnnotationId">1</PROPERTY>
+    </HEADER>
+    <TIME_ORDER><TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="2140" /><TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="5500" /><TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="5500" /><TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="7690" /><TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="7690" /><TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="15340" /><TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="15340" /><TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="24900" /><TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="26800" /><TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="33150" /><TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="33150" /><TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="34520" /><TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="39140" /><TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="43750" /><TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="47960" /><TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="50090" /><TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="50820" /><TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="52030" /><TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="54500" /><TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="62630" /><TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="65000" /><TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="66160" /><TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="66160" /><TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="81370" /><TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="81370" /><TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="83010" /><TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="86520" /><TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="95830" /><TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="96570" /><TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="100460" /><TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="100980" /><TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="103950" /><TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="105630" /><TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="110500" /><TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="112130" /><TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="114880" /><TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="119230" /><TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="121510" /><TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="122290" /><TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="127500" /><TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="127500" /><TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="140770" /><TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="140770" /><TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="142540" /><TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="142540" /><TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="145790" /><TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="148970" /><TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="151120" /><TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="154080" /><TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="157760" /><TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="157760" /><TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="159810" /><TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="160470" /><TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="169710" /><TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="169710" /><TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="171280" /><TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="171940" /><TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="175470" /><TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="175470" /><TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="180170" /><TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="180170" /><TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="188750" /><TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="190740" /><TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="192940" /><TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="193450" /><TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="195040" /><TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="198150" /><TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="199870" /><TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="201190" /><TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="203880" /><TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="203880" /><TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="211350" /><TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="212220" /><TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="213980" /><TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="213980" /><TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="226440" /><TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="227150" /><TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="230890" /><TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="232460" /><TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="235540" /><TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="235540" /><TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="236970" /><TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="238320" /><TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="243920" /><TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="244670" /><TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="248070" /><TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="249410" /><TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="250560" /><TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="252310" /><TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="254450" /><TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="261279" /><TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="264710" /><TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="265390" /><TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="267530" /><TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="272410" /><TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="278620" /><TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="280330" /><TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="282430" /><TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="284110" /><TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="285480" /><TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="285480" /><TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="289610" /><TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="290410" /><TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="296950" /><TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="296950" /><TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="298370" /><TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="300010" /><TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="304230" /><TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="304830" /><TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="308260" /><TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="309220" /><TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="313060" /><TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="316800" /><TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="318230" /><TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="325970" /><TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="327870" /><TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="327870" /><TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="329600" /><TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="329600" /><TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="336040" /><TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="336040" /><TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="341030" /><TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="341030" /><TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="346840" /><TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="346840" /><TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="347990" /><TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="349600" /><TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="350610" /><TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="351930" /><TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="353330" /><TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="358310" /><TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="363270" /><TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="363270" /><TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="368040" /><TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="368040" /><TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="370060" /><TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="370060" /><TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="372820" /></TIME_ORDER><TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="orthographic_transcription">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>widzimy różne naczelnik</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>garnki Olkusz</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>oto ćwiczenie to nie znam tą zaczytanym piękną o jedź sobie niedźwiedź niedźwiedź</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>gra sam ze sobą w warcaby luty Jest taki samotny niedźwiedź lubi święty spokój tak jak ja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>i on gra ze sobą ale jednocześnie korzysta z takiego podręcznika</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>tak iść</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Zwolnij szafirkowata adres w białymi raz jest czarny</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>gra ze sobą No po prostu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>białe wygrywa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>o ktoś zabrał czarny krążek A to jest masa czyli taka mała dziewczynka która wychodzi tego biednego niedźwiedzia i go w</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Masza</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>klasa na podłodze Niedźwiedzia Korzystając z tego czarnego krążka który zabrała niedźwiedź coś tam wyczarował że na krążku się pojawił obrazek niedźwiedzia</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>nasze szczęście</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>a Ani a bo niedźwiedź dał jej jakąś jakiś inny krążę po prostu dobra z niedźwiedziem a ten czarny sobie wziął z powrotem I dalej ze sobą</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>doskonale wiadomo że biały i tak to wygrała</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>denerwuje</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>czego do hokeju możemy jeszcze nieznana w porcie</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>nie uderza tego niedźwiedzia</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>krążki motory dostałam</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>niedźwiedź wszedł do ogródka który</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>rosła marchew w którym był jeden królik zawierającym jedzie Wziął tego królika wystawił go tak żeby Masza się z nim bawiła i jego męczyła a nie tego Niedźwiedzia a niedźwiedź wraca do</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>Barca</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>muszę sobie jeszcze ten Pionki dobrze poustawiać</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>nasza wróciła razem z kurwa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>niedźwiedź Łódź ze swojego domu zostaw</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>masz jakąś LEGO</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>coś niedobrego Ale ja wiem co się będzie działo dalej poznam Centralnym to ona będzie gotowała taką różową jakąś legum</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>i tylko strasznie dużo</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>Załęska Masza gotuje gotuje gotuje</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>kasza jakie znalazła u niedźwiedzia do tego dorzuciła dzisiaj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>kompot 6 słoików trochę mógł mleka i Taką ważną w piątek niższej niż</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>i jest róża</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>tylko różowe godziny</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>idzie jeść</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>różową kaszę mannę</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>ale niedźwiedź poszedł sobie do lasu nad jakieś jeziorko stawek i spokojnie sobie</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>Anastazja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>patrzę a tam w tym garnku jeszcze tyle kaszy i klikasz będzie coraz więcej i więcej on to wszystko musi zjeść i bierz garnki</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>które znajdują niedźwiedzia i jesteś garnków</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>kasza która cały czas 13:00</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>ładuje</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>do pucharu do wszystkich naczyń które są domu Masza bierze</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>proszę nawet zabrała królikowi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>trójek</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>karmi tego król</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>niedźwiedź z jednym nie może poradzić</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>No wreszcie wygrał</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>się cieszę A nasze karmi różowym wszystkie zwierzęta które są w lesie teraz złapał</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>teraz złapało wiewiór</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>wiewiórka</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>tak gruba że nie może brać do swojego domku teraz</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>dziki jedzą zadowolone Ale zjadły tak dużo że już na kolejny garnie mogą patrzeć tej garnku</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>są setki</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>i Masza nieprzytomnemu wilkowi w Ducato</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>a nie dziś tam się cieszy z tymi swoimi Wars</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>i nasza Walczę z tym różowym walczę</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>niedźwiedź</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>Masza</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>nie wie o co chodzi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>a jego dom to znaczy wybuchła garnek z tą kasą</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>bo masz A zamiast zdjąć z ognia to po prostu cały czas miała</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>teraz niedźwiedź tam sobie bawi się tymi swoimi palcami a masz osprzęt</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>po sprzęt</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>wszystko</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>niedźwiedź jest dodo</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>Masza Czekam na jakieś jedzenie niedźwiedź daj A tą różową kaszę</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE>ale ona nie chce jeść bo się z przejadła A tutaj cały dom</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE>salon domes różowata</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE>lodówka w lodówce na szafce</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbass" TIER_ID="rough_translation_ENG" PARENT_REF="orthographic_transcription">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>We see various heads </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>Olkusz pots </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Here is the exercise I do not know the beautiful bear of the bear </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>He plays with himself in the checkers of February there is such a lonely bear likes holy peace like me </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>And he plays with himself but at the same time uses such a textbook </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>go </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>Slow down the sapphire address in white time is black </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>playing with you simply </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>White wins </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>Someone took a black disc and this is a mass, which is a little girl who comes out of this poor bear and him in </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Masha </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>Class on the floor of the bear using this black disc which took the bear something there, it conjured up that a picture of a bear appeared on the album </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>our happiness </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>And neither a because the bear gave her some other circulation just good with a bear and he took the black one back and further with him </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>It is perfectly known that white won it anyway </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>annoys </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>What can we still do to the hockey in the port </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>it doesn't hit this bear </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>I got the bikes </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>The bear entered the garden who </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>Carrot grew in which one rabbit was a riding, he took this rabbit, put it up so that he has fun with him and tired of him and not this bear and the bear returns to </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>Barca </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>I still have to put this pawn well </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>ours came back with the fuck </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>Leave the bear from your home </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>you have some lego </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>something bad, but I know what will happen further I will meet the central, she will cook such a pink legum </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>and only a lot </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>Załęska Masha cooks cooking cooks </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>She added the porridge she found at the bear today </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>The compote of 6 jars could have a little milk and so important on Friday lower than </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>And there is a rose </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>Only pink hours </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>He goes to eat </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>pink semolina </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>But the bear went to the forest over a lake of rates and calmly </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>Anastasia </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>I look and there in this pot still so much groats and click it will be more and more he has to eat it all and take pots </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>which they find the bear and you are pots </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>porridge that all the time 13:00 </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>charges </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>to the cup for all the dishes that are the house of Masha takes </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>Please, even took the rabbit </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>threate </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>the king feeds this </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>A bear with one cannot advise </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>Well, he finally won </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>I'm happy and our pink feeds all animals that are in the forest now caught </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>now the squirrel caught </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>squirrel </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>so fat that he can't take it to his house now </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>Wilds eat satisfied but they ate so much that they can look at this pot at the next pot </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>There are hundreds </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>and Masha the unconscious wolf in Ducato </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>And not today there is happy with your wars </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>and ours is fighting with this pink, I fight </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>bear </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>Masha </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>He doesn't know what's going on </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>and his house, i.e. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>because you have and instead of taking off the fire it just had all the time </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>Now the bear is playing with his fingers and you have accessories </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>for equipment </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>all </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>The bear is DODO </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>Masha, I am waiting for some food, give me this pink porridge </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>But she doesn't want to eat because she overestimated and here the whole house </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a137" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>Domes Domes Salon </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>fridge in the fridge on the cabinet </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbass" TIER_ID="analytical_observations" PARENT_REF="orthographic_transcription">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbass" PARENT_REF="orthographic_transcription" TIER_ID="SR_confidence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a139" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>0.80853003</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a140" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>0.71875262</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a141" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>0.716003</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a142" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>0.87844592</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a143" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>0.96243578</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a144" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>0.90441215</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a145" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>0.52859759</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a146" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>0.92202634</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a147" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>0.62321556</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a148" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>0.85521019</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a149" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>0.96341109</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a150" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>0.89146048</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a151" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>0.31028703</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a152" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>0.89128298</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a153" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>0.8126002</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a154" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>0.86307842</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a155" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>0.73663807</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a156" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>0.87175429</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a157" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>0.55901289</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a158" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>0.84334278</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a159" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>0.91188467</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a160" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>0.73866481</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a161" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>0.80138522</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a162" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>0.77538788</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a163" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>0.85578251</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a164" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>0.87039453</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a165" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>0.88187283</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a166" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>0.90273219</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a167" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>0.72648984</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a168" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>0.78341228</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a169" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>0.8847754</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a170" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>0.82875425</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a171" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>0.33952722</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a172" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>0.69254243</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a173" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>0.82527304</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a174" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>0.90754229</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a175" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>0.53360963</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a176" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>0.85347039</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a177" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>0.79168445</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a178" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>0.82084769</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a179" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>0.70724905</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a180" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>0.86688757</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a181" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>0.72792059</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a182" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>0.32017919</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a183" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>0.88544971</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a184" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>0.91640872</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a185" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>0.84267074</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a186" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>0.83696753</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a187" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>0.80508089</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a188" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>0.92086607</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a189" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>0.84074795</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a190" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>0.82250148</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a191" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>0.60300827</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a192" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>0.92960715</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a193" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>0.7505061</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a194" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>0.70680416</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a195" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>0.96341109</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a196" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>0.4755967</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a197" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>0.91431046</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a198" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>0.89955789</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a199" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>0.95656288</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a200" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>0.83442765</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a201" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>0.96341109</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a202" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>0.96341109</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a203" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>0.60646296</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a204" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>0.75879377</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a205" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>0.85337037</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a206" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>0.50317615</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a207" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>0.78500664</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true" />
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="symbass" TIME_ALIGNABLE="false" />
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision" />
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision" />
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association" LINGUISTIC_TYPE_ID="symbass" />
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In" />
+</ANNOTATION_DOCUMENT>

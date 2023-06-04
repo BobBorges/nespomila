@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="NESPOMILA - Robert Borges"
+    DATE="2021-10-14T09:36:50+01:00" FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///home/maciej/NESPOMILA/csb-pilot/csb-pilot-data/transcriptions/VID-190814_1600-b1/L-VID-190814_1600-b1.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./L-VID-190814_1600-b1.wav"/>
+        <PROPERTY NAME="URN">
+    urn:nl-mpi-tools-elan-eaf:2bb01589-bf3d-4141-871d-8f31be10fd9b</PROPERTY>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:0a55df74-52a4-475f-ab87-1b0454ca7b3b</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">30</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="10220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="10250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="16490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="16530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="21330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="21360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="28480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="28510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="34520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="34540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="44100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="44120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="45730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="45760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="47970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="47970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="57920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="57970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="71420"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="orthographic_transcription">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>nje vjém, cze to téż móm wobzé... wopòvjedzec, ale móm vjidzoné logo mészle (?), jakji so tuwo bodze pòjôvjało</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>vjidza kùra, to je gves kluka, jakô mô svòji môłi kùrczãta</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>abò mje so vedôvô, abò njiżódné z tech kùrczõtkóv nji mô dzobù; a njé, jednakò mô</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>te kùrczãta jidõ sobje pò łõce, najadłe so zôrna, a terôzkù vechôdajõ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>kùrczãtóv je trze, a pòvjinne bec sztere, jedno zgjinało</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>nenka szúkô tegò tóm, gdze mjele jadłé to zôrno ji terôzkù so wokôzało, że to kùrczõtkò velazło gdzes na jakjis vesokji kam</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>tak mje so vedôvô, że je to kam</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>i nji mògło zlézc</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>czede mëmka rozgòrzonô na njegò vezdrza, to kùrczõtkò zlôzło z tegò kama i vszetce vrócele dodóm, njé do kùńca zadovòlnjoni</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>no i ten film mjele zrobjoné Mander Savant (?) i Smitha Savant (?), i to téż vjidza</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbass"
+        PARENT_REF="orthographic_transcription" TIER_ID="rough_translation_ENG">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a7" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>I don't know if I should say that too, but I have seen the logo, which will be showing up here</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>I'm seeing a hen, it's surely a brooding hen, which has its small chicks</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>either I'm wrong or not one chick has a beak; wait, they actually do have</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>those chicks are walking through a meadow, they ate grain and now they're going out</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a11" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>there are three chicks, but there should be four, one is missing</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>the mother is looking for it where they ate (had eaten) grain and now it turned out, that that chick walked up some high rock/stone</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>so it seems to me that it is a stone/rock</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>and it couldn't walk down</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>when the angry mother looked at it, the chick walked down from the rock and all of them went back home, not entirely happy</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>and this film was made by MS and SS, and I see that too</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbass"
+        PARENT_REF="orthographic_transcription" TIER_ID="analytical_observations">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a12" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>ã &gt; o</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>ã &gt; a, on; A=N</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>njiżódno &gt; -é, jednakò (idiolectal)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>terôzkù (dialectal)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>pòvjinne &lt; P powinny, -ãło &gt; -ało</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>ú, tóm (idiolectal) vs. kam, ji, mjele jadłé</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>zlézc</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>mëmka, zlôzło, kama</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>vjidza~vjidza(ła)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="symbass" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="NESPOMILA - Robert Borges" DATE="2023-03-12T15:30:11+01:00" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file://wsl$/Ubuntu/home/gfifienjd/HVC-post-analyses/HVC-transcriptions/VidNar_201712041630_KZ_T1_IND_rec-birds1/L-VidNar_201712041630_KZ_T1_IND_rec-birds1.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./L-VidNar_201712041630_KZ_T1_IND_rec-birds1.wav" />
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:f514e803-29bd-41cd-b4ad-9fab994b3dc6</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">49</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="5820" />
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="5820" />
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="13530" />
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="13530" />
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="16470" />
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="16470" />
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="17880" />
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="17880" />
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="19300" />
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="19300" />
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="19300" />
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="19300" />
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="19960" />
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="19960" />
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="19960" />
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="19960" />
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="21020" />
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="21020" />
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="22330" />
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="22330" />
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="22330" />
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="22330" />
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="23080" />
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="23080" />
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="23080" />
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="23080" />
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="24220" />
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="24220" />
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="25310" />
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="25310" />
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="26530" />
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="26530" />
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="27690" />
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="27690" />
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="28760" />
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="28760" />
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="30330" />
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="30330" />
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="35600" />
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="35600" />
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="36940" />
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="36940" />
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="40130" />
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="40130" />
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="41510" />
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="41510" />
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="46380" />
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="46380" />
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="49020" />
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="49020" />
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="51580" />
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="51580" />
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="59830" />
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="59830" />
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="74730" />
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="74790" />
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="78550" />
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="78550" />
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="83820" />
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="83820" />
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="91180" />
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="91180" />
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="98010" />
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="98010" />
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="104970" />
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="104970" />
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="107730" />
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="107730" />
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="114960" />
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="114960" />
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="118570" />
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="118570" />
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="126450" />
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="126450" />
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="129310" />
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="129310" />
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="132850" />
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="132850" />
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="136750" />
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="136750" />
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="139310" />
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="orthographic_transcription">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>No s'wün diöt zyty hina, hinyn wün diöt</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>fjyr ȧn z... fünf wün, ȧn zyty grusy ȧn zyty fjyr... kliny</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>ȧn s'wiöe dos fylȧjht dy müter, ȧn zej wün ufs fȧld gy... gyganga</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>ȧn diöt wiöe yhta, yhta cym frasa, no to zej höt gyf... hütta dos gyfrasa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>no ȧn zej wün cyrykgykuma, ȧn dy müt... dy müter hyt dos, hyt zy, dy kyndyn, oüsgyrȧht</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>ȧn s'wyt jok drȧj, ny fjyr</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>no to hyt zy roüs mmm... höt zy cyrykgykuma diöt ȧn s'wiöe diöt kȧn...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>kȧn dos, kȧn dos hin</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>ȧn hyt zy dos... ȧn, ȧn zej höt uf dy, eee... uf bjy... zyty kliny bjygja mmm gyzyca </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>ȧn kund ny f... kund ny  fłigja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>no to höt zy oüs... roüsgyśprunga fu m dos</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>no ȧn zy z... zy zȧjn oü... ny ȧmöł cyryk</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>emm... cyrykgykuma</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbass" PARENT_REF="orthographic_transcription" TIER_ID="rough_translation_ENG" />
+    <TIER LINGUISTIC_TYPE_REF="symbass" PARENT_REF="orthographic_transcription" TIER_ID="analytical_observations">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>fynf/fymf* - "fünf" to wpływ niemieckiego </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE />
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>raczej powiedziałbym "no to zej hon dos gyfrasa"*, ale czas zaprzeszły był kiedyś częściej używany (por. Młynek), więc nie wiem, czy uznałbym to jednoznacznie za błąd - polecam dopytać Tymka</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>podobnie tu: powiedziałbym: "ȧn zȧjn zy cyrykgykuma" - tu informator uży czasu zaprzeszłego; kolejna rzecz to forma "oüsgyrȧht": przyrostek oüs- wydaje mi się tu nie na miejscu, powiedziałbym: gyrȧhjyt/byrȧhjyt (poza tym proszę zwrócić uwagę na niepoprawną końcówkę)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>ȧn (nöhta) s'wün/s'wiöda nok drȧj, ny fjyr/s'hon jok drȧj ȧn ny fjyr gywast*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>kȧ hün*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>fu dam*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>"ny ȧmöł cyryk" niezbyt zgrabnie tu pasuje</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true" />
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="symbass" TIME_ALIGNABLE="false" />
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision" />
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision" />
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association" />
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In" />
+</ANNOTATION_DOCUMENT>

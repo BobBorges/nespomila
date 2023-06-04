@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="NESPOMILA - Robert Borges" DATE="2023-02-12T18:14:29+01:00" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file://wsl$/Ubuntu/home/gfifienjd/HVC-post-analyses/HVC-transcriptions/VidNar_201809291900_AN_T2_IND_Cut/L-VidNar_201809291900_AN_T2_IND_Cut.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./L-VidNar_201809291900_AN_T2_IND_Cut.wav" />
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:2562c02f-f79b-45cf-be22-e5ba1ecdea77</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">16</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="240" />
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="240" />
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="2700" />
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="2700" />
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="3700" />
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="3700" />
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="3700" />
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="3700" />
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="4510" />
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="4510" />
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="4510" />
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="4510" />
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="5240" />
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="5240" />
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="5240" />
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="5240" />
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="6580" />
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="6580" />
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="6580" />
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="6580" />
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="7510" />
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="7510" />
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="7510" />
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="7510" />
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="8340" />
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="8340" />
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="8340" />
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="8340" />
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="10600" />
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="10600" />
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="13230" />
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="orthographic_transcription">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>to było szybkie</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbass" PARENT_REF="orthographic_transcription" TIER_ID="rough_translation_ENG" />
+    <TIER LINGUISTIC_TYPE_REF="symbass" PARENT_REF="orthographic_transcription" TIER_ID="analytical_observations" />
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true" />
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="symbass" TIME_ALIGNABLE="false" />
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision" />
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision" />
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association" />
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In" />
+</ANNOTATION_DOCUMENT>

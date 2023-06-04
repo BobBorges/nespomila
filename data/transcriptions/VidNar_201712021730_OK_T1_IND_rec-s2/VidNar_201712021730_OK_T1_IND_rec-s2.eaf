@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="NESPOMILA - Robert Borges" DATE="2022-11-23T13:58:50" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/bob/NESPOMILA/HVC-stuff/post-analyses/HVC-transcriptions/VidNar_201712021730_OK_T1_IND_rec-s2/L-VidNar_201712021730_OK_T1_IND_rec-s2.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./L-VidNar_201712021730_OK_T1_IND_rec-s2.wav" />
+        <PROPERTY NAME="lastUsedAnnotationId">1</PROPERTY>
+    </HEADER>
+    <TIME_ORDER><TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0" /><TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="4450" /><TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="4450" /><TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="6430" /><TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="6430" /><TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="8980" /><TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="8980" /><TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="10100" /><TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="10100" /><TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="10100" /><TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="10100" /><TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="10730" /><TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="10730" /><TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="10730" /><TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="10730" /><TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="11940" /><TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="11940" /><TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="17430" /></TIME_ORDER><TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="orthographic_transcription">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbass" TIER_ID="rough_translation_ENG" PARENT_REF="orthographic_transcription">
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbass" TIER_ID="analytical_observations" PARENT_REF="orthographic_transcription">
+        </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true" />
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="symbass" TIME_ALIGNABLE="false" />
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision" />
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision" />
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association" LINGUISTIC_TYPE_ID="symbass" />
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In" />
+</ANNOTATION_DOCUMENT>

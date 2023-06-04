@@ -1,0 +1,1505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="NESPOMILA - Robert Borges"
+    DATE="2023-03-07T10:41:50+01:00" FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///home/bob/NESPOMILA/project-data/transcriptions/VidNar-b4-masha_csb_12_2021-09-22-13-48-05/L-VidNar-b4-masha_csb_12_2021-09-22-13-48-05.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./L-VidNar-b4-masha_csb_12_2021-09-22-13-48-05.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:ddcde5bd-be85-4e3d-a76c-0083e10a59f1</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">215</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="3710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="4300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="5900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="6000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="6560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="6860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="6990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="7240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="10200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="10200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="10370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="10370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="13420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="13600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="13600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="14300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="16320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="17320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="17320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="17820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="21040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="21560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="21560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="21820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="26380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="26740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="28580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="30130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="32200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="32450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="32450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="33960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="36370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="37220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="37220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="37920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="38940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="40030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="40030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="42500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="45200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="46700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="47950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="47960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="50040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="50620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="53020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="53270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="55470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="56300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="57640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="58960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="62260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="62680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="62680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="62920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="63660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="66100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="66940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="67340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="68500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="68960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="70440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="71890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="74840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="78420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="78420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="78460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="82160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="82500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="84660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="84980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="85620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="85760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="85760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="87720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="88820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="89320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="89320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="89460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="90660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="90880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="91300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="91500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="92160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="92930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="94040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="94840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="94840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="95280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="99060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="99180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="99180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="100100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="101160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="101440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="101440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="101780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="105860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="106060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="106060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="107550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="108820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="108980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="110180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="110460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="111170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="111220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="112580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="112760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="117660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="118060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="119400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="119830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="120420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="121240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="124180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="124400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="125590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="126200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="129949"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="129949"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="130350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="133380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="139570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="142310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="143430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="145180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="145980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="145980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="147380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="148180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="153540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="154360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="154360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="158200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="159920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="160800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="163920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="164730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="164730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="165040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="167140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="167740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="169610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="171980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="174840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="176290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="177060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="178820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="182680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="182680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="185660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="186560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="189240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="192280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="195600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="197310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="198270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="199920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="202820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="202930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="202930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="203360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="207280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="208700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="209780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="210440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="211100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts172" TIME_VALUE="213140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts173" TIME_VALUE="213570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts174" TIME_VALUE="213570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts175" TIME_VALUE="215420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts176" TIME_VALUE="216120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts177" TIME_VALUE="220660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts178" TIME_VALUE="221890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts179" TIME_VALUE="227100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts180" TIME_VALUE="230510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts181" TIME_VALUE="234570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts182" TIME_VALUE="236260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts183" TIME_VALUE="238280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts184" TIME_VALUE="238840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts185" TIME_VALUE="239290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts186" TIME_VALUE="240300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts187" TIME_VALUE="241800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts188" TIME_VALUE="242660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts189" TIME_VALUE="245700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts190" TIME_VALUE="247930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts191" TIME_VALUE="250080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts192" TIME_VALUE="250580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts193" TIME_VALUE="250580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts194" TIME_VALUE="250720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts195" TIME_VALUE="252180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts196" TIME_VALUE="252520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts197" TIME_VALUE="253960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts198" TIME_VALUE="255000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts199" TIME_VALUE="258310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts200" TIME_VALUE="260210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts201" TIME_VALUE="263640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts202" TIME_VALUE="263880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts203" TIME_VALUE="263880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts204" TIME_VALUE="265720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts205" TIME_VALUE="267440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts206" TIME_VALUE="268000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts207" TIME_VALUE="270930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts208" TIME_VALUE="270960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts209" TIME_VALUE="273490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts210" TIME_VALUE="275070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts211" TIME_VALUE="277910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts212" TIME_VALUE="277940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts213" TIME_VALUE="282580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts214" TIME_VALUE="282610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts215" TIME_VALUE="288860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts216" TIME_VALUE="289780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts217" TIME_VALUE="291660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts218" TIME_VALUE="293550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts219" TIME_VALUE="296400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts220" TIME_VALUE="299360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts221" TIME_VALUE="305720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts222" TIME_VALUE="305880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts223" TIME_VALUE="308120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts224" TIME_VALUE="308410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts225" TIME_VALUE="312310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts226" TIME_VALUE="314360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts227" TIME_VALUE="316520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts228" TIME_VALUE="317410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts229" TIME_VALUE="317410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts230" TIME_VALUE="317640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts231" TIME_VALUE="326740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts232" TIME_VALUE="327630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts233" TIME_VALUE="327630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts234" TIME_VALUE="330750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts235" TIME_VALUE="331900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts236" TIME_VALUE="332280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts237" TIME_VALUE="332280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts238" TIME_VALUE="332660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts239" TIME_VALUE="335420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts240" TIME_VALUE="335760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts241" TIME_VALUE="336360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts242" TIME_VALUE="337480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts243" TIME_VALUE="338940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts244" TIME_VALUE="341090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts245" TIME_VALUE="344020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts246" TIME_VALUE="345400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts247" TIME_VALUE="345400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts248" TIME_VALUE="346690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts249" TIME_VALUE="347960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts250" TIME_VALUE="348620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts251" TIME_VALUE="349880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts252" TIME_VALUE="350520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts253" TIME_VALUE="355150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts254" TIME_VALUE="358110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts255" TIME_VALUE="359380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts256" TIME_VALUE="363360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts257" TIME_VALUE="363910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts258" TIME_VALUE="366180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts259" TIME_VALUE="366180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts260" TIME_VALUE="366280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts261" TIME_VALUE="372720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts262" TIME_VALUE="373440"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="orthographic_transcription">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>kuchnia</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a127"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>yyy</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>bo jakieś garnki stoją na półkę</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>niedźwiedź czyta książkę</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Książka jest warcaba</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>rzeczywiście rozkłada podsadna</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>plansze do gry zamyka książkę bierze</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>białą warcaby</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>Myślisz że on postawić prowadzi w grę</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>są ze sobą</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>po każdym ruchu przesiada się na miejsce na przeciw</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>w końcu został tylko jeden czarny pion</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>nagle będziesz Andrzejka bo trzymają mała dziewczynka w różowym</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>ubranka nagle dziewczynka gra sobie na podłodze yyy w coś Używając tej fazy warcaby</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>yyy ale jakieś potrzebuję tego pranka Ale robi sztuczki magiczne i zamienia</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>yyy Pionek na</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>Krążek hokejowy</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>nie wraca do gry</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>Wielkiego Warszawa ale jak już</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>skończyć partie</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>Krążek hokejowy uderza z planszy</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>mi się denerwuje</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>wierzę</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>wierzę</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>kij hokejowy i krążek</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts123">
+                <ANNOTATION_VALUE>stawia to wszystko razem z dziewczynką 20</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts131">
+                <ANNOTATION_VALUE>a teraz ucieka ponieważ dziewczynka zamierza się krążkiem na niego próbuję grać w domu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts132" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE>ale ciągle słyszy z zewnątrz hałasy bo jeszcze traktat nagrać</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>w końcu ucieka ze swoją plażą dobry do lasu ta dziewczynka zostaję w domu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts164">
+                <ANNOTATION_VALUE>yyy i chyba będzie coś gotowała nalewa wodę do garnka wsypuje jakieś płatki tańsze marmoladę dużo słoików marmolady butelkę mleka mniejsza teraz ważę wędkę w tamtych rodzinie zakłada tą rezerwację talerz z tym układzie talerz</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts165" TIME_SLOT_REF2="ts173">
+                <ANNOTATION_VALUE>krzesło i je swoją potrawę za ten niedźwiedź gdzieś</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts174" TIME_SLOT_REF2="ts192">
+                <ANNOTATION_VALUE>w lesie usiadł sobie ławy i gadam sobie swoje warcaby yyy z garnka zaczyna wyciekać potrawa która ma napęczniały bardzo mocno zrobiła się z niej dużo garnków dziewczynka zaczyna kaszel pakować wszędzie gdzie się da Nawet do pucharów zabrała zającowi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts193" TIME_SLOT_REF2="ts196">
+                <ANNOTATION_VALUE>wiaderko</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts197" TIME_SLOT_REF2="ts202">
+                <ANNOTATION_VALUE>onkobieg za nią a teraz jakiś On jest w domu to ci wszystko na karmiła zająca swoją kaszę</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts203" TIME_SLOT_REF2="ts205">
+                <ANNOTATION_VALUE>tak że aż nie mógł stać</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts207" TIME_SLOT_REF2="ts211">
+                <ANNOTATION_VALUE>teraz widzimy znowu Niedźwiedzia który kończy swoją partię ale dziewczynka już biegnę do niego</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts214" TIME_SLOT_REF2="ts221">
+                <ANNOTATION_VALUE>gankiem kaszy i po drodze jeszcze otruje wszystkie zwierzęta wiewiórkę wilki które potem Wszystkie siedzą spędzają glutami a dziewczynka i pokazuje że ma jeszcze kolonie garnków kaszy albo śmierdzą</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts223" TIME_SLOT_REF2="ts228">
+                <ANNOTATION_VALUE>niedźwiedź skończy w końcu grę i jedzie z powrotem a teraz Dziewczynka ma coraz więcej kaszy</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts229" TIME_SLOT_REF2="ts232">
+                <ANNOTATION_VALUE>i my się wszędzie wielki gar który kipi ma zamknięty dekiel zawiązany</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts233" TIME_SLOT_REF2="ts236">
+                <ANNOTATION_VALUE>i nagle</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts237" TIME_SLOT_REF2="ts246">
+                <ANNOTATION_VALUE>jak niedźwiedź wchodzi do domu to występuje wybuch I widzimy jak kasza z kurza południu a teraz widzimy jak jest w całym domu wszystko jest</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts247" TIME_SLOT_REF2="ts258">
+                <ANNOTATION_VALUE>umazane kaszą a dziewczynka sprząta i wszystko wy sprzątała masz na błysk siadam do stołu yyy</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts259" TIME_SLOT_REF2="ts262">
+                <ANNOTATION_VALUE>niedźwiedź się i pokazuje że może i dać do jedzenia kaszy i ta kasza jest wszędzie</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbass"
+        PARENT_REF="orthographic_transcription" TIER_ID="rough_translation_ENG">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>kitchen </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>because some pots are on the shelf </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>The bear reads the book </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>The book is a checker </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>actually spreads the puff </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>Game boards closes the book </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>white checkers </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>You think he is playing in the game </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>They are together </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>After each movement, he travels to the place on </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>After all, there is only one black vertical </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>Suddenly you will be Andrzejka because they keep a little girl in pink </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>Clothes suddenly the girl plays on the floor in something using this phase of the checkers </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>but I need this Prakka but he makes magic tricks and for </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>Pawn on </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>Hockey puck </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>He doesn't go back to the game </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>Great Warsaw but as already </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>finish parties </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>The hockey disc hits the board </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>I'm nervous </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>I believe </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>I believe </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>hockey stick and disc </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>He puts it all together with the girl 20 </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>And now she is running away because the girl intends to try to play at home </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>But he still hears noise from the outside because the treaty is still recorded </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>Finally, he runs away with her beach good to the forest, this girl is staying at home </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>And I think it will cook something pouring water into the pot pour in some petals cheaper marmalade a lot of marmans </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>chair and eats their dish for this bear somewhere </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>In the forest he sat down his benches and I talk my checkers from the pot, the dish begins to leak, which is swollen very much, a lot of pots, the girl begins to pack the coughing wherever she can even take to the cups </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>pail </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>Onkobieg behind her and now he is at home, everything was fed by the hare of her porridge </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>so that he couldn't </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>Now we see the bear who ends her party again, but the girl is already running to him </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>porridge and along the way will poison all the animals squirrel wolves who then all sit with glut and the girl and shows that she still has colonies of pots of groats or stink </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>The bear will finally end the game and drives back and now the girl has more and more porridge </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>And we are everywhere a great gar who is bursting with a closed lid tied up </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>and suddenly </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>When a bear enters the house, there is an explosion and we can see porridge from dust of the south and now we can see how everything is in the whole house </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>smeared with porridge and the girl cleans and you clean everything you have a flash, I sit down at the table </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>the bear and shows that it can also give food and this porridge is everywhere </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbass"
+        PARENT_REF="orthographic_transcription" TIER_ID="analytical_observations"/>
+    <TIER LINGUISTIC_TYPE_REF="symbass"
+        PARENT_REF="orthographic_transcription" TIER_ID="SR_confidence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>0.71833873</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>0.77143866</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>0.89051551</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>0.8084085</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>0.6851092</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>0.91616637</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>0.86424124</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>0.83550793</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>0.93117827</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>0.93806165</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>0.7984823</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>0.80978465</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>0.85384083</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>0.71106887</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>0.96341109</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>0.96341109</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>0.96341109</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>0.73730886</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>0.74223101</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>0.7742213</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>0.38964602</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>0.96149087</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>0.96341109</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>0.96341109</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>0.76591855</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>0.95933855</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>0.81853235</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>0.79530376</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>0.85834962</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>0.93795806</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>0.91251493</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>0.96341109</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>0.82178736</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>0.76802093</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>0.88421357</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>0.85789263</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>0.84162313</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>0.81260943</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>0.41760683</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>0.88318706</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>0.83865494</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>0.85791641</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="nonsilence">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a128"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a129"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a130"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a131"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a132"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a133"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a134"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a135"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a136"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a137"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a138"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a139"
+                TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a140"
+                TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a141"
+                TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a142"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a143"
+                TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a144"
+                TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts61">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a145"
+                TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a146"
+                TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts65">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a147"
+                TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts67">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a148"
+                TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts71">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a149"
+                TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts73">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a150"
+                TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts75">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a151"
+                TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts79">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a152"
+                TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a153"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a154"
+                TIME_SLOT_REF1="ts88" TIME_SLOT_REF2="ts89">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a155"
+                TIME_SLOT_REF1="ts92" TIME_SLOT_REF2="ts93">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a156"
+                TIME_SLOT_REF1="ts96" TIME_SLOT_REF2="ts97">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a157"
+                TIME_SLOT_REF1="ts100" TIME_SLOT_REF2="ts101">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a158"
+                TIME_SLOT_REF1="ts104" TIME_SLOT_REF2="ts105">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a159"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a160"
+                TIME_SLOT_REF1="ts110" TIME_SLOT_REF2="ts111">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a161"
+                TIME_SLOT_REF1="ts114" TIME_SLOT_REF2="ts115">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a162"
+                TIME_SLOT_REF1="ts118" TIME_SLOT_REF2="ts119">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a163"
+                TIME_SLOT_REF1="ts122" TIME_SLOT_REF2="ts125">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a164"
+                TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts127">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a165"
+                TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts129">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a166"
+                TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts133">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a167"
+                TIME_SLOT_REF1="ts134" TIME_SLOT_REF2="ts135">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a168"
+                TIME_SLOT_REF1="ts138" TIME_SLOT_REF2="ts139">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a169"
+                TIME_SLOT_REF1="ts140" TIME_SLOT_REF2="ts141">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a170"
+                TIME_SLOT_REF1="ts144" TIME_SLOT_REF2="ts145">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a171"
+                TIME_SLOT_REF1="ts146" TIME_SLOT_REF2="ts147">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a172"
+                TIME_SLOT_REF1="ts148" TIME_SLOT_REF2="ts149">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a173"
+                TIME_SLOT_REF1="ts150" TIME_SLOT_REF2="ts151">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a174"
+                TIME_SLOT_REF1="ts152" TIME_SLOT_REF2="ts153">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a175"
+                TIME_SLOT_REF1="ts154" TIME_SLOT_REF2="ts155">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a176"
+                TIME_SLOT_REF1="ts156" TIME_SLOT_REF2="ts157">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a177"
+                TIME_SLOT_REF1="ts158" TIME_SLOT_REF2="ts159">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a178"
+                TIME_SLOT_REF1="ts160" TIME_SLOT_REF2="ts161">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a179"
+                TIME_SLOT_REF1="ts162" TIME_SLOT_REF2="ts163">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a180"
+                TIME_SLOT_REF1="ts166" TIME_SLOT_REF2="ts167">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a181"
+                TIME_SLOT_REF1="ts168" TIME_SLOT_REF2="ts169">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a182"
+                TIME_SLOT_REF1="ts170" TIME_SLOT_REF2="ts171">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a183"
+                TIME_SLOT_REF1="ts172" TIME_SLOT_REF2="ts175">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a184"
+                TIME_SLOT_REF1="ts176" TIME_SLOT_REF2="ts177">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a185"
+                TIME_SLOT_REF1="ts178" TIME_SLOT_REF2="ts179">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a186"
+                TIME_SLOT_REF1="ts180" TIME_SLOT_REF2="ts181">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a187"
+                TIME_SLOT_REF1="ts182" TIME_SLOT_REF2="ts183">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a188"
+                TIME_SLOT_REF1="ts184" TIME_SLOT_REF2="ts185">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a189"
+                TIME_SLOT_REF1="ts186" TIME_SLOT_REF2="ts187">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a190"
+                TIME_SLOT_REF1="ts188" TIME_SLOT_REF2="ts189">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a191"
+                TIME_SLOT_REF1="ts190" TIME_SLOT_REF2="ts191">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a192"
+                TIME_SLOT_REF1="ts194" TIME_SLOT_REF2="ts195">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a193"
+                TIME_SLOT_REF1="ts198" TIME_SLOT_REF2="ts199">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a194"
+                TIME_SLOT_REF1="ts200" TIME_SLOT_REF2="ts201">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a195"
+                TIME_SLOT_REF1="ts204" TIME_SLOT_REF2="ts206">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a196"
+                TIME_SLOT_REF1="ts208" TIME_SLOT_REF2="ts209">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a197"
+                TIME_SLOT_REF1="ts210" TIME_SLOT_REF2="ts212">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a198"
+                TIME_SLOT_REF1="ts213" TIME_SLOT_REF2="ts215">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a199"
+                TIME_SLOT_REF1="ts216" TIME_SLOT_REF2="ts217">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a200"
+                TIME_SLOT_REF1="ts218" TIME_SLOT_REF2="ts219">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a201"
+                TIME_SLOT_REF1="ts220" TIME_SLOT_REF2="ts222">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a202"
+                TIME_SLOT_REF1="ts224" TIME_SLOT_REF2="ts225">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a203"
+                TIME_SLOT_REF1="ts226" TIME_SLOT_REF2="ts227">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a204"
+                TIME_SLOT_REF1="ts230" TIME_SLOT_REF2="ts231">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a205"
+                TIME_SLOT_REF1="ts234" TIME_SLOT_REF2="ts235">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a206"
+                TIME_SLOT_REF1="ts238" TIME_SLOT_REF2="ts239">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a207"
+                TIME_SLOT_REF1="ts240" TIME_SLOT_REF2="ts241">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a208"
+                TIME_SLOT_REF1="ts242" TIME_SLOT_REF2="ts243">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a209"
+                TIME_SLOT_REF1="ts244" TIME_SLOT_REF2="ts245">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a210"
+                TIME_SLOT_REF1="ts248" TIME_SLOT_REF2="ts249">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a211"
+                TIME_SLOT_REF1="ts250" TIME_SLOT_REF2="ts251">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a212"
+                TIME_SLOT_REF1="ts252" TIME_SLOT_REF2="ts253">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a213"
+                TIME_SLOT_REF1="ts254" TIME_SLOT_REF2="ts255">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a214"
+                TIME_SLOT_REF1="ts256" TIME_SLOT_REF2="ts257">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a215"
+                TIME_SLOT_REF1="ts260" TIME_SLOT_REF2="ts261">
+                <ANNOTATION_VALUE>x</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="symbass" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

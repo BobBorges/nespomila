@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="NESPOMILA - Robert Borges"
+    DATE="2022-01-12T22:48:06+01:00" FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///home/maciej/NESPOMILA/csb-pilot/csb-pilot-data/transcriptions/VID-190814_1200-pear/L-VID-190814_1200-pear.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./L-VID-190814_1200-pear.wav"/>
+        <PROPERTY NAME="URN">
+    urn:nl-mpi-tools-elan-eaf:2bb01589-bf3d-4141-871d-8f31be10fd9b</PROPERTY>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:b2109c9b-6a60-48b9-b2c4-26a317e9033d</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">153</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="80"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="10530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="10540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="19070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="19090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="22020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="22020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="24370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="24390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="28510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="28520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="33600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="33610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="39500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="39540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="47500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="47500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="51190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="51210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="55880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="55900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="66480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="66480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="74490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="74490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="81480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="81500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="87520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="87540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="93460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="93500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="98970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="99000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="105470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="105490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="109570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="109590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="114510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="114530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="118530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="118550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="127550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="127570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="139930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="139930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="146530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="146560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="155480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="155480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="165230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="165250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="170260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="170270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="174950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="174950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="178370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="178380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="184030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="184050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="191700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="191700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="198550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="198550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="200640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="200650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="204480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="204480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="209530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="209540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="213080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="213080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="218070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="218070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="220530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="220540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="228530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="228530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="236430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="236460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="243550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="243550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="247700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="247700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="253540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="253550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="255600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="255620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="259010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="259010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="263900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="263900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="272510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="272530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="276730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="276750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="293760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="293760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="300590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="300590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="305620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="305650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="311580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="311610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="319280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="319300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="327100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="327120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="332710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="332710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="340000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="340000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="348410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="348430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="353530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="353550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="361670"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="orthographic_transcription">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Las, film a la lata wosmedzesõté</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>vjidza jakjigòs człovjeka, jakji scigô vjera...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>co won tu scigô?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>kreszkji?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>z drzevóv, jakji zbjore wonji majõ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>chłop je woblokłi... bjôłi szertuch</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>wona (?!)... na głovje téż ja... jakjisz kapelusz téż takji bjôłi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>te vszetkji kreszkji sõ jesz zeloné, nje vjim, czy won chce z njich póznji cos robjic cze nji</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>ladeje je do rozmajitich kòszóv</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>zrivô je téż jesz sztandardovo, ladejõce so do góre na drôbka</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>tej z tełu jô vjidza drôbka, won terô vecerô te svòje kreszkji jakjimsz czervjonim yy... z czervjonõ apaszkõ takõ na szeja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>jesz mô jeden całi lózi kòsz, z tełu jidze jakjisz człovjek z jakjims zvjerzãca, vjera je to wovca</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>jo, je to wovca, z tełu je vjidzec jakjis fejn landszaft, drzeva</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>chłop dali zrivô, tak kòza jidze, kòza wovca, nje, kòza to vjera je barżi njiż wovca</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>jidze raza z tim chłopa, przechôdajõ dali, tego tam u góre nje vjidzõ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>idõ gdzes dali v kjerenku tego... tich góróv tam</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>ten tam dalej, ten dregji, so dalej bavji v sciganji tich kreszkóv z drzeva</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>mô jich coraz to vjici</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>jedze z tełu jakjisz chłop na kòle</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>tiż v kjerenku tego chłopa, co zrivô te kreszkji</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>knôp mô... knôp, jo, knôp mô woblokłi na głovje téż takji bjôłi kapelusz</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>przejeżdżivô, mô tak... kji kòło z takó vjelgó ramõ, tak vezdrzi jakbe pò jakjims ómje mjôł vzãté abò pò eee... tatku</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>zdrzi, co tam so dzeje, vjidzi vjele kreszkóv, tak so meszli vjera, że so veznje jakõ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>nje je tu vjedzec, cze to je jakô familja cze nji, barżi nji, bò tak knôp mô stara jakos nje pokazac za baro, że won tam je</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>vzół ten vjalgji kòsz z tima kreszkama, stavjô terô to kòło nazôd, co miał rechli pòłożoné, ladeje so na nje</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>kładze terô ten kòsz na takji...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>na takji przédni kofer, nje vjim, jak to zvôł, tak zvôł</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>i jedze dali z tima kreszkama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>ten tam njick nie ma zmerkóné, ten co te kreszkji zrivô, że ten mô jemu to zabróné, zrivô je dali</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>a ten knôp jedze kòła z tim ca... z tim całim kòsza kreszkóv yyyyy przez jakjisz pòli</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>na procem njegò... tak meszla, że na procem njegò jedze... jo, na procem njegò jedze dzévcza téż na kòle</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>wonji so pòtikajõ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>knôp zgùbjił kapelusz, wobezdrzôł so do tełu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>yyy i vjachôł kòła v kam</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>vszetko so vesepało, won so przevrócił</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>prze leżnosce mù so... rozvalonô tiż noga prze tim</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>nje... vjera nje je to jakòs mòcno</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>tu vjidzec je téż... stojõ jakjis ledze vkół tegò, jakji chcõ jemù pòmóc vszetkò... zebrac te kreszkji, vetrzepac</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>zdrzõce na to, że jemù pòmôgajõ, to barżi to vezdrzi jakbe to beła jego jakôs famjiliô, bracinovje a... a memka</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>czy woglovò bracinovje a sostre, tu na tim filmje tak do kùńca jô nje vjidza, czy to sõ bracinovje czy sostre</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>pò bùksach be pòvjedzôł, że to sõ bracinovje barżi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82"
+                TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>zbjerajõ wonji... wo??? ten knôp wodrzucivô... jeden z tich knôpóv wodrzucivô téż ten kam</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>i jadõ wonji</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>won jedze tam dali, provadzi kòło</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>perzna kusztikô na jednô noga, tak jakby won so mjôł tak barżi fest cos tam zrobjoné</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>a tich trzech knôpóv, jakjich tam beło idze v yyy v procemnim kjerenku, pòdnasza??? kapelusz tego knôpa, co mô go zgubjoné, wołajõ gò</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>i ten jeden z njich zanôszô jemù ten kapelusz</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>ten dregji knôp, jakji mô ten kapelusz zgubjoné, vjidzec je rôd, bò téż mô dóné temu knôpu, co przenjós jemu ten kapelusz, kreszkji</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>vjidza dvje, meszla, że sõ trze, skòrno jich je troje</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94"
+                TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>ta?, dostôł trze kreszkji, to je tu vjidzec</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>idõ wonji dali, a ten dregji knôp jachôł svòjim kòła v dregô strona</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96"
+                TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>a ti dali jedzõce kreszkji i bavjõce so yyy jakõs zabôvkõ yyy idõ dali</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97"
+                TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>tuwo terô dali je na tim filmje chłop, jakji schôdô z tego drzeva, co zrivôł te kreszkji</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a98"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>zdrzi i cos jemu nje paseje, bo tak jakby cos jemu felovało, bò rechùje, że ma dva, rechli miał trze</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a99"
+                TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>i so zastanawia, co sa stało, a terô vjidzi trzech knôpóv, jakji jidõ v jego kjerenku i jakji pravje jedzõ kreszkji</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100"
+                TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>i so meszli, co so stało, że wonji te kreszkji majõ, a doch won jich jesz tam nie ma vjidzoné</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101"
+                TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>knôpji przeszle kòl njego, ten tam wostôł, sedzi na drôbce</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a102"
+                TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>pòjavjiłe so jakjis sztripe i skùńcził so film</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbass"
+        PARENT_REF="orthographic_transcription" TIER_ID="rough_translation_ENG">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>A forest, a movie resembling the 80's</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>I see a man who's pulling down perhaps...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>what is he pulling down here?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>pears?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>from trees, they're harvesting the fruits</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>the man is dressed... white apron</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>she (?!)... on the had also some... some hat that is white too</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>all the pears are still green, I don't know, if he wants to use them later somehow or not</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>he puts them into various baskets</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>he's plucking them in a standard manner, climbing up a ladder</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>then I can see a ladder behind, he's now wiping his pears with some red... with red scarf, a neck scarf</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>and he has one full empty (!) basket, there is some man with an animal walking behind, probably it's a sheep</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>yes, it's a sheep, in the background you can see some nice landscape, trees</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>the man keeps picking, that goat is going, goat sheep, no, that's more likely a goat rather than sheep</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>it's going together with that man, they're going further, they don't see that one above</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>they're going further towards that... those mountains over there</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>that one, the other one, is still amusing himself with picking those pears from the tree</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>he has more and more of them</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>some man behind is cycling</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>also towards that man, who picks the pears</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>the boy has... a boy, yes, the boy is wearing a white hat</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>he's passing by, he has a bike with a big frame, it looks as if he took it from a granddad or (his) father</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>he's looking at what's happening there, he sees a lot of pears, he probably thinks about taking one of them</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>we don't know if it's family or not, more likely not, because the boy is trying to remain unseen</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>he took that big basket with pears, he's taking his bike, which he put down before, he's getting on the bike</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>now he's putting the basket on some...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>some front suitcase (!), I don't know how you call it</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>and he's cycling with those pears</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>the one over there hasn't noticed anything, the one picking the pears, that that one has taken it from him, he keeps picking them</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>and the boy is cycling with that entire basket full of pears through some field</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>towards him... I think towards him is going... yes, towards him is going a girl also on a bike</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>they're meeting</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>the boy lost his hat, he looked back</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE>and he biked into a stone</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>everything spilled, he fell down</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a72">
+                <ANNOTATION_VALUE>at the same time he... also damaged leg at the same time</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE>no... probably it's not serious</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>You can see there is also... some people are standing around him, they want to help him gather all the pears, brush off</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE>considering that they're helping him, it looks more as if it was his family, brothers and... and mother</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE>in general, I cannot see well, if there are brothers or sisters in the movie, if they're brothers or sisters</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a81">
+                <ANNOTATION_VALUE>looking at the trousers I would say, that they're more likely brothers</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a137" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>they're gathering... the boy throws back... one of the boys throws back the stone</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>and they're going</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a139" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>he's going further, holding the bike</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a140" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>he's hobbling a bit on one leg, as if he was seriously injured there</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a141" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>and those three boys, who were there, they're going in the opposite direction, they pick up his hat, the one he lost, they call him</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a142" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>and one of them is bringing that hat to him</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a143" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>the other boy, who lost that hat, appears to be glad, because he has given pears to the boy, who had brought him that hat</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a144" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>I can see two, I think there are three since there is three of them</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a145" ANNOTATION_REF="a94">
+                <ANNOTATION_VALUE>yes, he got three pears, one can see it here</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a146" ANNOTATION_REF="a95">
+                <ANNOTATION_VALUE>they're going further and the second boy was cycling on his bike in the opposite direction</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a147" ANNOTATION_REF="a96">
+                <ANNOTATION_VALUE>and they keep going while eating pears and playing with some toy</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a148" ANNOTATION_REF="a97">
+                <ANNOTATION_VALUE>now there is still that man, who's going down the tree, where he was picking the pears in this movie</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a149" ANNOTATION_REF="a98">
+                <ANNOTATION_VALUE>he's looking and something is wrong, as if he was missing something, because he sees only two and earlier he had three</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a150" ANNOTATION_REF="a99">
+                <ANNOTATION_VALUE>and he's thinking about what happened and now he sees three boys going towards him and they're eating pears </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a151" ANNOTATION_REF="a100">
+                <ANNOTATION_VALUE>and he's thinking how come they have those pears, since he hasn't seen them there</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a152" ANNOTATION_REF="a101">
+                <ANNOTATION_VALUE>the boys went by and he remained there, sitting on the ladder</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a153" ANNOTATION_REF="a102">
+                <ANNOTATION_VALUE>some stripes appeared and the movie has ended</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbass"
+        PARENT_REF="orthographic_transcription" TIER_ID="analytical_observations">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>P zbjore?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>jakjisz, P kapelusz</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>czy?, cos (cf. jakjisz)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>rozmajitich</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>sztandardovo, ladejõce, so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>vecerô, czervjonim</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>zvjerzãca</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>landszaft</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>nje, njiż</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>tego, u</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>idõ, tego</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>dalej x2, so, tich</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>coraz, vjici</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>tiż</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>téż (cf. tiż), kapelusz</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>takó vjelgó ramõ, jakjims ómje, mjôł vzãté, tatku</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>so, meszli</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>familja, jakos, pokazac</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>stavjô (stôvjô?), P miał, miał pòłożoné</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>kofer</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>P nie ma, nie ma zmerkóné, mô zabróné</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>pòli</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>przevrócił (instead of zvrócił)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>P pòmóc (pòmòc), vetrzepac = P wytrzepać (trzepac = brudzić)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE>woglovô, P czy</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>zbjerajõ (zbjérajõ)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>P kusztikô, jakby; na jednô noga</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>idze, tego, go ~ gò</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>troje (dialectal?), skòrno</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a95">
+                <ANNOTATION_VALUE>idõ, v dregô strona</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a96">
+                <ANNOTATION_VALUE>jedzõce, bavjõce, idõ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a98">
+                <ANNOTATION_VALUE>P jakby, ma, miał</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a99">
+                <ANNOTATION_VALUE>P zastanawia</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a100">
+                <ANNOTATION_VALUE>meszli, P nie ma; nie ma vjidzoné</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="symbass" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

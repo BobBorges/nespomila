@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="NESPOMILA - Robert Borges"
+    DATE="2022-01-18T02:49:43+01:00" FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///home/maciej/NESPOMILA/csb-pilot/csb-pilot-data/transcriptions/VID-190814_1300-masha/L-VID-190814_1300-masha.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./L-VID-190814_1300-masha.wav"/>
+        <PROPERTY NAME="URN">
+    urn:nl-mpi-tools-elan-eaf:2bb01589-bf3d-4141-871d-8f31be10fd9b</PROPERTY>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:f55aa2cf-a7c5-4a1a-ab26-adc3df8e9535</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">161</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="5900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="5970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="10550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="10550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="13750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="13770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="22070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="22070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="31220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="31220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="38470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="38510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="43760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="43800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="53090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="53090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="60250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="60250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="69280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="69340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="77940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="78000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="82730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="82730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="87110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="87150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="92440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="92440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="96470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="96470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="100570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="100570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="108710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="108720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="114280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="114280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="122980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="122990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="127950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="127970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="134980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="135010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="142540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="142540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="151660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="151670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="161590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="161610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="168280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="168300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="171160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="171170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="172920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="172920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="183640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="183680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="188200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="188220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="192460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="192460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="196990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="197010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="203940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="203940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="213600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="213620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="222170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="222180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="226150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="226150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="234720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="234740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="240480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="240490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="244780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="244800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="249880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="249920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="254800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="254800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="257400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="257420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="263860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="263870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="274350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="274370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="282090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="282110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="286290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="286290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="292680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="292690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="296600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="296680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="298740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="298750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="305060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="305060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="311530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="311540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="322910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="322960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="325590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="325610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="333700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="333740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="336490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="336500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="341330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="341370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="346560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="346580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="355490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="355500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="360900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="360910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="374100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="374120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="382450"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="orthographic_transcription">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>pòstãpnô bôjka</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>yyy o, mjedzvjedz wod Masze, ruskô bôjka</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>vjim, bò dzece to kòl mje doma wobzérajõ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>yyy mjedzvjedz yyy chce grac yyy v yyy varcabe</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>mesli, co zrobjic, nje znaja cirilice, tej czãżkò mje je przeczetac, wo czim won czetô, ale domeszlivóm so z wobrôzkóv</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>yyy dzivno zaczinô grac v te varcabe, bo z jednej strone mô trze czôrné, a z dregji mô pjãc bjôłich</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>graje sóm ze sobõ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>jakbe mjôł delikatnô schizofrenja, przeżivô dobecé yyyy jednej strone i smùtk dregjigo svòjigo ego</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>o, pòjôvjô so Masza, jakô zicher mù cosz zrobji</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Masza pòbavja so czôrnim i zgjina, terôzka bavji so yyy v klase</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>tim czôrnim... ooo</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>czôrni krick wostôł zastõpjoni terôzka hókejovim kricka</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>cze nje vjim jak to so... krãga do hokeja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>a mjedzvjedz móże dali yyyyymmm grac ve varcabe</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>nje vjim za czim z jakjigòs doradnjika, bò...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>pjerszi rôz vjidza, żebe béł doradnjik do varcabóv, ne ale...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Masza trzasła jemù hokejovim tim kringla</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>won ja vevalił buten, żebe wona gra buten ne i wona mu dali vali v ten jego łep</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>co je sztandarda v tich bôjkach, że wona gò tłecze abò mù cosz robji, a yyyyeee won i tak na kùńcu je szczeslevi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>mjedzvjedz vecopivajõce so przed Maszõ trafjił na zôjca</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>jakji veżérôł mù marchev, terôzka won jegò stôvjô do zabave z Maszõ i sóm wucékô dodóm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>terôzka spòkójno mòże so pògrac v varcabe, ale Masza dali dobjijô so do dvjirzóv</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>chcõce dostac so do bena i vjera po... njibe pobavjic so... o!, dosta so do bena, mô pòd pôchõ tego zôjca</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>yyyy a terôzka mjedzvjedz wucékô z checzóv, żebe spòkójno so pògrac v varcabe, a Masza wostôvô z zôjca doma i próbùje jakjis griz ze trigla</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>yyyy terôzka spravdzivô co mô v kùchnje mjedvjidz i zaczinô cosz kùcharzëc, nalivô do trigla wodë</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>bjerze drôbka, jakjis haferflokji</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>abò nje vjim, co to mô bec</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>m... móże jakjis, no, vsze... rozmajiti zôrna vrzucivô do trigla, dolévô do tegò jakjis marmelade, vjele vekóv, bùdla mléka</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>a terôzka vszestkò mjeszkô... mjeszô kórzkjvjõ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>vecigô kórzkjev, a to vszetkò rosce, rosce</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>yyy terôzka jakôs różevô mhff</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>nje vjim co, różevi griz nakłôdô so do talerza i flot gò jé</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>yyy mjedzvjidz szukô v lese spòkòju, v kùńcu nalôz gò kòl jakjis wode i na łôvce próbùje grac v varcabe</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>Masza mô zjadłé jednô vuchta tej svòj... tegò svòjigò różevigò grizu, vjidze, że z trigla lejci reszta</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>terôzka nje vji, co z tim zrobjic, pòdkłôdô rozmajiti statkji</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>na pòczõtk svòja mjiska, terôzka trigel, jeden dregji, trzeci, balika, baliczka, jakjis topkji</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>vszetkji rzecze doma sõ nafùlovóné tim różevim griza, navetka szuflôde i jinszi méble</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>terôzka Masza vezérô za trusa, bjerze jemù vãbórk, v jakji ten ladovôł marchjev</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>bjegô z tim vãbórka, żebe nalac do tegò reszta tegò svòjigò grizu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>i zaczinô fùdrovac, żeby jak nôvjãci zbrekòvac tegò grizu, zôjca</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>zôjc je nafùdrovóni, mô dosc</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75"
+                TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>terôzka Masza zaczinô venaszac to buten, ten svój griz v vãbórku</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>a mjedzvjedz spòkójno so graje ve varcabe i ceszi so z tegò, że jedno jegò egò dobivô, a dregji przegrivô</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>yyy Masza tim griza fùdreje yyy pòtkóné v lése zvjerzãta, mjindze jinszima jeża, vevjórka</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>vszetce sõ fùl</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>oo, dvaji vjilkòvje, jakji... jakji wona mmm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>jakji wona v jednim dzélu mja pòbjité</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>yyyyyyyyyy</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>terôzka sõ przez njõ fùdrovóni, na pòczõtkù bele szczeslevi, ale kjede wuzdrzele, kùli tego je, ju majõ dosc</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83"
+                TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>mjedzvjedz nagrôł so ve varcabe, jidze nazôd dodóm, a Masza dali mô za vjele tegò grizu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>v kùńcu zarzeszivô dekel wod trigla jakjims pòvrózka, cobe to so nje velivało, ale trigel zarôzka pãknje i bãdze...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85"
+                TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>ne, mjedzvjedz vjedno dostónje</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86"
+                TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>mjedzvjedz zbleżivô so do checzi, zamikô dvjirze i terôzka v tim mòmeńce całi trigiel vebùchivô i wusvjinjivô całô checz</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>yyymmmm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88"
+                TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>checz bene je całô wusvjinjonô, Masza z gõbkõ mô stara to czeszczec</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89"
+                TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>a mjedzvjedz v tim czasu czetô svòja ksõżeczka wo varcabach</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90"
+                TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>cosz Masza gôdô, nje znajã ruskjigò, téj czãżkò mje zrozmjec, ale pò nastãpnech wobrôzkach je vjidzec, że mô ju yyyy fardich svòja robòta</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91"
+                TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>vesprzõta i terôzka dostôvô klaks svòjigo grizu, ale vjidzec, że mô ju dosc</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92"
+                TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>yyyy ti ti.. tegò ceda, a mjedzvjidz pòkazeje, że vszãdze, ve vszetkjich szafach mô jesz uschòvóné vjele... vjele yyyy statkóv z tim griza</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93"
+                TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>a Masza na kùńcu scvjerdzivô vjera, że vjele tegò je i mô ju tegò dosc, dali?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbass"
+        PARENT_REF="orthographic_transcription" TIER_ID="rough_translation_ENG">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>next cartoon</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>oh, the bear from "Masza", a Russian cartoon</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>I know it, cause the kids watch it at home/at mine</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>the bear wants to play checkers</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a17" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>he's thinking what to do, I don't know the Cyrillic script, so it's difficult to me to read what he's reading about, but I get it from the pictures</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>he starts to play the checkers weridly, because on one side he has three black ones and on the other side he has five white ones</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>he's playing against himself</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>as if he had a mild schizophrenia, he's affected by his victory on the one side and by sadness of his second ego</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>oh, Masza appears, she will surely do something to him</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Masza played with the black one and disappeared, now she's playing hopscotch</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>with the black one... ohh</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>the black checker was now replaced with a hockey checker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>or I don't know how to... hokey puck</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>and the bear can go on with playing checkers</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>I don't know why using some guidebook, because...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>for the first time I see a guidebook to checkers, but oh well...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>Masza hit him with the hockey puck</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>he drove her out to play outside and she keeps hitting him in the head</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>which is business as usual in this cartoon, that she hits him or does something to him, and he's happy in the end anyway </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>the bear encountered a hare while he was retreating from Masza</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>(the hare) was devouring his carrots, now he's putting him to play with Masza and he himself escapes runs away to the house</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>now he can play checkers undisturbed, but Masza is knocking at the door</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>wanting to get inside and I believe... allegedly to play... oh! she got inside, she has the hare under her arm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>and now the bear escapes from the house to play checkers in peace and Masza stays at home with the hare and she's trying some porridge from a pot</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>now she's checking what the bear has in the kitchen and she starts cooking something, she's pouring water into the pot</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>she's taking a ladder, some oatmeal</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>or I don't know what it's supposed to be</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>maybe some, well, she's throwing various grains into the pot, she adds some marmelade, many preserves, a bottle of milk</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>and now she's stirring everything with a ladle</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>she's taking out the ladle and it's all growing and growing</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>and now some pink...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>I don't know what, she's putting pink porridge onto her plate and she eats it fast</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>the bear is looking for peace in the forest, at last he found eat near some water/basin and he's trying to play checkers on a bench</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>Masz has eaten a lot of that pink porridge of hers, I can see that the rest is pouring out of the pot</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a137" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>now she doesn't know what to do with it, she's putting various containers underneath</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>first her bowl, now one pot, another, third, a wash tub, a small wash tub, some pots</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a139" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE>all things at home are full of that pink porridge, even the drawers and other furniture</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a140" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>now Masza is looking for the hare, she's takes the bucket, which he used to put the carrots in</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a141" ANNOTATION_REF="a72">
+                <ANNOTATION_VALUE>she's running with the bucket in order to pour the rest of her porridge into it</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a142" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE>and starts to feed the hare, to use up as much of the porridge as possible</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a143" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>the hare is fed, he's got enough</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a144" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE>now Masza is starting to taking all that outside, that porridge in the bucket</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a145" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE>and the bear is playing checkers at peace and he's happy, that one of his ego's is winning and the other one losing</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a146" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE>Masza is feeding the porridge to the animals in the forest, among others a hedgehog, a squirrel</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a147" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE>everyone is full</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a148" ANNOTATION_REF="a79">
+                <ANNOTATION_VALUE>oh, two wolves, who... whom she</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a149" ANNOTATION_REF="a80">
+                <ANNOTATION_VALUE>whom she's beaten up in one of the episodes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a150" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>now they're being fed by her, at first they were happy, but when they saw, how much of it there is, they're done with it</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a151" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>the bear has played the checkers long enough, he's going back home, and Masza still has too much of the porridge</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a152" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>at last she's binding the lid to the pot with a string, so that it wouldn't pour out, but the pot is about to explode and there will be...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a153" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>well, the bear will always get a hiding</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>the bear is approaching the house, he closes the door and now in this moment the entire pot explodes and makes a mess in the entire house</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a154" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>the house is all dirty inside, Masza is trying to clean it up with a sponge</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a155" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>the bear meanwhile is reading his book on checkers</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a156" ANNOTATION_REF="a90">
+                <ANNOTATION_VALUE>Masza is saying something, I don't speak Russian, so it's difficult to me to understand, but looking at the following scenes one can see that she's done with her task</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a157" ANNOTATION_REF="a91">
+                <ANNOTATION_VALUE>she's cleaned up and now she's getting a blob of her porridge, but she's noticeably fed up with that</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a158" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE>that miracle and the bear is showing her that everywhere, in all the cupboards there are stored many containers with that porridge</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a159" ANNOTATION_REF="a93">
+                <ANNOTATION_VALUE>and Masza probably in the end comes to the conclusion that there is too mich of it and she's done with all that; next?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbass"
+        PARENT_REF="orthographic_transcription" TIER_ID="analytical_observations">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>mjedzvjedz</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a19" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>bo, jednej, bjôłich</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a21" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>mjôł delikatnô (acc.), jednej, -igo, ego</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>so, cosz</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>krick, kricka, hókejovim</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>hokeja</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>mjedzvjedz, móże, ve_varcabe</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>doradnjika</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>hokejovim, kringla</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>buten x2, mu, jego</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>mjedzvjedz, zôjca</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>marchev, stôvjô (stavjô?)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>mòże ~ móże, v_varcabe ~ ve_varcabe; dvjirzóv</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>do bena x2, pobavjic, tego </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>mjedzvjedz, v_varcabe, z_zôjca, griz_ze_trigla, trigla</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>sprAvdzivô, v kùchnje, mjedvjidz (!), cosz, nalivô, trigla</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>móże, rozmajiti, dolévô ~ dolivô</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>kórzkjvjõ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>talerza, jé</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>mjedzvjidz (!) ~ mjedvjidz ~ mjedzvjedz, v_varcabe</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>mô zjadłé, jednô vuchta, różevigò, vjidze = P widzę, lejci</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>rozmajiti</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE>non palatal C + -i ~ -é pl. nom. adj.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a160" ANNOTATION_REF="a72">
+                <ANNOTATION_VALUE>nalac</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE>P żeby, dial. fùdrovac, zbrekòvac, zôjca; nôvjãci -i</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>nafùdrovónY</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE>buten, v_vãbórku, -ku</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE>mjedzvjedz, ve_varcabe, egò</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE>lése, jeża, vevjórka (!)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a79">
+                <ANNOTATION_VALUE>dvaji vjilkòvje</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a80">
+                <ANNOTATION_VALUE>pòbjité -é, mja pòbjité</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a81">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>przez njõ, tego</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>mjedzvjedz, ve_varcabe</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>zarzeszivô, velivało</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>mjedzvjedz</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>mjedzvjedz, zbleżivô, trigiel, całô checz acc.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>gõbka &lt; P?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>mjedzvjedz</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a161" ANNOTATION_REF="a90">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE>mjedzvjidz!, uschòvóné</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="symbass" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

@@ -1,0 +1,545 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="NESPOMILA - Robert Borges" DATE="2023-03-23T17:51:42+01:00" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file://wsl$/Ubuntu/home/gfifienjd/HVC-post-analyses/HVC-transcriptions/VidNar_201711281700_JMS_T1_IND_rec-birds4/L-VidNar_201711281700_JMS_T1_IND_rec-birds4.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./L-VidNar_201711281700_JMS_T1_IND_rec-birds4.wav" />
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:632882a1-7020-4567-9e2f-e7003eb01b66</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">86</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0" />
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2990" />
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="8990" />
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="11440" />
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="11440" />
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="13890" />
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="13890" />
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="15400" />
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="15400" />
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="19150" />
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="19850" />
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="20860" />
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="21600" />
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="23500" />
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="25070" />
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="30450" />
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="31250" />
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="34670" />
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="35170" />
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="41570" />
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="42050" />
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="46940" />
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="48280" />
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="49030" />
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="49690" />
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="50850" />
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="51460" />
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="54920" />
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="55120" />
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="58950" />
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="58950" />
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="62750" />
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="64270" />
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="68290" />
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="69550" />
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="74450" />
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="74450" />
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="77780" />
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="78570" />
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="80330" />
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="81400" />
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="82600" />
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="82820" />
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="85430" />
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="85760" />
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="89730" />
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="90580" />
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="94360" />
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="95250" />
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="96720" />
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="96780" />
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="101930" />
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="102680" />
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="104650" />
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="104960" />
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="106200" />
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="106780" />
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="108610" />
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="108950" />
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="109680" />
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="110440" />
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="113290" />
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="113650" />
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="115540" />
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="115740" />
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="116910" />
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="117290" />
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="120450" />
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="120860" />
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="123680" />
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="123860" />
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="124620" />
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="125840" />
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="126880" />
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="127440" />
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="129240" />
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="129240" />
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="133270" />
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="134320" />
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="135920" />
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="136840" />
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="137740" />
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="138120" />
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="140430" />
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="140510" />
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="141440" />
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="141830" />
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="145960" />
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="146240" />
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="147490" />
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="148080" />
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="152830" />
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="153350" />
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="154300" />
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="155130" />
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="158930" />
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="159250" />
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="160940" />
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="161540" />
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="167620" />
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="167870" />
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="173660" />
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="175220" />
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="176890" />
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="176890" />
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="179860" />
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="183890" />
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="207790" />
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="orthographic_transcription">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>o, yta s'ej ȧ fum Pixar, [mjyr] gyfoł dos</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>ȧ, intro ej... I supposed to </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>discribe intro too?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>no, yhy... no, yhy, yhy kon zan dy hejwuł</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>ȧna</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>diöt wyt zȧjn uf śpigjeła</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>ȧn yta s'kliny śpigjeła zict ufȧ yyy njyn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>ȧn ander fłigja rym ȧn zyc...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>by, by, by zjyr... zej kekt uf dy... cyzoma ȧna s'dryty gejt rym oü</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>ȧna s'fjydy, ȧna s'fynfty gejt oü, ȧna oły kekja uf</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>ufum</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>ołybȧdy</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>kekja u(t?), ȧn yta zej hühja, do dy s'grisy</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>fygjeła kymt ȧna s'ej... ej... zȧjn zjyr fjetik </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>hinas (?) oder har śoüt owi idys, har wje ȧ frȧjnd</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>yta zej łaha fun de... funum, oder yh wȧ ny, fyrym</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>yta zej ej bejz ufȧ... dos grusy fygjeła, wu hot gykuma</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>ȧna gejt rym fum dy coün </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>ȧbyselüćik</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>wȧjt fu dem</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>oder har weła kuza myt z... myt ȧm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>do har fłigja rym ȧna ś...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>uf dy hmm... ufum... no, na środku</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>har zyct ufȧ njen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>ȧna oły ej bejz uf dej, bo har zyct ȧna dos gejt rym, dos gejt runder</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>ȧna har, zej wułda ny</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>zyca myt djyr</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>zej... dźobȧt zih</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>har</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>ej har yta wȧg ufum...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>eee, s'höt uf dy dunda</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>ȧna zej wułda</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>dźubȧt zih uf dy fyngjela cym... maht'ȧ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>ho... cy, cy, cy, cy dam ȧ ho... wȧg fum dy...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>rym</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>yta har ej</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>oder har gyfełt dos</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>mjyr śȧjnt's, s'łecta fyngjeła har höt gywahs  (?)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>y ȧn zjyr ufȧ njen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>yta har ej</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>ȧbyselüćü... de... zy... łȧ... no...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>ehe, dy</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>fygjeła ej ȧbysła ym strah, bo har fjet, do wen dos grusy</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>fygjeła gejt rym</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE> o! zej gejt rym, zej höt gy... gywaks uf dy...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>łöft</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>ȧna s'hefa fadyn yta gejt rym fum dy...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>hejwuł</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>dy kliny śwjy (?) fygjeła kumt uf dy njen ȧna har śoüt o, do har höt kȧ fadyn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>oły fygjeła yta hot gy... wahst ȧn höt zej, höt nist fadyn uf dem</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>yta zej ym strah</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>do zej höt ny cym ogycün</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbass" PARENT_REF="orthographic_transcription" TIER_ID="rough_translation_ENG">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE />
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE />
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE />
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbass" PARENT_REF="orthographic_transcription" TIER_ID="analytical_observations">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>dy hejwułn*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>nie znam wyrazu "śpigjeła" - z kontekstu wnioskuję, że to jest "ptaszek" (fygjeła)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>ȧn yta s'kliny fygjeła zect zih ufȧ gabl*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>nie znam takiego wyrazu, jak "hinas"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>fönum*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>wȧjt fönum*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>oder har wył myta kuza*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>har fłoügt rym*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE />
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>har zect zih ufȧ njen* (a raczej - ufȧ gabl*) lub har zyct ufum njen (~ufum gabl)*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>ȧna oły zȧjn bejz uf ejn, bo har zyct (diöt) ȧn diöh dos der gabl gejt y dy hej ȧn runder*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>mytum zyca*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>zej dźobȧn zih*/zej dźobȧta zih*/zej hon zih gydźobȧt*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>har ej rundergyfoła</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>dźubȧn zy'ȧ uf dy fyngjela, do zy maha'ȧ [runderfoła]*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>nie rozumiem, co informatorka miała na myśli</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>... s'łecta fyngjela har höt gyłön*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>har ej ufȧ njen gyfoła (?)*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>[dy] fygjeła zȧjn ym strah, bo zy fjeta zih, do wen der grusy*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>föguł fełt runder*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>o! har fełt runder ȧn zej wada [y dy hej/ys łöft] roüsgywüfa*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE />
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>ȧna hefa fadyn foła yt ro fur [heja]*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>patrz poprzedni komentarz (nie może to być hejwuł, bo wprawdzie oznacza to 'góra', ale w znaczeniu 'mountain', a nie 'above')</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>dy kliny fygjeła foła ufȧ njen runder ȧna har (der grusy föguł) zit, do zy hon kȧ fadyn*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>informatorka używa czosownika "wahsa" ('rosnąć') w niezrozumiałym dla mnie znaczeniu - nie pasuje on tutaj; oły fygjeła zȧjn yta dunda ȧn zy hon kȧ fadyn uf zejh*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>yta zȧjn zy ym strah*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>do zy hon ny, wos ocycin*</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true" />
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="symbass" TIME_ALIGNABLE="false" />
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision" />
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision" />
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association" />
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In" />
+</ANNOTATION_DOCUMENT>
