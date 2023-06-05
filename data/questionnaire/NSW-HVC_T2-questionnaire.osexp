@@ -1,0 +1,804 @@
+---
+API: 2
+OpenSesame: 3.1.9
+Platform: nt
+---
+set width 1024
+set uniform_coordinates yes
+set title Wilamowice_T2
+set subject_parity even
+set subject_nr 0
+set start T2
+set sound_sample_size -16
+set sound_freq 48000
+set sound_channels 2
+set sound_buf_size 1024
+set sampler_backend legacy
+set round_decimals 2
+set mouse_backend xpyriment
+set keyboard_backend legacy
+set height 768
+set fullscreen no
+set form_clicks no
+set foreground white
+set font_underline no
+set font_size 18
+set font_italic no
+set font_family mono
+set font_bold no
+set experiment_path "C:\\Users\\robbo110\\Documents\\Fieldwork 2018"
+set disable_garbage_collection yes
+set description "The main experiment item"
+set coordinates uniform
+set compensation 0
+set color_backend legacy
+set clock_backend legacy
+set canvas_backend xpyriment
+set bidi no
+set background black
+
+define form_text_display Instructions_general
+	set timeout infinite
+	set spacing 10
+	set rows "1;4;1"
+	set only_render no
+	set ok_text Dalej
+	set margins "50;50;50;50"
+	set form_title "<span size=24>Title</span>"
+	__form_text__
+	Podobnie jak ostatnio, sesja ta składa się z kilku zadań. Tym razem zadania są uruchamiane w jednym programie.
+	
+	
+	Zadanie 1: ankieta
+	Zadanie 2: narracja
+	Zadanie 3: opis zdjęć
+	
+	Po zadaniach odbędzie się krótka rozmowa.
+	__end__
+	set description "A simple text display form"
+	set cols "1;1;1"
+	set _theme gray
+	widget 0 0 3 1 label text="[form_title]"
+	widget 0 1 3 1 label center=no text="[form_text]"
+	widget 1 2 1 1 button text="[ok_text]"
+
+
+define sequence T2
+	set flush_keyboard yes
+	set description "Runs a number of items in sequence"
+	run Witamy always
+	run Instructions_general always
+	run T2_task1_loop always
+
+define inline_script T2_q1
+	set description "Executes Python code"
+	set _run "form._exec()"
+	___prepare__
+	# Import the widgets library
+	from libopensesame import widgets
+	
+	# Create a form
+	form = widgets.form(exp, cols=[1,1], rows=[1,1,1,1,1,1],
+	    margins=(100,100,100,100), spacing=25)
+	
+	# Create widgets
+	labelTitle = widgets.label(form, text='Pytanie 1 / 12')
+	Q1_1 = widgets.label(form,
+	    text='imię',
+	    center=False)
+	
+	Q1_2 = widgets.label(form,
+		text='nazwisko',
+		center=False)
+	
+	
+	AQ1_1 = widgets.text_input(form, stub=u'wpisz tutaj', var='AQ1_1')
+	AQ1_2 = widgets.text_input(form, stub=u'wpisz tutaj', var='AQ1_2')
+	
+	# Add the widgets to the form. The position in the form is indicated as a
+	# (column, row) tuple.
+	form.set_widget(labelTitle, (0,0), colspan=2)
+	
+	form.set_widget(Q1_1, (0,1))
+	form.set_widget(Q1_2, (0,2))
+	
+	form.set_widget(AQ1_1, (1,1))
+	form.set_widget(AQ1_2, (1,2))
+	
+	
+	ContButton = widgets.button(form, text='Dalej')
+	form.set_widget(ContButton, (1,5))
+	# Execute the form! In this case, the form will return the text of the button that
+	# was clicked. This is one way to get a return value out of the form. Another way
+	# is to use the 'var' keyword, supported some of the widgets.
+	__end__
+
+define inline_script T2_q10
+	set description "Executes Python code"
+	___run__
+	form._exec()
+	__end__
+	___prepare__
+	form = widgets.form(exp)
+	# Create a form
+	form = widgets.form(exp, cols=[1,4,1], rows=[1,1,3,1],
+		margins=(100,100,100,100), spacing=25)
+	
+	# Create widgets
+	labelTitle = widgets.label(form, text='Pytanie 10 / 12', center=True)
+	
+	Q10 = widgets.label(form,text='Czy kiedykolwiek myślisz / masz wewnętrzne dialogi po wilamowsku?', center=True)
+		
+	AQ10 = widgets.rating_scale(form, nodes=[
+		'        nigdy',
+		'      czasami',
+		'       często',
+		'bardzo często',
+		'       zawsze'], orientation=u'vertical', var='AQ10')
+	
+	form.set_widget(labelTitle, (0,0), colspan=3)
+	form.set_widget(Q10, (0,1), colspan=3)
+	form.set_widget(AQ10, (2,2))
+	
+	ContButton = widgets.button(form, text='Dalej')
+	form.set_widget(ContButton, (0,3), colspan=3)
+	__end__
+
+define loop T2_q10_loop
+	set source_file ""
+	set source table
+	set repeat 1
+	set order sequential
+	set description "Repeatedly runs another item"
+	set cycles 1
+	set continuous no
+	set break_if_on_first yes
+	set break_if never
+	setcycle 0 empty_column ""
+	run T2_q10_seq
+
+define sequence T2_q10_seq
+	set flush_keyboard yes
+	set description "Runs a number of items in sequence"
+	run T2_q10 always
+
+define inline_script T2_q11
+	set description "Executes Python code"
+	___run__
+	form._exec()
+	__end__
+	___prepare__
+	form = widgets.form(exp)
+	# Create a form
+	form = widgets.form(exp, cols=[1,4,1], rows=[1,1,3,1],
+		margins=(100,100,100,100), spacing=25)
+	
+	# Create widgets
+	labelTitle = widgets.label(form, text='Pytanie 11 / 12', center=True)
+	
+	Q11 = widgets.label(form,text='Czy masz sny po wilamowsku?', center=True)
+		
+	AQ11 = widgets.rating_scale(form, nodes=[
+		'        nigdy',
+		'      czasami',
+		'       często',
+		'bardzo często',
+		'       zawsze'], orientation=u'vertical', var='AQ11')
+	
+	form.set_widget(labelTitle, (0,0), colspan=3)
+	form.set_widget(Q11, (0,1), colspan=3)
+	form.set_widget(AQ11, (2,2))
+	
+	ContButton = widgets.button(form, text='Dalej')
+	form.set_widget(ContButton, (0,3), colspan=3)
+	__end__
+
+define loop T2_q11_loop
+	set source_file ""
+	set source table
+	set repeat 1
+	set order sequential
+	set description "Repeatedly runs another item"
+	set cycles 1
+	set continuous no
+	set break_if_on_first yes
+	set break_if never
+	setcycle 0 empty_column ""
+	run T2_q11_seq
+
+define sequence T2_q11_seq
+	set flush_keyboard yes
+	set description "Runs a number of items in sequence"
+	run T2_q11 always
+
+define inline_script T2_q12
+	set description "Executes Python code"
+	___run__
+	form._exec()
+	__end__
+	___prepare__
+	form = widgets.form(exp)
+	# Create a form
+	form = widgets.form(exp, cols=[1], rows=[1,1,1,1,1,1,],
+		margins=(50,100,50,100), spacing=25)
+	
+	# Create widgets
+	labelTitle = widgets.label(form, text='Pytanie 12 / 12')
+	
+	Q12 = widgets.label(form,text='Oceń poziom osobistego zaangażowania w bieżące działania związane z rewitalizacją języka: \n 1 = brak zaangażowania, 9 = całkowite zaangażowanie.', center=True)
+		
+	AQ12 = widgets.rating_scale(form, nodes = ['1', '2', '3', '4', '5', '6', '7', '8', '9'], var= 'AQ12')
+	
+	
+	form.set_widget(labelTitle, (0,0))
+	form.set_widget(Q12, (0,1))
+	
+	form.set_widget(AQ12,(0,3))
+	
+	ContButton = widgets.button(form, text='Dalej')
+	form.set_widget(ContButton, (0,5))
+	__end__
+
+define loop T2_q12_loop
+	set source_file ""
+	set source table
+	set repeat 1
+	set order sequential
+	set description "Repeatedly runs another item"
+	set cycles 1
+	set continuous no
+	set break_if_on_first yes
+	set break_if never
+	setcycle 0 empty_column ""
+	run T2_q12_seq
+
+define sequence T2_q12_seq
+	set flush_keyboard yes
+	set description "Runs a number of items in sequence"
+	run T2_q12 always
+
+define loop T2_q1_loop
+	set source_file ""
+	set source table
+	set repeat 1
+	set order sequential
+	set description "Repeatedly runs another item"
+	set cycles 1
+	set continuous no
+	set break_if_on_first yes
+	set break_if never
+	setcycle 0 empty_column ""
+	run T2_q1_seq
+
+define sequence T2_q1_seq
+	set flush_keyboard yes
+	set description "Runs a number of items in sequence"
+	run T2_q1 always
+
+define inline_script T2_q2
+	set description "Executes Python code"
+	set _run "form._exec()"
+	___prepare__
+	form = widgets.form(exp)
+	# Create a form
+	form = widgets.form(exp, cols=[1,4,1], rows=[1,1,3,1],
+		margins=(100,100,100,100), spacing=25)
+	
+	# Create widgets
+	labelTitle = widgets.label(form, text='Pytanie 2 / 12', center=True)
+	
+	Q2 = widgets.label(form,text='Potwierdzam dalszą zgodę na udział w badaniu NOWY UŻYTKOWNICY JĘZYKA WILAMOWSKIEGO, w tym przetwarzanie danych zgodnie z prawem UE. Kopię zgody można uzyskać od badacza, Roberta Borgesa. Rozumiem też, że mogę odwołać moją zgodę i zaprzestać dalszego uczestnictwa bez konsekwencji. ',
+		center=True)
+		
+	AQ2 = widgets.rating_scale(form, nodes=[
+		'Tak',
+		'Nie'], orientation=u'vertical', var='AQ2')
+	
+	form.set_widget(labelTitle, (0,0), colspan=3)
+	form.set_widget(Q2, (0,1), colspan=3)
+	form.set_widget(AQ2, (2,2))
+	
+	
+	
+	
+	ContButton = widgets.button(form, text='Dalej')
+	form.set_widget(ContButton, (0,3), colspan=3)
+	__end__
+
+define loop T2_q2_loop
+	set source_file ""
+	set source table
+	set repeat 1
+	set order sequential
+	set description "Repeatedly runs another item"
+	set cycles 1
+	set continuous no
+	set break_if_on_first yes
+	set break_if never
+	setcycle 0 empty_column ""
+	run T2_q2_seq
+
+define sequence T2_q2_seq
+	set flush_keyboard yes
+	set description "Runs a number of items in sequence"
+	run T2_q2 always
+
+define inline_script T2_q3
+	set description "Executes Python code"
+	set _run "form._exec()"
+	___prepare__
+	form = widgets.form(exp)
+	# Create a form
+	form = widgets.form(exp, cols=[1,4,1], rows=[1,1,3,1],
+		margins=(100,100,100,100), spacing=25)
+	
+	# Create widgets
+	labelTitle = widgets.label(form, text='Pytanie 3 / 12', center=True)
+	
+	Q3 = widgets.label(form,text='W ciągu ostatniego roku moje umiejętnośći mówienia po wilamowsku:',
+		center=True)
+		
+	AQ3 = widgets.rating_scale(form, nodes=[
+		' bardzo się pogorszyły',
+		'    lekko się osłabiły',
+		'  pozostały takie same',
+		'  lekko się polepszyły',
+		' bardzo się polepszyły'], orientation=u'vertical', var='AQ3')
+	
+	form.set_widget(labelTitle, (0,0), colspan=3)
+	form.set_widget(Q3, (0,1), colspan=3)
+	form.set_widget(AQ3, (2,2))
+	
+	
+	
+	
+	ContButton = widgets.button(form, text='Dalej')
+	form.set_widget(ContButton, (0,3), colspan=3)
+	__end__
+
+define loop T2_q3_loop
+	set source_file ""
+	set source table
+	set repeat 1
+	set order sequential
+	set description "Repeatedly runs another item"
+	set cycles 1
+	set continuous no
+	set break_if_on_first yes
+	set break_if never
+	setcycle 0 empty_column ""
+	run T2_q3_seq
+
+define sequence T2_q3_seq
+	set flush_keyboard yes
+	set description "Runs a number of items in sequence"
+	run T2_q3 always
+
+define inline_script T2_q4
+	set description "Executes Python code"
+	set _run "form._exec()"
+	___prepare__
+	form = widgets.form(exp)
+	# Create a form
+	form = widgets.form(exp, cols=[1,4,1], rows=[1,1,3,1],
+		margins=(100,100,100,100), spacing=25)
+	
+	# Create widgets
+	labelTitle = widgets.label(form, text='Pytanie 4 / 12', center=True)
+	
+	Q4 = widgets.label(form,text='W ciągu ostatniego roku moje umiejętnośći zrozumienia po wilamowsku:',
+		center=True)
+		
+	AQ4 = widgets.rating_scale(form, nodes=[
+		' bardzo się pogorszyły',
+		'    lekko się osłabiły',
+		'  pozostały takie same',
+		'  lekko się polepsziły',
+		' bardzo się polepszyły'], orientation=u'vertical', var='AQ4')
+	
+	form.set_widget(labelTitle, (0,0), colspan=3)
+	form.set_widget(Q4, (0,1), colspan=3)
+	form.set_widget(AQ4, (2,2))
+	
+	
+	
+	
+	ContButton = widgets.button(form, text='Dalej')
+	form.set_widget(ContButton, (0,3), colspan=3)
+	__end__
+
+define loop T2_q4_loop
+	set source_file ""
+	set source table
+	set repeat 1
+	set order sequential
+	set description "Repeatedly runs another item"
+	set cycles 1
+	set continuous no
+	set break_if_on_first yes
+	set break_if never
+	setcycle 0 empty_column ""
+	run T2_q4_seq
+
+define sequence T2_q4_seq
+	set flush_keyboard yes
+	set description "Runs a number of items in sequence"
+	run T2_q4 always
+
+define inline_script T2_q5
+	set description "Executes Python code"
+	set _run "form._exec()"
+	___prepare__
+	form = widgets.form(exp)
+	# Create a form
+	form = widgets.form(exp, cols=[1], rows=[1,1,1,1,1,1,1,1],
+		margins=(50,100,50,100), spacing=25)
+	
+	# Create widgets
+	labelTitle = widgets.label(form, text='Pytanie 5 / 12')
+	
+	Q5 = widgets.label(form,text='Oceń swoje umiejętności posługiwania się językiem wilamowski: \n 1 = wcale, 9 = biegle.',
+		center=True)
+		
+	labelspeaking = widgets.label(form, text='mówienie')	
+	AQ5_1 = widgets.rating_scale(form, nodes = ['1', '2', '3', '4', '5', '6', '7', '8', '9'], var= 'AQ5_1')
+	
+	labelunderstanding = widgets.label(form, text='zrozumienie')
+	AQ5_2 = widgets.rating_scale(form, nodes = ['1', '2', '3', '4', '5', '6', '7', '8', '9'], var= 'AQ5_2')
+	
+	form.set_widget(labelTitle, (0,0))
+	form.set_widget(Q5, (0,1))
+	form.set_widget(labelspeaking,(0,2))
+	form.set_widget(AQ5_1,(0,3))
+	form.set_widget(labelunderstanding, (0,5))
+	form.set_widget(AQ5_2,(0,6))
+	
+	ContButton = widgets.button(form, text='Dalej')
+	form.set_widget(ContButton, (0,7))
+	__end__
+
+define loop T2_q5_loop
+	set source_file ""
+	set source table
+	set repeat 1
+	set order sequential
+	set description "Repeatedly runs another item"
+	set cycles 1
+	set continuous no
+	set break_if_on_first yes
+	set break_if never
+	setcycle 0 empty_column ""
+	run T2_q5_seq
+
+define sequence T2_q5_seq
+	set flush_keyboard yes
+	set description "Runs a number of items in sequence"
+	run T2_q5 always
+
+define inline_script T2_q6
+	set description "Executes Python code"
+	set _run "form._exec()"
+	___prepare__
+	form = widgets.form(exp)
+	# Create a form
+	form = widgets.form(exp, cols=[1,4,1], rows=[1,1,3,1],
+		margins=(100,100,100,100), spacing=25)
+	
+	# Create widgets
+	labelTitle = widgets.label(form, text='Pytanie 6 / 12', center=True)
+	
+	Q6 = widgets.label(form,text='Czy spędziłeś/-aś więcej lub mniej czasu, angażując się w naukę języka wilamowskiego w ciągu ostatniego roku niż wcześniej?', center=True)
+		
+	AQ6 = widgets.rating_scale(form, nodes=[
+		' o wiele mniej',
+		'  trochę mniej',
+		'      tak samo',
+		' trochę więcej',
+		'o wiele więcej'], orientation=u'vertical', var='AQ6')
+	
+	form.set_widget(labelTitle, (0,0), colspan=3)
+	form.set_widget(Q6, (0,1), colspan=3)
+	form.set_widget(AQ6, (2,2))
+	
+	
+	
+	
+	ContButton = widgets.button(form, text='Dalej')
+	form.set_widget(ContButton, (0,3), colspan=3)
+	__end__
+
+define loop T2_q6_loop
+	set source_file ""
+	set source table
+	set repeat 1
+	set order sequential
+	set description "Repeatedly runs another item"
+	set cycles 1
+	set continuous no
+	set break_if_on_first yes
+	set break_if never
+	setcycle 0 empty_column ""
+	run T2_q6_seq
+
+define sequence T2_q6_seq
+	set flush_keyboard yes
+	set description "Runs a number of items in sequence"
+	run T2_q6 always
+
+define inline_script T2_q7
+	set description "Executes Python code"
+	set _run "form._exec()"
+	___prepare__
+	form = widgets.form(exp)
+	# Create a form
+	form = widgets.form(exp, cols=[1,4,1], rows=[1,1,3,1],
+		margins=(100,100,100,100), spacing=25)
+	
+	# Create widgets
+	labelTitle = widgets.label(form, text='Pytanie 7 / 12', center=True)
+	
+	Q7 = widgets.label(form,text='Ile czasu spędzasz na naukę, czytanie i/lub pisanie po wilamowsku?',
+		center=True)
+		
+	AQ7 = widgets.rating_scale(form, nodes=[
+		'mniej niż 1 godzina tygodniowo',
+		'        1-2 godziny tygodniowo',
+		'        2-3 godziny tygodniowo',
+		'        3-4 godziny tygodniowo',
+		'         4-5 godzin tygodniowo',
+		'         5-6 godzin tygodniowo',
+		'         7-8 godzin w tygodniu',
+		'         8-9 godzin tygodniowo',
+		'9 lub więcej godzin tygodniowo',], orientation=u'vertical', var='AQ7')
+	
+	form.set_widget(labelTitle, (0,0), colspan=3)
+	form.set_widget(Q7, (0,1), colspan=3)
+	form.set_widget(AQ7, (2,2))
+	
+	
+	ContButton = widgets.button(form, text='Dalej')
+	form.set_widget(ContButton, (0,3), colspan=3)
+	__end__
+
+define loop T2_q7_loop
+	set source_file ""
+	set source table
+	set repeat 1
+	set order sequential
+	set description "Repeatedly runs another item"
+	set cycles 1
+	set continuous no
+	set break_if_on_first yes
+	set break_if never
+	setcycle 0 empty_column ""
+	run T2_q7_seq
+
+define sequence T2_q7_seq
+	set flush_keyboard yes
+	set description "Runs a number of items in sequence"
+	run T2_q7 always
+
+define inline_script T2_q8
+	set description "Executes Python code"
+	set _run "form._exec()"
+	___prepare__
+	form = widgets.form(exp)
+	# Create a form
+	form = widgets.form(exp, cols=[1,4,1], rows=[1,1,3,1],
+		margins=(100,100,100,100), spacing=25)
+	
+	# Create widgets
+	labelTitle = widgets.label(form, text='Pytanie 8 / 12', center=True)
+	
+	Q8 = widgets.label(form,text='W ciągu ostatniego roku rozmawiasz po wilamowsku czięściej lub rzadziej niż wcześniej?', center=True)
+		
+	AQ8 = widgets.rating_scale(form, nodes=[
+		' o wiele mniej',
+		'  trochę mniej',
+		'      tak samo',
+		' trochę więcej',
+		'o wiele więcej'], orientation=u'vertical', var='AQ8')
+	
+	form.set_widget(labelTitle, (0,0), colspan=3)
+	form.set_widget(Q8, (0,1), colspan=3)
+	form.set_widget(AQ8, (2,2))
+	
+	
+	
+	
+	ContButton = widgets.button(form, text='Dalej')
+	form.set_widget(ContButton, (0,3), colspan=3)
+	__end__
+
+define loop T2_q8_loop
+	set source_file ""
+	set source table
+	set repeat 1
+	set order sequential
+	set description "Repeatedly runs another item"
+	set cycles 1
+	set continuous no
+	set break_if_on_first yes
+	set break_if never
+	setcycle 0 empty_column ""
+	run T2_q8_seq
+
+define sequence T2_q8_seq
+	set flush_keyboard yes
+	set description "Runs a number of items in sequence"
+	run T2_q8 always
+
+define inline_script T2_q9
+	set description "Executes Python code"
+	___run__
+	form._exec()
+	__end__
+	___prepare__
+	form = widgets.form(exp)
+	# Create a form
+	form = widgets.form(exp, cols=[1,2,1], rows=[1,1,3,1],
+		margins=(50,100,50,100), spacing=25)
+	
+	# Create widgets
+	labelTitle = widgets.label(form, text='Pytanie 9 / 12')
+	
+	Q9_1 = widgets.label(form,text='Oszacuj, z iloma osobami rozmawiasz po wilamowsku:', center=False)
+		
+	AQ9_1 = widgets.text_input(form, stub=u'wpisz numer', var= 'AQ9_1')
+	
+	Q9_2 = widgets.label(form, text='Jak często mówisz po wilamowsku?', center=False)
+	
+	AQ9_2 = widgets.rating_scale(form, nodes=[
+		'               rzadko',
+		'       raz w tygodniu',
+		'kilka razy w tygodniu',
+		'         raz dziennie',
+		'  kilka razy dziennie'], orientation = u'vertical', var='AQ9_2')
+	
+	form.set_widget(labelTitle, (0,0), colspan=3)
+	form.set_widget(Q9_1, (0,1),colspan=2)
+	form.set_widget(AQ9_1, (2,1))
+	form.set_widget(Q9_2, (0,2))
+	form.set_widget(AQ9_2, (2,2))
+	
+	ContButton = widgets.button(form, text='Dalej')
+	form.set_widget(ContButton, (0,3), colspan=3)
+	__end__
+
+define loop T2_q9_loop
+	set source_file ""
+	set source table
+	set repeat 1
+	set order sequential
+	set description "Repeatedly runs another item"
+	set cycles 1
+	set continuous no
+	set break_if_on_first yes
+	set break_if never
+	setcycle 0 empty_column ""
+	run T2_q9_seq
+
+define sequence T2_q9_seq
+	set flush_keyboard yes
+	set description "Runs a number of items in sequence"
+	run T2_q9 always
+
+define loop T2_task1_loop
+	set source_file ""
+	set source table
+	set repeat 1
+	set order sequential
+	set description "Repeatedly runs another item"
+	set cycles 1
+	set continuous no
+	set break_if_on_first yes
+	set break_if never
+	setcycle 0 empty_column ""
+	run task1_Questionnaire_seq
+
+define form_text_display Witamy
+	set timeout infinite
+	set spacing 10
+	set rows "1;4;1"
+	set only_render no
+	set ok_text Dalej
+	set margins "50;50;50;50"
+	set form_title "<span size=24>Witamy!!!</span>"
+	__form_text__
+	Witamy w badaniu :: T2
+	
+	:-D
+	__end__
+	set description "A simple text display form"
+	set cols "1;1;1"
+	set _theme gray
+	widget 0 0 3 1 label text="[form_title]"
+	widget 0 1 3 1 label center=no text="[form_text]"
+	widget 1 2 1 1 button text="[ok_text]"
+
+
+define logger logger
+	set description "Logs experimental data"
+	set auto_log yes
+
+define sequence task1_Questionnaire_seq
+	set flush_keyboard yes
+	set description "Runs a number of items in sequence"
+	run task1_welcome always
+	run task1_instructions always
+	run T2_q1_loop always
+	run T2_q2_loop always
+	run T2_q3_loop always
+	run T2_q4_loop always
+	run T2_q5_loop always
+	run T2_q6_loop always
+	run T2_q7_loop always
+	run T2_q8_loop always
+	run T2_q9_loop always
+	run T2_q10_loop always
+	run T2_q11_loop always
+	run T2_q12_loop always
+	run task1_endtask always
+	run logger always
+
+define form_text_display task1_endtask
+	set timeout infinite
+	set spacing 10
+	set rows "1;4;1"
+	set only_render no
+	set ok_text "dalej do drugiego zadania"
+	set margins "50;50;50;50"
+	set form_title "<span size=24>Zakończ Zadanie 1</span>"
+	__form_text__
+	Ukończyłeś/-aś zadanie 1.
+	
+	:-D
+	
+	Weź teraz głęboki, rozluźniający oddech, policz do trzech i przejdź
+	__end__
+	set description "A simple text display form"
+	set cols "1;1;1"
+	set _theme gray
+	widget 0 0 3 1 label text="[form_title]"
+	widget 0 1 3 1 label center=no text="[form_text]"
+	widget 1 2 1 1 button text="[ok_text]"
+
+
+define form_text_display task1_instructions
+	set timeout infinite
+	set spacing 10
+	set rows "1;4;1"
+	set only_render no
+	set ok_text Dalej
+	set margins "50;50;50;50"
+	set form_title "<span size=24>Instrukcje</span>"
+	__form_text__
+	Odpowiedz na kilka pytań na temat twoich doświadczeń i opinii.
+	
+	W przypadku pytań, w których musisz wpisać tekst, naciśnij ENTER, aby kontynuować. Nie ma możliwości powrotu do poprzedniego pytania.
+	__end__
+	set description "A simple text display form"
+	set cols "1;1;1"
+	set _theme gray
+	widget 0 0 3 1 label text="[form_title]"
+	widget 0 1 3 1 label center=no text="[form_text]"
+	widget 1 2 1 1 button text="[ok_text]"
+
+
+define form_text_display task1_welcome
+	set timeout infinite
+	set spacing 10
+	set rows "1;4;1"
+	set only_render no
+	set ok_text "Rozpocznij zadanie 1"
+	set margins "50;50;50;50"
+	set form_title "<span size=24>Zadanie 1</span>"
+	set form_text Ankieta
+	set description "A simple text display form"
+	set cols "1;1;1"
+	set _theme gray
+	widget 0 0 3 1 label text="[form_title]"
+	widget 0 1 3 1 label center=no text="[form_text]"
+	widget 1 2 1 1 button text="[ok_text]"
+
+
