@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ANNOTATION_DOCUMENT AUTHOR="NESPOMILA - Robert Borges"
-    DATE="2023-03-07T09:55:33+01:00" FORMAT="3.0" VERSION="3.0"
+    DATE="2023-06-20T00:41:43+01:00" FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///home/bob/NESPOMILA/project-data/transcriptions/VidNar-b3-pear_csb_19_2022-06-29-14-24-21/L-VidNar-b3-pear_csb_19_2022-06-29-14-24-21.wav"
+            MEDIA_URL="file:///home/maciej/NESPOMILA/project-data/transcriptions/VidNar-b3-pear_csb_19_2022-06-29-14-24-21/L-VidNar-b3-pear_csb_19_2022-06-29-14-24-21.wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./L-VidNar-b3-pear_csb_19_2022-06-29-14-24-21.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:0bc68e7f-ff80-4675-b023-3e0de6092078</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">503</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">506</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
@@ -2679,19 +2679,19 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a289"
                 TIME_SLOT_REF1="ts791" TIME_SLOT_REF2="ts794">
-                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ti trzej knôpji</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a290"
                 TIME_SLOT_REF1="ts795" TIME_SLOT_REF2="ts798">
-                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>terô jedzõ kreszki</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a291"
                 TIME_SLOT_REF1="ts799" TIME_SLOT_REF2="ts804">
-                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ten pjerszi chłop, co zbjirôł te kreszkji terô zlôżô z drôbki</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2721,19 +2721,19 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a296"
                 TIME_SLOT_REF1="ts815" TIME_SLOT_REF2="ts818">
-                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>i vekłôdô</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a297"
                 TIME_SLOT_REF1="ts819" TIME_SLOT_REF2="ts822">
-                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>chce vekładac z szertucha</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a298"
                 TIME_SLOT_REF1="ts823" TIME_SLOT_REF2="ts826">
-                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pòsobné kreszkji, ale vjidzi, że jedna kipka mù feleje</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2757,7 +2757,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a302"
                 TIME_SLOT_REF1="ts833" TIME_SLOT_REF2="ts836">
-                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>dolebôk, dze je mòja kipka</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2781,7 +2781,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a306"
                 TIME_SLOT_REF1="ts843" TIME_SLOT_REF2="ts846">
-                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>vjidzec trzech pòmocnich knôpóv</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2805,7 +2805,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a310"
                 TIME_SLOT_REF1="ts853" TIME_SLOT_REF2="ts856">
-                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>jakji jedzõ kreszki</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2889,7 +2889,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a324"
                 TIME_SLOT_REF1="ts885" TIME_SLOT_REF2="ts888">
-                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kùńc</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3179,6 +3179,21 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a377" ANNOTATION_REF="a274">
                 <ANNOTATION_VALUE>P jednej dla, każdigo_téo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a504" ANNOTATION_REF="a290">
+                <ANNOTATION_VALUE>kreszki</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a505" ANNOTATION_REF="a291">
+                <ANNOTATION_VALUE>A zbjirôł, drôbki</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a506" ANNOTATION_REF="a310">
+                <ANNOTATION_VALUE>kreszki</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>

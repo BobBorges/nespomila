@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ANNOTATION_DOCUMENT AUTHOR="NESPOMILA - Robert Borges"
-    DATE="2023-03-07T10:16:32+01:00" FORMAT="3.0" VERSION="3.0"
+    DATE="2023-06-19T22:55:12+01:00" FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///home/bob/NESPOMILA/project-data/transcriptions/VidNar-pb-sc09_csb_12_2021-09-22-13-19-08/L-VidNar-pb-sc09_csb_12_2021-09-22-13-19-08.wav"
+            MEDIA_URL="file:///home/maciej/NESPOMILA/project-data/transcriptions/VidNar-pb-sc09_csb_12_2021-09-22-13-19-08/L-VidNar-pb-sc09_csb_12_2021-09-22-13-19-08.wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./L-VidNar-pb-sc09_csb_12_2021-09-22-13-19-08.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:4b789fe8-d416-43f6-a69e-b2e7a9b7e321</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">5</PROPERTY>

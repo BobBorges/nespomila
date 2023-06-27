@@ -20,12 +20,12 @@ Unless otherwise noted, all files are released under CC BY License.
 
 ** What's here?
 
-This will eventually be a host repository for everything related to the NESPOMILA project. Currently I'm carefully looking through he data to ensure research participants' privacy is respected
+This is a repository for everything related to the NESPOMILA project.
 
 
-*** `data/`
+*** `data/` | `data.zip`
 
-Data directory.
+Data directory. Sub directories may contain a README file with additional specification of contents.
 
 
 **** `csb-wiki/`
@@ -57,6 +57,10 @@ Counts of case and gender features used for the /New Speakers and Language Chang
 
 Transcribed audio data. Files are in Elan .eaf format. Audio files will be archived separately (under embargo for privacy reasons -- contact Robert Borges with interest).
 
+CSB-pilot_audio: 10.5281/zenodo.8005371
+NESPOMILA_audio: 10.5281/zenodo.8005339
+NSW-HVC_audio: 10.5281/zenodo.8005360
+
 
 **** `TROG/`
 
@@ -78,4 +82,4 @@ List of transcription files for recordings that were generated during the NESPOM
 List of transcription files for recordings that were generated during in-person fieldwork for the /New Speakers of Wymysorys/ post-doc at Hugo Valentin Centre, Uppsala University, 2017--2019
 
 
-*** `scripts/`
+

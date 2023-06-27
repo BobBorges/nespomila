@@ -59,6 +59,6 @@ do_CSB () {
 
 
 
-#do_NES
-#do_NSW
-#do_CSB
+do_NES
+do_NSW
+do_CSB

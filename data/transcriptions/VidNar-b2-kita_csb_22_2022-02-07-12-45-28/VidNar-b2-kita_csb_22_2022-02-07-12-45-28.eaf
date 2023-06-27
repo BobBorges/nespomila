@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ANNOTATION_DOCUMENT AUTHOR="NESPOMILA - Robert Borges"
-    DATE="2023-02-08T13:50:15+01:00" FORMAT="3.0" VERSION="3.0"
+    DATE="2023-06-21T00:55:00+01:00" FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
@@ -391,13 +391,13 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
                 TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
-                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>dvùch knôpóv na łõce, v parkù mòże, jeden zbjirô</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
                 TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
-                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>bale do vjôlgji drzevjani jakjisz kaste</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -409,7 +409,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
                 TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
-                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>z jakõ chòvje so mnjiszi i vecigô te bale i chòvje do tasze</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
